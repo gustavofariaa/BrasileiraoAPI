@@ -160,6 +160,10 @@ class Scraping:
         with open(path_data, 'w', encoding='utf-8') as file:
             json.dump(match_data, file, ensure_ascii=False, indent=4)
 
+        path_data = f'{path}round.json'
+        with open(path_data, 'a', encoding='utf-8') as file:
+            file.write(f'{match_id},')
+
         return match_data
 
     def __get_players_data(self, team_url):
@@ -296,3 +300,8 @@ class Scraping:
             team_away_id = match_data['away']['id']
             team_away_url = match_data['away']['url']
             self.get_team_data(team_away_id, team_away_url)
+
+        path_data = f'{self.__path}data.json'
+        timestamp = int(time.time())
+        with open(path_data, 'w', encoding='utf-8') as file:
+            file.write(str(timestamp))

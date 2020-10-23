@@ -5,6 +5,7 @@ __pycache__/
 
 # WebDriver
 chromedriver.exe
+data/
 
 # C extensions
 *.so
