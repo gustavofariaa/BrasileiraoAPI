@@ -1,0 +1,83 @@
+{
+    "id": "t8wKyo0g",
+    "home": {
+        "id": "hfAZyE0t",
+        "url": "https://www.flashscore.com/team/goias/hfAZyE0t",
+        "score": "1"
+    },
+    "away": {
+        "id": "tSCiHj0I",
+        "url": "https://www.flashscore.com/team/internacional/tSCiHj0I",
+        "score": "0"
+    },
+    "date": "13.09.2020 18:00",
+    "stadium": "Estádio da Serrinha (Goiania)",
+    "round": "10",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "21",
+            "away": "79"
+        },
+        "Goal Attempts": {
+            "home": "6",
+            "away": "15"
+        },
+        "Shots on Goal": {
+            "home": "1",
+            "away": "4"
+        },
+        "Shots off Goal": {
+            "home": "3",
+            "away": "5"
+        },
+        "Blocked Shots": {
+            "home": "2",
+            "away": "6"
+        },
+        "Free Kicks": {
+            "home": "17",
+            "away": "14"
+        },
+        "Corner Kicks": {
+            "home": "0",
+            "away": "12"
+        },
+        "Offsides": {
+            "home": "1",
+            "away": "5"
+        },
+        "Goalkeeper Saves": {
+            "home": "4",
+            "away": "0"
+        },
+        "Fouls": {
+            "home": "10",
+            "away": "14"
+        },
+        "Red Cards": {
+            "home": "1",
+            "away": "0"
+        },
+        "Yellow Cards": {
+            "home": "4",
+            "away": "3"
+        },
+        "Total Passes": {
+            "home": "168",
+            "away": "571"
+        },
+        "Tackles": {
+            "home": "7",
+            "away": "10"
+        },
+        "Attacks": {
+            "home": "47",
+            "away": "136"
+        },
+        "Dangerous Attacks": {
+            "home": "8",
+            "away": "126"
+        }
+    }
+}

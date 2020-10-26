@@ -1,0 +1,79 @@
+{
+    "id": "QXYamx0b",
+    "home": {
+        "id": "UoAxb1Tq",
+        "url": "https://www.flashscore.com/team/athletico-pr/UoAxb1Tq",
+        "score": "1"
+    },
+    "away": {
+        "id": "E1EFmhVh",
+        "url": "https://www.flashscore.com/team/gremio/E1EFmhVh",
+        "score": "2"
+    },
+    "date": "25.10.2020 18:15",
+    "stadium": "Arena da Baixada (Curitiba)",
+    "round": "18",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "64",
+            "away": "36"
+        },
+        "Goal Attempts": {
+            "home": "4",
+            "away": "8"
+        },
+        "Shots on Goal": {
+            "home": "1",
+            "away": "2"
+        },
+        "Shots off Goal": {
+            "home": "3",
+            "away": "6"
+        },
+        "Blocked Shots": {
+            "home": "0",
+            "away": "0"
+        },
+        "Free Kicks": {
+            "home": "11",
+            "away": "15"
+        },
+        "Corner Kicks": {
+            "home": "4",
+            "away": "2"
+        },
+        "Offsides": {
+            "home": "1",
+            "away": "1"
+        },
+        "Goalkeeper Saves": {
+            "home": "0",
+            "away": "0"
+        },
+        "Fouls": {
+            "home": "15",
+            "away": "11"
+        },
+        "Yellow Cards": {
+            "home": "3",
+            "away": "1"
+        },
+        "Total Passes": {
+            "home": "547",
+            "away": "289"
+        },
+        "Tackles": {
+            "home": "17",
+            "away": "18"
+        },
+        "Attacks": {
+            "home": "116",
+            "away": "81"
+        },
+        "Dangerous Attacks": {
+            "home": "38",
+            "away": "34"
+        }
+    }
+}

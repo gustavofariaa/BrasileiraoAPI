@@ -1,0 +1,79 @@
+{
+    "id": "UNAEyu1n",
+    "home": {
+        "id": "UeD7XtzM",
+        "url": "https://www.flashscore.com/team/bahia/UeD7XtzM",
+        "score": "3"
+    },
+    "away": {
+        "id": "hGLC5Bah",
+        "url": "https://www.flashscore.com/team/atletico-mg/hGLC5Bah",
+        "score": "1"
+    },
+    "date": "19.10.2020 20:00",
+    "stadium": "Arena Fonte Nova (Salvador)",
+    "round": "17",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "34",
+            "away": "66"
+        },
+        "Goal Attempts": {
+            "home": "13",
+            "away": "20"
+        },
+        "Shots on Goal": {
+            "home": "6",
+            "away": "4"
+        },
+        "Shots off Goal": {
+            "home": "4",
+            "away": "11"
+        },
+        "Blocked Shots": {
+            "home": "3",
+            "away": "5"
+        },
+        "Free Kicks": {
+            "home": "15",
+            "away": "15"
+        },
+        "Corner Kicks": {
+            "home": "2",
+            "away": "8"
+        },
+        "Offsides": {
+            "home": "1",
+            "away": "1"
+        },
+        "Goalkeeper Saves": {
+            "home": "3",
+            "away": "3"
+        },
+        "Fouls": {
+            "home": "14",
+            "away": "14"
+        },
+        "Yellow Cards": {
+            "home": "4",
+            "away": "1"
+        },
+        "Total Passes": {
+            "home": "294",
+            "away": "553"
+        },
+        "Tackles": {
+            "home": "12",
+            "away": "17"
+        },
+        "Attacks": {
+            "home": "74",
+            "away": "147"
+        },
+        "Dangerous Attacks": {
+            "home": "26",
+            "away": "77"
+        }
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "id": "KC3RYxo5",
+    "home": {
+        "id": "8M0mP8nt",
+        "url": "https://www.flashscore.com/team/atletico-go/8M0mP8nt",
+        "score": "1"
+    },
+    "away": {
+        "id": "UoAxb1Tq",
+        "url": "https://www.flashscore.com/team/athletico-pr/UoAxb1Tq",
+        "score": "1"
+    },
+    "date": "17.10.2020 19:00",
+    "stadium": "Estadio Olimpico Pedro Ludovico (Goiânia)",
+    "round": "17",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "37",
+            "away": "63"
+        },
+        "Goal Attempts": {
+            "home": "11",
+            "away": "17"
+        },
+        "Shots on Goal": {
+            "home": "1",
+            "away": "6"
+        },
+        "Shots off Goal": {
+            "home": "8",
+            "away": "7"
+        },
+        "Blocked Shots": {
+            "home": "2",
+            "away": "4"
+        },
+        "Free Kicks": {
+            "home": "21",
+            "away": "12"
+        },
+        "Corner Kicks": {
+            "home": "2",
+            "away": "11"
+        },
+        "Offsides": {
+            "home": "1",
+            "away": "2"
+        },
+        "Goalkeeper Saves": {
+            "home": "5",
+            "away": "0"
+        },
+        "Fouls": {
+            "home": "10",
+            "away": "20"
+        },
+        "Red Cards": {
+            "home": "2",
+            "away": "0"
+        },
+        "Yellow Cards": {
+            "home": "3",
+            "away": "5"
+        },
+        "Total Passes": {
+            "home": "271",
+            "away": "454"
+        },
+        "Tackles": {
+            "home": "11",
+            "away": "13"
+        },
+        "Attacks": {
+            "home": "77",
+            "away": "118"
+        },
+        "Dangerous Attacks": {
+            "home": "33",
+            "away": "76"
+        }
+    }
+}

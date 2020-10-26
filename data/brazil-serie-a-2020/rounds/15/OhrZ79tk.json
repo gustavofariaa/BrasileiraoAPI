@@ -1,0 +1,79 @@
+{
+    "id": "OhrZ79tk",
+    "home": {
+        "id": "2RABlYFn",
+        "url": "https://www.flashscore.com/team/vasco/2RABlYFn",
+        "score": "1"
+    },
+    "away": {
+        "id": "WjxY29qB",
+        "url": "https://www.flashscore.com/team/flamengo-rj/WjxY29qB",
+        "score": "2"
+    },
+    "date": "10.10.2020 17:00",
+    "stadium": "Estádio Vasco da Gama (Rio de Janeiro)",
+    "round": "15",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "38",
+            "away": "62"
+        },
+        "Goal Attempts": {
+            "home": "13",
+            "away": "8"
+        },
+        "Shots on Goal": {
+            "home": "4",
+            "away": "3"
+        },
+        "Shots off Goal": {
+            "home": "6",
+            "away": "2"
+        },
+        "Blocked Shots": {
+            "home": "3",
+            "away": "3"
+        },
+        "Free Kicks": {
+            "home": "25",
+            "away": "15"
+        },
+        "Corner Kicks": {
+            "home": "5",
+            "away": "5"
+        },
+        "Offsides": {
+            "home": "3",
+            "away": "2"
+        },
+        "Goalkeeper Saves": {
+            "home": "1",
+            "away": "3"
+        },
+        "Fouls": {
+            "home": "14",
+            "away": "25"
+        },
+        "Yellow Cards": {
+            "home": "2",
+            "away": "5"
+        },
+        "Total Passes": {
+            "home": "349",
+            "away": "573"
+        },
+        "Tackles": {
+            "home": "15",
+            "away": "14"
+        },
+        "Attacks": {
+            "home": "90",
+            "away": "150"
+        },
+        "Dangerous Attacks": {
+            "home": "41",
+            "away": "61"
+        }
+    }
+}

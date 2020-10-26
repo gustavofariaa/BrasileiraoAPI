@@ -1,0 +1,79 @@
+{
+    "id": "lCk83fk3",
+    "home": {
+        "id": "UeD7XtzM",
+        "url": "https://www.flashscore.com/team/bahia/UeD7XtzM",
+        "score": "1"
+    },
+    "away": {
+        "id": "KIBeGAFO",
+        "url": "https://www.flashscore.com/team/sport-recife/KIBeGAFO",
+        "score": "2"
+    },
+    "date": "04.10.2020 18:15",
+    "stadium": "Arena Fonte Nova (Salvador)",
+    "round": "13",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "59",
+            "away": "41"
+        },
+        "Goal Attempts": {
+            "home": "23",
+            "away": "5"
+        },
+        "Shots on Goal": {
+            "home": "11",
+            "away": "2"
+        },
+        "Shots off Goal": {
+            "home": "8",
+            "away": "2"
+        },
+        "Blocked Shots": {
+            "home": "4",
+            "away": "1"
+        },
+        "Free Kicks": {
+            "home": "12",
+            "away": "17"
+        },
+        "Corner Kicks": {
+            "home": "11",
+            "away": "0"
+        },
+        "Offsides": {
+            "home": "2",
+            "away": "0"
+        },
+        "Goalkeeper Saves": {
+            "home": "0",
+            "away": "10"
+        },
+        "Fouls": {
+            "home": "15",
+            "away": "13"
+        },
+        "Yellow Cards": {
+            "home": "2",
+            "away": "3"
+        },
+        "Total Passes": {
+            "home": "486",
+            "away": "361"
+        },
+        "Tackles": {
+            "home": "14",
+            "away": "17"
+        },
+        "Attacks": {
+            "home": "156",
+            "away": "73"
+        },
+        "Dangerous Attacks": {
+            "home": "75",
+            "away": "28"
+        }
+    }
+}

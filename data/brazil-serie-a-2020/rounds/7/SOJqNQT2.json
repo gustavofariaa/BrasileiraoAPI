@@ -1,0 +1,79 @@
+{
+    "id": "SOJqNQT2",
+    "home": {
+        "id": "E1EFmhVh",
+        "url": "https://www.flashscore.com/team/gremio/E1EFmhVh",
+        "score": "1"
+    },
+    "away": {
+        "id": "KIBeGAFO",
+        "url": "https://www.flashscore.com/team/sport-recife/KIBeGAFO",
+        "score": "2"
+    },
+    "date": "03.09.2020 19:00",
+    "stadium": "Arena do Grêmio (Porto Alegre)",
+    "round": "7",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "72",
+            "away": "28"
+        },
+        "Goal Attempts": {
+            "home": "28",
+            "away": "5"
+        },
+        "Shots on Goal": {
+            "home": "7",
+            "away": "3"
+        },
+        "Shots off Goal": {
+            "home": "15",
+            "away": "2"
+        },
+        "Blocked Shots": {
+            "home": "6",
+            "away": "0"
+        },
+        "Free Kicks": {
+            "home": "12",
+            "away": "10"
+        },
+        "Corner Kicks": {
+            "home": "11",
+            "away": "1"
+        },
+        "Offsides": {
+            "home": "1",
+            "away": "1"
+        },
+        "Goalkeeper Saves": {
+            "home": "1",
+            "away": "6"
+        },
+        "Fouls": {
+            "home": "10",
+            "away": "11"
+        },
+        "Yellow Cards": {
+            "home": "1",
+            "away": "5"
+        },
+        "Total Passes": {
+            "home": "676",
+            "away": "274"
+        },
+        "Tackles": {
+            "home": "5",
+            "away": "15"
+        },
+        "Attacks": {
+            "home": "194",
+            "away": "67"
+        },
+        "Dangerous Attacks": {
+            "home": "99",
+            "away": "14"
+        }
+    }
+}

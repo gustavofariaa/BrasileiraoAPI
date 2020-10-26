@@ -1,0 +1,79 @@
+{
+    "id": "p82eeHvg",
+    "home": {
+        "id": "p0JrJCV5",
+        "url": "https://www.flashscore.com/team/ceara/p0JrJCV5",
+        "score": "0"
+    },
+    "away": {
+        "id": "2RABlYFn",
+        "url": "https://www.flashscore.com/team/vasco/2RABlYFn",
+        "score": "3"
+    },
+    "date": "20.08.2020 20:00",
+    "stadium": "Castelão (Fortaleza)",
+    "round": "4",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "58",
+            "away": "42"
+        },
+        "Goal Attempts": {
+            "home": "14",
+            "away": "6"
+        },
+        "Shots on Goal": {
+            "home": "2",
+            "away": "5"
+        },
+        "Shots off Goal": {
+            "home": "1",
+            "away": "0"
+        },
+        "Blocked Shots": {
+            "home": "11",
+            "away": "1"
+        },
+        "Free Kicks": {
+            "home": "16",
+            "away": "18"
+        },
+        "Corner Kicks": {
+            "home": "13",
+            "away": "2"
+        },
+        "Offsides": {
+            "home": "1",
+            "away": "2"
+        },
+        "Goalkeeper Saves": {
+            "home": "2",
+            "away": "2"
+        },
+        "Fouls": {
+            "home": "18",
+            "away": "14"
+        },
+        "Yellow Cards": {
+            "home": "3",
+            "away": "3"
+        },
+        "Total Passes": {
+            "home": "480",
+            "away": "361"
+        },
+        "Tackles": {
+            "home": "18",
+            "away": "18"
+        },
+        "Attacks": {
+            "home": "145",
+            "away": "84"
+        },
+        "Dangerous Attacks": {
+            "home": "70",
+            "away": "15"
+        }
+    }
+}

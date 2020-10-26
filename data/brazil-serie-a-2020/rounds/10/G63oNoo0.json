@@ -1,0 +1,79 @@
+{
+    "id": "G63oNoo0",
+    "home": {
+        "id": "jXzWoWa5",
+        "url": "https://www.flashscore.com/team/botafogo-rj/jXzWoWa5",
+        "score": "2"
+    },
+    "away": {
+        "id": "2RABlYFn",
+        "url": "https://www.flashscore.com/team/vasco/2RABlYFn",
+        "score": "3"
+    },
+    "date": "13.09.2020 20:30",
+    "stadium": "Estadio Olimpico Nilton Santos (Rio de Janeiro)",
+    "round": "10",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "50",
+            "away": "50"
+        },
+        "Goal Attempts": {
+            "home": "25",
+            "away": "14"
+        },
+        "Shots on Goal": {
+            "home": "9",
+            "away": "6"
+        },
+        "Shots off Goal": {
+            "home": "12",
+            "away": "5"
+        },
+        "Blocked Shots": {
+            "home": "4",
+            "away": "3"
+        },
+        "Free Kicks": {
+            "home": "11",
+            "away": "18"
+        },
+        "Corner Kicks": {
+            "home": "5",
+            "away": "4"
+        },
+        "Offsides": {
+            "home": "0",
+            "away": "2"
+        },
+        "Goalkeeper Saves": {
+            "home": "3",
+            "away": "7"
+        },
+        "Fouls": {
+            "home": "18",
+            "away": "8"
+        },
+        "Yellow Cards": {
+            "home": "2",
+            "away": "2"
+        },
+        "Total Passes": {
+            "home": "428",
+            "away": "443"
+        },
+        "Tackles": {
+            "home": "12",
+            "away": "15"
+        },
+        "Attacks": {
+            "home": "108",
+            "away": "120"
+        },
+        "Dangerous Attacks": {
+            "home": "54",
+            "away": "33"
+        }
+    }
+}

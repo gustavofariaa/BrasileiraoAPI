@@ -1,0 +1,79 @@
+{
+    "id": "CGycaNyd",
+    "home": {
+        "id": "n3QdnjFB",
+        "url": "https://www.flashscore.com/team/santos/n3QdnjFB",
+        "score": "2"
+    },
+    "away": {
+        "id": "2RABlYFn",
+        "url": "https://www.flashscore.com/team/vasco/2RABlYFn",
+        "score": "2"
+    },
+    "date": "02.09.2020 21:30",
+    "stadium": "Estadio Vila Belmiro (Santos)",
+    "round": "7",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "62",
+            "away": "38"
+        },
+        "Goal Attempts": {
+            "home": "11",
+            "away": "9"
+        },
+        "Shots on Goal": {
+            "home": "5",
+            "away": "3"
+        },
+        "Shots off Goal": {
+            "home": "3",
+            "away": "3"
+        },
+        "Blocked Shots": {
+            "home": "3",
+            "away": "3"
+        },
+        "Free Kicks": {
+            "home": "21",
+            "away": "21"
+        },
+        "Corner Kicks": {
+            "home": "9",
+            "away": "2"
+        },
+        "Offsides": {
+            "home": "2",
+            "away": "1"
+        },
+        "Goalkeeper Saves": {
+            "home": "1",
+            "away": "3"
+        },
+        "Fouls": {
+            "home": "17",
+            "away": "21"
+        },
+        "Yellow Cards": {
+            "home": "1",
+            "away": "3"
+        },
+        "Total Passes": {
+            "home": "409",
+            "away": "263"
+        },
+        "Tackles": {
+            "home": "15",
+            "away": "13"
+        },
+        "Attacks": {
+            "home": "98",
+            "away": "71"
+        },
+        "Dangerous Attacks": {
+            "home": "35",
+            "away": "27"
+        }
+    }
+}

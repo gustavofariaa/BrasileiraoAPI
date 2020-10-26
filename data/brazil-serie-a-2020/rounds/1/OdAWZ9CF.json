@@ -1,0 +1,75 @@
+{
+    "id": "OdAWZ9CF",
+    "home": {
+        "id": "KIBeGAFO",
+        "url": "https://www.flashscore.com/team/sport-recife/KIBeGAFO",
+        "score": "3"
+    },
+    "away": {
+        "id": "p0JrJCV5",
+        "url": "https://www.flashscore.com/team/ceara/p0JrJCV5",
+        "score": "2"
+    },
+    "date": "08.08.2020 21:00",
+    "stadium": "Estádio Ilha do Retiro (Recife)",
+    "round": "1",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "40",
+            "away": "60"
+        },
+        "Goal Attempts": {
+            "home": "8",
+            "away": "9"
+        },
+        "Shots on Goal": {
+            "home": "4",
+            "away": "5"
+        },
+        "Shots off Goal": {
+            "home": "4",
+            "away": "4"
+        },
+        "Blocked Shots": {
+            "home": "2",
+            "away": "2"
+        },
+        "Free Kicks": {
+            "home": "18",
+            "away": "18"
+        },
+        "Corner Kicks": {
+            "home": "2",
+            "away": "4"
+        },
+        "Offsides": {
+            "home": "3",
+            "away": "0"
+        },
+        "Throw-in": {
+            "home": "18",
+            "away": "18"
+        },
+        "Goalkeeper Saves": {
+            "home": "3",
+            "away": "1"
+        },
+        "Fouls": {
+            "home": "15",
+            "away": "18"
+        },
+        "Yellow Cards": {
+            "home": "3",
+            "away": "3"
+        },
+        "Total Passes": {
+            "home": "324",
+            "away": "487"
+        },
+        "Tackles": {
+            "home": "17",
+            "away": "16"
+        }
+    }
+}

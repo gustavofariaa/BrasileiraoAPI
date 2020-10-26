@@ -1,0 +1,79 @@
+{
+    "id": "dIUwP1Ht",
+    "home": {
+        "id": "KIBeGAFO",
+        "url": "https://www.flashscore.com/team/sport-recife/KIBeGAFO",
+        "score": "3"
+    },
+    "away": {
+        "id": "tSCiHj0I",
+        "url": "https://www.flashscore.com/team/internacional/tSCiHj0I",
+        "score": "5"
+    },
+    "date": "14.10.2020 21:30",
+    "stadium": "Estádio Ilha do Retiro (Recife)",
+    "round": "16",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "49",
+            "away": "51"
+        },
+        "Goal Attempts": {
+            "home": "13",
+            "away": "14"
+        },
+        "Shots on Goal": {
+            "home": "5",
+            "away": "8"
+        },
+        "Shots off Goal": {
+            "home": "6",
+            "away": "5"
+        },
+        "Blocked Shots": {
+            "home": "2",
+            "away": "1"
+        },
+        "Free Kicks": {
+            "home": "21",
+            "away": "7"
+        },
+        "Corner Kicks": {
+            "home": "2",
+            "away": "7"
+        },
+        "Offsides": {
+            "home": "1",
+            "away": "3"
+        },
+        "Goalkeeper Saves": {
+            "home": "3",
+            "away": "2"
+        },
+        "Fouls": {
+            "home": "6",
+            "away": "19"
+        },
+        "Yellow Cards": {
+            "home": "3",
+            "away": "2"
+        },
+        "Total Passes": {
+            "home": "437",
+            "away": "445"
+        },
+        "Tackles": {
+            "home": "9",
+            "away": "18"
+        },
+        "Attacks": {
+            "home": "93",
+            "away": "98"
+        },
+        "Dangerous Attacks": {
+            "home": "31",
+            "away": "43"
+        }
+    }
+}

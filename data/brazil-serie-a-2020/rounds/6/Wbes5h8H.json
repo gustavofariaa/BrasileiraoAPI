@@ -1,0 +1,79 @@
+{
+    "id": "Wbes5h8H",
+    "home": {
+        "id": "jXzWoWa5",
+        "url": "https://www.flashscore.com/team/botafogo-rj/jXzWoWa5",
+        "score": "0"
+    },
+    "away": {
+        "id": "tSCiHj0I",
+        "url": "https://www.flashscore.com/team/internacional/tSCiHj0I",
+        "score": "2"
+    },
+    "date": "29.08.2020 17:00",
+    "stadium": "Estadio Olimpico Nilton Santos (Rio de Janeiro)",
+    "round": "6",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "49",
+            "away": "51"
+        },
+        "Goal Attempts": {
+            "home": "7",
+            "away": "7"
+        },
+        "Shots on Goal": {
+            "home": "2",
+            "away": "4"
+        },
+        "Shots off Goal": {
+            "home": "4",
+            "away": "2"
+        },
+        "Blocked Shots": {
+            "home": "1",
+            "away": "1"
+        },
+        "Free Kicks": {
+            "home": "26",
+            "away": "16"
+        },
+        "Corner Kicks": {
+            "home": "5",
+            "away": "3"
+        },
+        "Offsides": {
+            "home": "2",
+            "away": "2"
+        },
+        "Goalkeeper Saves": {
+            "home": "2",
+            "away": "2"
+        },
+        "Fouls": {
+            "home": "14",
+            "away": "24"
+        },
+        "Yellow Cards": {
+            "home": "3",
+            "away": "1"
+        },
+        "Total Passes": {
+            "home": "472",
+            "away": "512"
+        },
+        "Tackles": {
+            "home": "9",
+            "away": "12"
+        },
+        "Attacks": {
+            "home": "104",
+            "away": "106"
+        },
+        "Dangerous Attacks": {
+            "home": "29",
+            "away": "28"
+        }
+    }
+}

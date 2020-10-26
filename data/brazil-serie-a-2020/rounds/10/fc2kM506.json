@@ -1,0 +1,83 @@
+{
+    "id": "fc2kM506",
+    "home": {
+        "id": "hMn9FTbH",
+        "url": "https://www.flashscore.com/team/palmeiras/hMn9FTbH",
+        "score": "2"
+    },
+    "away": {
+        "id": "KIBeGAFO",
+        "url": "https://www.flashscore.com/team/sport-recife/KIBeGAFO",
+        "score": "2"
+    },
+    "date": "13.09.2020 19:45",
+    "stadium": "Allianz Parque (Sao Paulo)",
+    "round": "10",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "64",
+            "away": "36"
+        },
+        "Goal Attempts": {
+            "home": "20",
+            "away": "9"
+        },
+        "Shots on Goal": {
+            "home": "7",
+            "away": "4"
+        },
+        "Shots off Goal": {
+            "home": "7",
+            "away": "3"
+        },
+        "Blocked Shots": {
+            "home": "6",
+            "away": "2"
+        },
+        "Free Kicks": {
+            "home": "14",
+            "away": "17"
+        },
+        "Corner Kicks": {
+            "home": "6",
+            "away": "2"
+        },
+        "Offsides": {
+            "home": "3",
+            "away": "1"
+        },
+        "Goalkeeper Saves": {
+            "home": "2",
+            "away": "5"
+        },
+        "Fouls": {
+            "home": "15",
+            "away": "12"
+        },
+        "Red Cards": {
+            "home": "1",
+            "away": "1"
+        },
+        "Yellow Cards": {
+            "home": "3",
+            "away": "3"
+        },
+        "Total Passes": {
+            "home": "557",
+            "away": "316"
+        },
+        "Tackles": {
+            "home": "15",
+            "away": "9"
+        },
+        "Attacks": {
+            "home": "139",
+            "away": "65"
+        },
+        "Dangerous Attacks": {
+            "home": "55",
+            "away": "20"
+        }
+    }
+}

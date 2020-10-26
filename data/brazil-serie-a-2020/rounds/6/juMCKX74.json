@@ -1,0 +1,83 @@
+{
+    "id": "juMCKX74",
+    "home": {
+        "id": "42FbPIs2",
+        "url": "https://www.flashscore.com/team/fortaleza/42FbPIs2",
+        "score": "3"
+    },
+    "away": {
+        "id": "jwKvKhGa",
+        "url": "https://www.flashscore.com/team/bragantino/jwKvKhGa",
+        "score": "0"
+    },
+    "date": "29.08.2020 21:00",
+    "stadium": "Estadio Presidente Vargas (Fortaleza)",
+    "round": "6",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "59",
+            "away": "41"
+        },
+        "Goal Attempts": {
+            "home": "13",
+            "away": "6"
+        },
+        "Shots on Goal": {
+            "home": "6",
+            "away": "2"
+        },
+        "Shots off Goal": {
+            "home": "6",
+            "away": "3"
+        },
+        "Blocked Shots": {
+            "home": "1",
+            "away": "1"
+        },
+        "Free Kicks": {
+            "home": "11",
+            "away": "20"
+        },
+        "Corner Kicks": {
+            "home": "3",
+            "away": "4"
+        },
+        "Offsides": {
+            "home": "0",
+            "away": "1"
+        },
+        "Goalkeeper Saves": {
+            "home": "2",
+            "away": "3"
+        },
+        "Fouls": {
+            "home": "22",
+            "away": "10"
+        },
+        "Red Cards": {
+            "home": "0",
+            "away": "1"
+        },
+        "Yellow Cards": {
+            "home": "2",
+            "away": "2"
+        },
+        "Total Passes": {
+            "home": "567",
+            "away": "387"
+        },
+        "Tackles": {
+            "home": "12",
+            "away": "16"
+        },
+        "Attacks": {
+            "home": "116",
+            "away": "111"
+        },
+        "Dangerous Attacks": {
+            "home": "34",
+            "away": "30"
+        }
+    }
+}

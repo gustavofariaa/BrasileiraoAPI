@@ -1,0 +1,79 @@
+{
+    "id": "dtT3Mgwh",
+    "home": {
+        "id": "UeD7XtzM",
+        "url": "https://www.flashscore.com/team/bahia/UeD7XtzM",
+        "score": "1"
+    },
+    "away": {
+        "id": "hMn9FTbH",
+        "url": "https://www.flashscore.com/team/palmeiras/hMn9FTbH",
+        "score": "1"
+    },
+    "date": "29.08.2020 19:00",
+    "stadium": "Arena Fonte Nova (Salvador)",
+    "round": "6",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "49",
+            "away": "51"
+        },
+        "Goal Attempts": {
+            "home": "9",
+            "away": "11"
+        },
+        "Shots on Goal": {
+            "home": "1",
+            "away": "5"
+        },
+        "Shots off Goal": {
+            "home": "1",
+            "away": "3"
+        },
+        "Blocked Shots": {
+            "home": "7",
+            "away": "3"
+        },
+        "Free Kicks": {
+            "home": "20",
+            "away": "17"
+        },
+        "Corner Kicks": {
+            "home": "8",
+            "away": "2"
+        },
+        "Offsides": {
+            "home": "1",
+            "away": "4"
+        },
+        "Goalkeeper Saves": {
+            "home": "4",
+            "away": "0"
+        },
+        "Fouls": {
+            "home": "15",
+            "away": "16"
+        },
+        "Yellow Cards": {
+            "home": "2",
+            "away": "2"
+        },
+        "Total Passes": {
+            "home": "420",
+            "away": "454"
+        },
+        "Tackles": {
+            "home": "10",
+            "away": "19"
+        },
+        "Attacks": {
+            "home": "103",
+            "away": "109"
+        },
+        "Dangerous Attacks": {
+            "home": "39",
+            "away": "38"
+        }
+    }
+}

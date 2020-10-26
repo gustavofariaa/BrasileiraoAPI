@@ -1,0 +1,87 @@
+{
+    "id": "8GCLuicd",
+    "home": {
+        "id": "hGLC5Bah",
+        "url": "https://www.flashscore.com/team/atletico-mg/hGLC5Bah",
+        "score": "4"
+    },
+    "away": {
+        "id": "2RABlYFn",
+        "url": "https://www.flashscore.com/team/vasco/2RABlYFn",
+        "score": "1"
+    },
+    "date": "04.10.2020 20:30",
+    "stadium": "Estádio Raimundo Sampaio (Belo Horizonte)",
+    "round": "13",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "60",
+            "away": "40"
+        },
+        "Goal Attempts": {
+            "home": "20",
+            "away": "5"
+        },
+        "Shots on Goal": {
+            "home": "7",
+            "away": "2"
+        },
+        "Shots off Goal": {
+            "home": "10",
+            "away": "2"
+        },
+        "Blocked Shots": {
+            "home": "3",
+            "away": "1"
+        },
+        "Free Kicks": {
+            "home": "10",
+            "away": "26"
+        },
+        "Corner Kicks": {
+            "home": "6",
+            "away": "3"
+        },
+        "Offsides": {
+            "home": "4",
+            "away": "2"
+        },
+        "Throw-in": {
+            "home": "5",
+            "away": "0"
+        },
+        "Goalkeeper Saves": {
+            "home": "1",
+            "away": "3"
+        },
+        "Fouls": {
+            "home": "24",
+            "away": "10"
+        },
+        "Red Cards": {
+            "home": "0",
+            "away": "1"
+        },
+        "Yellow Cards": {
+            "home": "3",
+            "away": "4"
+        },
+        "Total Passes": {
+            "home": "482",
+            "away": "319"
+        },
+        "Tackles": {
+            "home": "19",
+            "away": "14"
+        },
+        "Attacks": {
+            "home": "67",
+            "away": "55"
+        },
+        "Dangerous Attacks": {
+            "home": "48",
+            "away": "20"
+        }
+    }
+}

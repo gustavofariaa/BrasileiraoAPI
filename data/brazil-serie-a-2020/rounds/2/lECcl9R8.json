@@ -1,0 +1,83 @@
+{
+    "id": "lECcl9R8",
+    "home": {
+        "id": "UeD7XtzM",
+        "url": "https://www.flashscore.com/team/bahia/UeD7XtzM",
+        "score": "1"
+    },
+    "away": {
+        "id": "KGO4pUqO",
+        "url": "https://www.flashscore.com/team/coritiba/KGO4pUqO",
+        "score": "0"
+    },
+    "date": "12.08.2020 20:30",
+    "stadium": "Arena Fonte Nova (Salvador)",
+    "round": "2",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "46",
+            "away": "54"
+        },
+        "Goal Attempts": {
+            "home": "12",
+            "away": "12"
+        },
+        "Shots on Goal": {
+            "home": "5",
+            "away": "3"
+        },
+        "Shots off Goal": {
+            "home": "7",
+            "away": "9"
+        },
+        "Blocked Shots": {
+            "home": "0",
+            "away": "3"
+        },
+        "Free Kicks": {
+            "home": "20",
+            "away": "17"
+        },
+        "Corner Kicks": {
+            "home": "3",
+            "away": "8"
+        },
+        "Offsides": {
+            "home": "1",
+            "away": "5"
+        },
+        "Throw-in": {
+            "home": "14",
+            "away": "11"
+        },
+        "Goalkeeper Saves": {
+            "home": "3",
+            "away": "4"
+        },
+        "Fouls": {
+            "home": "16",
+            "away": "18"
+        },
+        "Yellow Cards": {
+            "home": "0",
+            "away": "5"
+        },
+        "Total Passes": {
+            "home": "420",
+            "away": "486"
+        },
+        "Tackles": {
+            "home": "21",
+            "away": "15"
+        },
+        "Attacks": {
+            "home": "81",
+            "away": "72"
+        },
+        "Dangerous Attacks": {
+            "home": "39",
+            "away": "54"
+        }
+    }
+}

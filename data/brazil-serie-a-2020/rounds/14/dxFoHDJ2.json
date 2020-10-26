@@ -1,0 +1,79 @@
+{
+    "id": "dxFoHDJ2",
+    "home": {
+        "id": "E1EFmhVh",
+        "url": "https://www.flashscore.com/team/gremio/E1EFmhVh",
+        "score": "2"
+    },
+    "away": {
+        "id": "KGO4pUqO",
+        "url": "https://www.flashscore.com/team/coritiba/KGO4pUqO",
+        "score": "1"
+    },
+    "date": "07.10.2020 19:15",
+    "stadium": "Arena do Grêmio (Porto Alegre)",
+    "round": "14",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "49",
+            "away": "51"
+        },
+        "Goal Attempts": {
+            "home": "11",
+            "away": "13"
+        },
+        "Shots on Goal": {
+            "home": "5",
+            "away": "3"
+        },
+        "Shots off Goal": {
+            "home": "4",
+            "away": "6"
+        },
+        "Blocked Shots": {
+            "home": "2",
+            "away": "4"
+        },
+        "Free Kicks": {
+            "home": "24",
+            "away": "17"
+        },
+        "Corner Kicks": {
+            "home": "6",
+            "away": "6"
+        },
+        "Offsides": {
+            "home": "1",
+            "away": "4"
+        },
+        "Goalkeeper Saves": {
+            "home": "2",
+            "away": "3"
+        },
+        "Fouls": {
+            "home": "18",
+            "away": "21"
+        },
+        "Yellow Cards": {
+            "home": "2",
+            "away": "2"
+        },
+        "Total Passes": {
+            "home": "466",
+            "away": "475"
+        },
+        "Tackles": {
+            "home": "16",
+            "away": "16"
+        },
+        "Attacks": {
+            "home": "134",
+            "away": "115"
+        },
+        "Dangerous Attacks": {
+            "home": "45",
+            "away": "40"
+        }
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "id": "rHL7RoKe",
+    "home": {
+        "id": "jwKvKhGa",
+        "url": "https://www.flashscore.com/team/bragantino/jwKvKhGa",
+        "score": "1"
+    },
+    "away": {
+        "id": "jXzWoWa5",
+        "url": "https://www.flashscore.com/team/botafogo-rj/jXzWoWa5",
+        "score": "1"
+    },
+    "date": "12.08.2020 19:15",
+    "stadium": "Estádio Nabi Abi Chedid (Bragança Paulista)",
+    "round": "2",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "54",
+            "away": "46"
+        },
+        "Goal Attempts": {
+            "home": "23",
+            "away": "9"
+        },
+        "Shots on Goal": {
+            "home": "8",
+            "away": "3"
+        },
+        "Shots off Goal": {
+            "home": "12",
+            "away": "6"
+        },
+        "Blocked Shots": {
+            "home": "3",
+            "away": "0"
+        },
+        "Free Kicks": {
+            "home": "9",
+            "away": "12"
+        },
+        "Corner Kicks": {
+            "home": "12",
+            "away": "3"
+        },
+        "Offsides": {
+            "home": "1",
+            "away": "2"
+        },
+        "Throw-in": {
+            "home": "13",
+            "away": "12"
+        },
+        "Goalkeeper Saves": {
+            "home": "2",
+            "away": "7"
+        },
+        "Fouls": {
+            "home": "13",
+            "away": "8"
+        },
+        "Yellow Cards": {
+            "home": "3",
+            "away": "1"
+        },
+        "Total Passes": {
+            "home": "558",
+            "away": "472"
+        },
+        "Tackles": {
+            "home": "15",
+            "away": "9"
+        },
+        "Attacks": {
+            "home": "142",
+            "away": "98"
+        },
+        "Dangerous Attacks": {
+            "home": "120",
+            "away": "50"
+        }
+    }
+}

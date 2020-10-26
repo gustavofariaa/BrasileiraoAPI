@@ -1,0 +1,79 @@
+{
+    "id": "4lLjRxQC",
+    "home": {
+        "id": "n3QdnjFB",
+        "url": "https://www.flashscore.com/team/santos/n3QdnjFB",
+        "score": "3"
+    },
+    "away": {
+        "id": "UoAxb1Tq",
+        "url": "https://www.flashscore.com/team/athletico-pr/UoAxb1Tq",
+        "score": "1"
+    },
+    "date": "16.08.2020 19:45",
+    "stadium": "Estadio Vila Belmiro (Santos)",
+    "round": "3",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "33",
+            "away": "67"
+        },
+        "Goal Attempts": {
+            "home": "11",
+            "away": "12"
+        },
+        "Shots on Goal": {
+            "home": "6",
+            "away": "2"
+        },
+        "Shots off Goal": {
+            "home": "5",
+            "away": "6"
+        },
+        "Blocked Shots": {
+            "home": "0",
+            "away": "4"
+        },
+        "Free Kicks": {
+            "home": "22",
+            "away": "9"
+        },
+        "Corner Kicks": {
+            "home": "2",
+            "away": "6"
+        },
+        "Offsides": {
+            "home": "0",
+            "away": "0"
+        },
+        "Goalkeeper Saves": {
+            "home": "1",
+            "away": "3"
+        },
+        "Fouls": {
+            "home": "9",
+            "away": "22"
+        },
+        "Yellow Cards": {
+            "home": "1",
+            "away": "1"
+        },
+        "Total Passes": {
+            "home": "292",
+            "away": "587"
+        },
+        "Tackles": {
+            "home": "17",
+            "away": "12"
+        },
+        "Attacks": {
+            "home": "76",
+            "away": "132"
+        },
+        "Dangerous Attacks": {
+            "home": "28",
+            "away": "63"
+        }
+    }
+}

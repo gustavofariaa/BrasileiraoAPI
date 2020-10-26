@@ -1,0 +1,79 @@
+{
+    "id": "pv1L6K1C",
+    "home": {
+        "id": "hMn9FTbH",
+        "url": "https://www.flashscore.com/team/palmeiras/hMn9FTbH",
+        "score": "1"
+    },
+    "away": {
+        "id": "KGO4pUqO",
+        "url": "https://www.flashscore.com/team/coritiba/KGO4pUqO",
+        "score": "3"
+    },
+    "date": "14.10.2020 18:00",
+    "stadium": "Allianz Parque (Sao Paulo)",
+    "round": "16",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "54",
+            "away": "46"
+        },
+        "Goal Attempts": {
+            "home": "16",
+            "away": "12"
+        },
+        "Shots on Goal": {
+            "home": "5",
+            "away": "9"
+        },
+        "Shots off Goal": {
+            "home": "6",
+            "away": "2"
+        },
+        "Blocked Shots": {
+            "home": "5",
+            "away": "1"
+        },
+        "Free Kicks": {
+            "home": "23",
+            "away": "14"
+        },
+        "Corner Kicks": {
+            "home": "6",
+            "away": "2"
+        },
+        "Offsides": {
+            "home": "1",
+            "away": "2"
+        },
+        "Goalkeeper Saves": {
+            "home": "6",
+            "away": "4"
+        },
+        "Fouls": {
+            "home": "13",
+            "away": "20"
+        },
+        "Yellow Cards": {
+            "home": "3",
+            "away": "2"
+        },
+        "Total Passes": {
+            "home": "419",
+            "away": "377"
+        },
+        "Tackles": {
+            "home": "18",
+            "away": "20"
+        },
+        "Attacks": {
+            "home": "137",
+            "away": "94"
+        },
+        "Dangerous Attacks": {
+            "home": "58",
+            "away": "29"
+        }
+    }
+}

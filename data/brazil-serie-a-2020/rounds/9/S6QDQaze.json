@@ -1,0 +1,83 @@
+{
+    "id": "S6QDQaze",
+    "home": {
+        "id": "2RABlYFn",
+        "url": "https://www.flashscore.com/team/vasco/2RABlYFn",
+        "score": "1"
+    },
+    "away": {
+        "id": "8M0mP8nt",
+        "url": "https://www.flashscore.com/team/atletico-go/8M0mP8nt",
+        "score": "2"
+    },
+    "date": "10.09.2020 21:00",
+    "stadium": "Estádio Vasco da Gama (Rio de Janeiro)",
+    "round": "9",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "54",
+            "away": "46"
+        },
+        "Goal Attempts": {
+            "home": "9",
+            "away": "13"
+        },
+        "Shots on Goal": {
+            "home": "5",
+            "away": "7"
+        },
+        "Shots off Goal": {
+            "home": "2",
+            "away": "4"
+        },
+        "Blocked Shots": {
+            "home": "2",
+            "away": "2"
+        },
+        "Free Kicks": {
+            "home": "24",
+            "away": "14"
+        },
+        "Corner Kicks": {
+            "home": "1",
+            "away": "4"
+        },
+        "Offsides": {
+            "home": "0",
+            "away": "1"
+        },
+        "Goalkeeper Saves": {
+            "home": "5",
+            "away": "4"
+        },
+        "Fouls": {
+            "home": "15",
+            "away": "23"
+        },
+        "Red Cards": {
+            "home": "1",
+            "away": "0"
+        },
+        "Yellow Cards": {
+            "home": "2",
+            "away": "1"
+        },
+        "Total Passes": {
+            "home": "470",
+            "away": "379"
+        },
+        "Tackles": {
+            "home": "14",
+            "away": "17"
+        },
+        "Attacks": {
+            "home": "101",
+            "away": "105"
+        },
+        "Dangerous Attacks": {
+            "home": "37",
+            "away": "49"
+        }
+    }
+}

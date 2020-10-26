@@ -1,0 +1,79 @@
+{
+    "id": "fBsOz5Fa",
+    "home": {
+        "id": "WjxY29qB",
+        "url": "https://www.flashscore.com/team/flamengo-rj/WjxY29qB",
+        "score": "2"
+    },
+    "away": {
+        "id": "hfAZyE0t",
+        "url": "https://www.flashscore.com/team/goias/hfAZyE0t",
+        "score": "1"
+    },
+    "date": "13.10.2020 18:00",
+    "stadium": "Maracanã (Rio de Janeiro)",
+    "round": "11",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "67",
+            "away": "33"
+        },
+        "Goal Attempts": {
+            "home": "31",
+            "away": "7"
+        },
+        "Shots on Goal": {
+            "home": "12",
+            "away": "4"
+        },
+        "Shots off Goal": {
+            "home": "13",
+            "away": "2"
+        },
+        "Blocked Shots": {
+            "home": "6",
+            "away": "1"
+        },
+        "Free Kicks": {
+            "home": "16",
+            "away": "14"
+        },
+        "Corner Kicks": {
+            "home": "9",
+            "away": "4"
+        },
+        "Offsides": {
+            "home": "1",
+            "away": "4"
+        },
+        "Goalkeeper Saves": {
+            "home": "3",
+            "away": "10"
+        },
+        "Fouls": {
+            "home": "12",
+            "away": "12"
+        },
+        "Yellow Cards": {
+            "home": "1",
+            "away": "4"
+        },
+        "Total Passes": {
+            "home": "559",
+            "away": "287"
+        },
+        "Tackles": {
+            "home": "18",
+            "away": "17"
+        },
+        "Attacks": {
+            "home": "155",
+            "away": "74"
+        },
+        "Dangerous Attacks": {
+            "home": "107",
+            "away": "21"
+        }
+    }
+}

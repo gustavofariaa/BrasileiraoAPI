@@ -1,0 +1,83 @@
+{
+    "id": "Ol0Uicji",
+    "home": {
+        "id": "tSCiHj0I",
+        "url": "https://www.flashscore.com/team/internacional/tSCiHj0I",
+        "score": "1"
+    },
+    "away": {
+        "id": "QgP0oAUH",
+        "url": "https://www.flashscore.com/team/sao-paulo/QgP0oAUH",
+        "score": "1"
+    },
+    "date": "26.09.2020 19:00",
+    "stadium": "Estádio José Pinheiro Borda (Porto Alegre)",
+    "round": "12",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "42",
+            "away": "58"
+        },
+        "Goal Attempts": {
+            "home": "4",
+            "away": "19"
+        },
+        "Shots on Goal": {
+            "home": "1",
+            "away": "6"
+        },
+        "Shots off Goal": {
+            "home": "0",
+            "away": "7"
+        },
+        "Blocked Shots": {
+            "home": "3",
+            "away": "6"
+        },
+        "Free Kicks": {
+            "home": "14",
+            "away": "22"
+        },
+        "Corner Kicks": {
+            "home": "1",
+            "away": "4"
+        },
+        "Offsides": {
+            "home": "3",
+            "away": "0"
+        },
+        "Goalkeeper Saves": {
+            "home": "5",
+            "away": "0"
+        },
+        "Fouls": {
+            "home": "16",
+            "away": "16"
+        },
+        "Red Cards": {
+            "home": "1",
+            "away": "0"
+        },
+        "Yellow Cards": {
+            "home": "2",
+            "away": "0"
+        },
+        "Total Passes": {
+            "home": "401",
+            "away": "536"
+        },
+        "Tackles": {
+            "home": "14",
+            "away": "9"
+        },
+        "Attacks": {
+            "home": "102",
+            "away": "105"
+        },
+        "Dangerous Attacks": {
+            "home": "28",
+            "away": "48"
+        }
+    }
+}

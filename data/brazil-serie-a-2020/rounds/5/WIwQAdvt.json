@@ -1,0 +1,79 @@
+{
+    "id": "WIwQAdvt",
+    "home": {
+        "id": "tSCiHj0I",
+        "url": "https://www.flashscore.com/team/internacional/tSCiHj0I",
+        "score": "1"
+    },
+    "away": {
+        "id": "hGLC5Bah",
+        "url": "https://www.flashscore.com/team/atletico-mg/hGLC5Bah",
+        "score": "0"
+    },
+    "date": "22.08.2020 19:00",
+    "stadium": "Estádio José Pinheiro Borda (Porto Alegre)",
+    "round": "5",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "33",
+            "away": "67"
+        },
+        "Goal Attempts": {
+            "home": "6",
+            "away": "11"
+        },
+        "Shots on Goal": {
+            "home": "3",
+            "away": "1"
+        },
+        "Shots off Goal": {
+            "home": "1",
+            "away": "5"
+        },
+        "Blocked Shots": {
+            "home": "2",
+            "away": "5"
+        },
+        "Free Kicks": {
+            "home": "22",
+            "away": "23"
+        },
+        "Corner Kicks": {
+            "home": "2",
+            "away": "5"
+        },
+        "Offsides": {
+            "home": "3",
+            "away": "1"
+        },
+        "Goalkeeper Saves": {
+            "home": "1",
+            "away": "2"
+        },
+        "Fouls": {
+            "home": "20",
+            "away": "21"
+        },
+        "Yellow Cards": {
+            "home": "1",
+            "away": "2"
+        },
+        "Total Passes": {
+            "home": "306",
+            "away": "621"
+        },
+        "Tackles": {
+            "home": "18",
+            "away": "11"
+        },
+        "Attacks": {
+            "home": "84",
+            "away": "180"
+        },
+        "Dangerous Attacks": {
+            "home": "21",
+            "away": "47"
+        }
+    }
+}

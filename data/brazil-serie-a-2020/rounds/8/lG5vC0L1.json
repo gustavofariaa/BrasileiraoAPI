@@ -1,0 +1,83 @@
+{
+    "id": "lG5vC0L1",
+    "home": {
+        "id": "jwKvKhGa",
+        "url": "https://www.flashscore.com/team/bragantino/jwKvKhGa",
+        "score": "1"
+    },
+    "away": {
+        "id": "hMn9FTbH",
+        "url": "https://www.flashscore.com/team/palmeiras/hMn9FTbH",
+        "score": "2"
+    },
+    "date": "06.09.2020 11:00",
+    "stadium": "Estádio Nabi Abi Chedid (Bragança Paulista)",
+    "round": "8",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "38",
+            "away": "62"
+        },
+        "Goal Attempts": {
+            "home": "20",
+            "away": "14"
+        },
+        "Shots on Goal": {
+            "home": "4",
+            "away": "4"
+        },
+        "Shots off Goal": {
+            "home": "8",
+            "away": "7"
+        },
+        "Blocked Shots": {
+            "home": "8",
+            "away": "3"
+        },
+        "Free Kicks": {
+            "home": "13",
+            "away": "26"
+        },
+        "Corner Kicks": {
+            "home": "5",
+            "away": "3"
+        },
+        "Offsides": {
+            "home": "1",
+            "away": "2"
+        },
+        "Goalkeeper Saves": {
+            "home": "2",
+            "away": "3"
+        },
+        "Fouls": {
+            "home": "23",
+            "away": "12"
+        },
+        "Red Cards": {
+            "home": "1",
+            "away": "0"
+        },
+        "Yellow Cards": {
+            "home": "1",
+            "away": "3"
+        },
+        "Total Passes": {
+            "home": "349",
+            "away": "579"
+        },
+        "Tackles": {
+            "home": "17",
+            "away": "19"
+        },
+        "Attacks": {
+            "home": "105",
+            "away": "100"
+        },
+        "Dangerous Attacks": {
+            "home": "53",
+            "away": "44"
+        }
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "id": "bV8BiZwI",
+    "home": {
+        "id": "hMn9FTbH",
+        "url": "https://www.flashscore.com/team/palmeiras/hMn9FTbH",
+        "score": "2"
+    },
+    "away": {
+        "id": "n3QdnjFB",
+        "url": "https://www.flashscore.com/team/santos/n3QdnjFB",
+        "score": "1"
+    },
+    "date": "23.08.2020 16:00",
+    "stadium": "Allianz Parque (Sao Paulo)",
+    "round": "5",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "49",
+            "away": "51"
+        },
+        "Goal Attempts": {
+            "home": "17",
+            "away": "9"
+        },
+        "Shots on Goal": {
+            "home": "5",
+            "away": "2"
+        },
+        "Shots off Goal": {
+            "home": "6",
+            "away": "4"
+        },
+        "Blocked Shots": {
+            "home": "6",
+            "away": "3"
+        },
+        "Free Kicks": {
+            "home": "16",
+            "away": "23"
+        },
+        "Corner Kicks": {
+            "home": "5",
+            "away": "6"
+        },
+        "Offsides": {
+            "home": "4",
+            "away": "0"
+        },
+        "Goalkeeper Saves": {
+            "home": "1",
+            "away": "3"
+        },
+        "Fouls": {
+            "home": "21",
+            "away": "14"
+        },
+        "Red Cards": {
+            "home": "0",
+            "away": "1"
+        },
+        "Yellow Cards": {
+            "home": "5",
+            "away": "4"
+        },
+        "Total Passes": {
+            "home": "362",
+            "away": "372"
+        },
+        "Tackles": {
+            "home": "5",
+            "away": "8"
+        },
+        "Attacks": {
+            "home": "104",
+            "away": "84"
+        },
+        "Dangerous Attacks": {
+            "home": "29",
+            "away": "37"
+        }
+    }
+}

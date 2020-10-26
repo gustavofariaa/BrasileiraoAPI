@@ -1,0 +1,79 @@
+{
+    "id": "novGxRpm",
+    "home": {
+        "id": "p0JrJCV5",
+        "url": "https://www.flashscore.com/team/ceara/p0JrJCV5",
+        "score": "2"
+    },
+    "away": {
+        "id": "WjxY29qB",
+        "url": "https://www.flashscore.com/team/flamengo-rj/WjxY29qB",
+        "score": "0"
+    },
+    "date": "13.09.2020 18:00",
+    "stadium": "Castelão (Fortaleza)",
+    "round": "10",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "37",
+            "away": "63"
+        },
+        "Goal Attempts": {
+            "home": "8",
+            "away": "11"
+        },
+        "Shots on Goal": {
+            "home": "3",
+            "away": "2"
+        },
+        "Shots off Goal": {
+            "home": "3",
+            "away": "7"
+        },
+        "Blocked Shots": {
+            "home": "2",
+            "away": "2"
+        },
+        "Free Kicks": {
+            "home": "5",
+            "away": "11"
+        },
+        "Corner Kicks": {
+            "home": "5",
+            "away": "8"
+        },
+        "Offsides": {
+            "home": "2",
+            "away": "2"
+        },
+        "Goalkeeper Saves": {
+            "home": "2",
+            "away": "1"
+        },
+        "Fouls": {
+            "home": "8",
+            "away": "6"
+        },
+        "Yellow Cards": {
+            "home": "1",
+            "away": "0"
+        },
+        "Total Passes": {
+            "home": "335",
+            "away": "565"
+        },
+        "Tackles": {
+            "home": "30",
+            "away": "30"
+        },
+        "Attacks": {
+            "home": "104",
+            "away": "139"
+        },
+        "Dangerous Attacks": {
+            "home": "35",
+            "away": "84"
+        }
+    }
+}

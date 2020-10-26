@@ -1,0 +1,83 @@
+{
+    "id": "lAbuqT7J",
+    "home": {
+        "id": "E1EFmhVh",
+        "url": "https://www.flashscore.com/team/gremio/E1EFmhVh",
+        "score": "1"
+    },
+    "away": {
+        "id": "42FbPIs2",
+        "url": "https://www.flashscore.com/team/fortaleza/42FbPIs2",
+        "score": "1"
+    },
+    "date": "13.09.2020 16:00",
+    "stadium": "Arena do Grêmio (Porto Alegre)",
+    "round": "10",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "56",
+            "away": "44"
+        },
+        "Goal Attempts": {
+            "home": "14",
+            "away": "3"
+        },
+        "Shots on Goal": {
+            "home": "3",
+            "away": "2"
+        },
+        "Shots off Goal": {
+            "home": "4",
+            "away": "0"
+        },
+        "Blocked Shots": {
+            "home": "7",
+            "away": "1"
+        },
+        "Free Kicks": {
+            "home": "12",
+            "away": "14"
+        },
+        "Corner Kicks": {
+            "home": "6",
+            "away": "2"
+        },
+        "Offsides": {
+            "home": "2",
+            "away": "0"
+        },
+        "Goalkeeper Saves": {
+            "home": "1",
+            "away": "2"
+        },
+        "Fouls": {
+            "home": "11",
+            "away": "13"
+        },
+        "Red Cards": {
+            "home": "1",
+            "away": "1"
+        },
+        "Yellow Cards": {
+            "home": "1",
+            "away": "2"
+        },
+        "Total Passes": {
+            "home": "530",
+            "away": "423"
+        },
+        "Tackles": {
+            "home": "13",
+            "away": "18"
+        },
+        "Attacks": {
+            "home": "130",
+            "away": "77"
+        },
+        "Dangerous Attacks": {
+            "home": "67",
+            "away": "19"
+        }
+    }
+}

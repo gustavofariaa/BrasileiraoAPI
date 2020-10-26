@@ -1,0 +1,79 @@
+{
+    "id": "hQu4HyGU",
+    "home": {
+        "id": "QBGfQbSe",
+        "url": "https://www.flashscore.com/team/corinthians/QBGfQbSe",
+        "score": "1"
+    },
+    "away": {
+        "id": "WjxY29qB",
+        "url": "https://www.flashscore.com/team/flamengo-rj/WjxY29qB",
+        "score": "5"
+    },
+    "date": "18.10.2020 16:00",
+    "stadium": "Neo Quimica Arena (Sao Paulo)",
+    "round": "17",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "39",
+            "away": "61"
+        },
+        "Goal Attempts": {
+            "home": "19",
+            "away": "11"
+        },
+        "Shots on Goal": {
+            "home": "7",
+            "away": "6"
+        },
+        "Shots off Goal": {
+            "home": "8",
+            "away": "3"
+        },
+        "Blocked Shots": {
+            "home": "4",
+            "away": "2"
+        },
+        "Free Kicks": {
+            "home": "15",
+            "away": "13"
+        },
+        "Corner Kicks": {
+            "home": "10",
+            "away": "3"
+        },
+        "Offsides": {
+            "home": "1",
+            "away": "2"
+        },
+        "Goalkeeper Saves": {
+            "home": "1",
+            "away": "6"
+        },
+        "Fouls": {
+            "home": "14",
+            "away": "13"
+        },
+        "Yellow Cards": {
+            "home": "4",
+            "away": "5"
+        },
+        "Total Passes": {
+            "home": "313",
+            "away": "530"
+        },
+        "Tackles": {
+            "home": "13",
+            "away": "24"
+        },
+        "Attacks": {
+            "home": "98",
+            "away": "124"
+        },
+        "Dangerous Attacks": {
+            "home": "42",
+            "away": "52"
+        }
+    }
+}

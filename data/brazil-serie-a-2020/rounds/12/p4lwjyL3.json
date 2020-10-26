@@ -1,0 +1,79 @@
+{
+    "id": "p4lwjyL3",
+    "home": {
+        "id": "UoAxb1Tq",
+        "url": "https://www.flashscore.com/team/athletico-pr/UoAxb1Tq",
+        "score": "1"
+    },
+    "away": {
+        "id": "UeD7XtzM",
+        "url": "https://www.flashscore.com/team/bahia/UeD7XtzM",
+        "score": "0"
+    },
+    "date": "26.09.2020 19:00",
+    "stadium": "Arena da Baixada (Curitiba)",
+    "round": "12",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "56",
+            "away": "44"
+        },
+        "Goal Attempts": {
+            "home": "13",
+            "away": "14"
+        },
+        "Shots on Goal": {
+            "home": "3",
+            "away": "4"
+        },
+        "Shots off Goal": {
+            "home": "8",
+            "away": "6"
+        },
+        "Blocked Shots": {
+            "home": "2",
+            "away": "4"
+        },
+        "Free Kicks": {
+            "home": "15",
+            "away": "21"
+        },
+        "Corner Kicks": {
+            "home": "1",
+            "away": "6"
+        },
+        "Offsides": {
+            "home": "2",
+            "away": "4"
+        },
+        "Goalkeeper Saves": {
+            "home": "4",
+            "away": "2"
+        },
+        "Fouls": {
+            "home": "20",
+            "away": "11"
+        },
+        "Yellow Cards": {
+            "home": "4",
+            "away": "1"
+        },
+        "Total Passes": {
+            "home": "529",
+            "away": "407"
+        },
+        "Tackles": {
+            "home": "14",
+            "away": "8"
+        },
+        "Attacks": {
+            "home": "125",
+            "away": "95"
+        },
+        "Dangerous Attacks": {
+            "home": "24",
+            "away": "40"
+        }
+    }
+}

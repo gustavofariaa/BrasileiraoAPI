@@ -1,0 +1,79 @@
+{
+    "id": "vRRBZFzN",
+    "home": {
+        "id": "2RABlYFn",
+        "url": "https://www.flashscore.com/team/vasco/2RABlYFn",
+        "score": "1"
+    },
+    "away": {
+        "id": "jwKvKhGa",
+        "url": "https://www.flashscore.com/team/bragantino/jwKvKhGa",
+        "score": "1"
+    },
+    "date": "27.09.2020 11:00",
+    "stadium": "Estádio Vasco da Gama (Rio de Janeiro)",
+    "round": "12",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "58",
+            "away": "42"
+        },
+        "Goal Attempts": {
+            "home": "11",
+            "away": "12"
+        },
+        "Shots on Goal": {
+            "home": "1",
+            "away": "3"
+        },
+        "Shots off Goal": {
+            "home": "4",
+            "away": "6"
+        },
+        "Blocked Shots": {
+            "home": "6",
+            "away": "3"
+        },
+        "Free Kicks": {
+            "home": "16",
+            "away": "12"
+        },
+        "Corner Kicks": {
+            "home": "2",
+            "away": "5"
+        },
+        "Offsides": {
+            "home": "4",
+            "away": "1"
+        },
+        "Goalkeeper Saves": {
+            "home": "2",
+            "away": "0"
+        },
+        "Fouls": {
+            "home": "9",
+            "away": "16"
+        },
+        "Yellow Cards": {
+            "home": "2",
+            "away": "1"
+        },
+        "Total Passes": {
+            "home": "513",
+            "away": "362"
+        },
+        "Tackles": {
+            "home": "18",
+            "away": "24"
+        },
+        "Attacks": {
+            "home": "117",
+            "away": "88"
+        },
+        "Dangerous Attacks": {
+            "home": "61",
+            "away": "32"
+        }
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "id": "p2LGJiNA",
+    "home": {
+        "id": "8M0mP8nt",
+        "url": "https://www.flashscore.com/team/atletico-go/8M0mP8nt",
+        "score": "0"
+    },
+    "away": {
+        "id": "p0JrJCV5",
+        "url": "https://www.flashscore.com/team/ceara/p0JrJCV5",
+        "score": "2"
+    },
+    "date": "30.08.2020 18:00",
+    "stadium": "Estádio Antonio Accioly (Goiânia)",
+    "round": "6",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "54",
+            "away": "46"
+        },
+        "Goal Attempts": {
+            "home": "14",
+            "away": "13"
+        },
+        "Shots on Goal": {
+            "home": "4",
+            "away": "5"
+        },
+        "Shots off Goal": {
+            "home": "8",
+            "away": "2"
+        },
+        "Blocked Shots": {
+            "home": "2",
+            "away": "6"
+        },
+        "Free Kicks": {
+            "home": "15",
+            "away": "18"
+        },
+        "Corner Kicks": {
+            "home": "4",
+            "away": "4"
+        },
+        "Offsides": {
+            "home": "1",
+            "away": "2"
+        },
+        "Goalkeeper Saves": {
+            "home": "3",
+            "away": "4"
+        },
+        "Fouls": {
+            "home": "16",
+            "away": "11"
+        },
+        "Red Cards": {
+            "home": "1",
+            "away": "0"
+        },
+        "Yellow Cards": {
+            "home": "1",
+            "away": "2"
+        },
+        "Total Passes": {
+            "home": "360",
+            "away": "305"
+        },
+        "Tackles": {
+            "home": "14",
+            "away": "21"
+        },
+        "Attacks": {
+            "home": "78",
+            "away": "109"
+        },
+        "Dangerous Attacks": {
+            "home": "39",
+            "away": "33"
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "id": "IDj1Brms",
+    "home": {
+        "id": "KGO4pUqO",
+        "url": "https://www.flashscore.com/team/coritiba/KGO4pUqO",
+        "score": "0"
+    },
+    "away": {
+        "id": "42FbPIs2",
+        "url": "https://www.flashscore.com/team/fortaleza/42FbPIs2",
+        "score": "0"
+    },
+    "date": "10.10.2020 19:00",
+    "stadium": "Estádio Couto Pereira (Curitiba)",
+    "round": "15",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "45",
+            "away": "55"
+        },
+        "Goal Attempts": {
+            "home": "10",
+            "away": "12"
+        },
+        "Shots on Goal": {
+            "home": "2",
+            "away": "2"
+        },
+        "Shots off Goal": {
+            "home": "7",
+            "away": "6"
+        },
+        "Blocked Shots": {
+            "home": "1",
+            "away": "4"
+        },
+        "Free Kicks": {
+            "home": "12",
+            "away": "20"
+        },
+        "Corner Kicks": {
+            "home": "2",
+            "away": "4"
+        },
+        "Offsides": {
+            "home": "1",
+            "away": "0"
+        },
+        "Goalkeeper Saves": {
+            "home": "2",
+            "away": "2"
+        },
+        "Fouls": {
+            "home": "19",
+            "away": "12"
+        },
+        "Yellow Cards": {
+            "home": "1",
+            "away": "0"
+        },
+        "Total Passes": {
+            "home": "399",
+            "away": "498"
+        },
+        "Tackles": {
+            "home": "9",
+            "away": "8"
+        },
+        "Attacks": {
+            "home": "92",
+            "away": "107"
+        },
+        "Dangerous Attacks": {
+            "home": "29",
+            "away": "39"
+        }
+    }
+}

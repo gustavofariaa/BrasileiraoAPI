@@ -1,0 +1,83 @@
+{
+    "id": "zyUyESkd",
+    "home": {
+        "id": "jXzWoWa5",
+        "url": "https://www.flashscore.com/team/botafogo-rj/jXzWoWa5",
+        "score": "1"
+    },
+    "away": {
+        "id": "UeD7XtzM",
+        "url": "https://www.flashscore.com/team/bahia/UeD7XtzM",
+        "score": "2"
+    },
+    "date": "30.09.2020 21:30",
+    "stadium": "Estadio Olimpico Nilton Santos (Rio de Janeiro)",
+    "round": "1",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "61",
+            "away": "39"
+        },
+        "Goal Attempts": {
+            "home": "15",
+            "away": "12"
+        },
+        "Shots on Goal": {
+            "home": "2",
+            "away": "4"
+        },
+        "Shots off Goal": {
+            "home": "8",
+            "away": "7"
+        },
+        "Blocked Shots": {
+            "home": "5",
+            "away": "1"
+        },
+        "Free Kicks": {
+            "home": "15",
+            "away": "19"
+        },
+        "Corner Kicks": {
+            "home": "8",
+            "away": "5"
+        },
+        "Offsides": {
+            "home": "0",
+            "away": "1"
+        },
+        "Goalkeeper Saves": {
+            "home": "2",
+            "away": "1"
+        },
+        "Fouls": {
+            "home": "18",
+            "away": "14"
+        },
+        "Red Cards": {
+            "home": "1",
+            "away": "0"
+        },
+        "Yellow Cards": {
+            "home": "2",
+            "away": "3"
+        },
+        "Total Passes": {
+            "home": "505",
+            "away": "319"
+        },
+        "Tackles": {
+            "home": "14",
+            "away": "19"
+        },
+        "Attacks": {
+            "home": "143",
+            "away": "93"
+        },
+        "Dangerous Attacks": {
+            "home": "42",
+            "away": "31"
+        }
+    }
+}

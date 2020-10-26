@@ -1,0 +1,83 @@
+{
+    "id": "YTYxwzPO",
+    "home": {
+        "id": "QBGfQbSe",
+        "url": "https://www.flashscore.com/team/corinthians/QBGfQbSe",
+        "score": "3"
+    },
+    "away": {
+        "id": "KGO4pUqO",
+        "url": "https://www.flashscore.com/team/coritiba/KGO4pUqO",
+        "score": "1"
+    },
+    "date": "19.08.2020 21:30",
+    "stadium": "Neo Quimica Arena (Sao Paulo)",
+    "round": "4",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "63",
+            "away": "37"
+        },
+        "Goal Attempts": {
+            "home": "23",
+            "away": "9"
+        },
+        "Shots on Goal": {
+            "home": "13",
+            "away": "4"
+        },
+        "Shots off Goal": {
+            "home": "6",
+            "away": "3"
+        },
+        "Blocked Shots": {
+            "home": "4",
+            "away": "2"
+        },
+        "Free Kicks": {
+            "home": "6",
+            "away": "15"
+        },
+        "Corner Kicks": {
+            "home": "10",
+            "away": "0"
+        },
+        "Offsides": {
+            "home": "0",
+            "away": "3"
+        },
+        "Goalkeeper Saves": {
+            "home": "3",
+            "away": "10"
+        },
+        "Fouls": {
+            "home": "15",
+            "away": "7"
+        },
+        "Red Cards": {
+            "home": "0",
+            "away": "1"
+        },
+        "Yellow Cards": {
+            "home": "2",
+            "away": "1"
+        },
+        "Total Passes": {
+            "home": "583",
+            "away": "354"
+        },
+        "Tackles": {
+            "home": "15",
+            "away": "8"
+        },
+        "Attacks": {
+            "home": "132",
+            "away": "67"
+        },
+        "Dangerous Attacks": {
+            "home": "66",
+            "away": "26"
+        }
+    }
+}

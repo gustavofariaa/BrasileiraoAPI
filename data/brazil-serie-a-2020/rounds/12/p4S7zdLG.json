@@ -1,0 +1,83 @@
+{
+    "id": "p4S7zdLG",
+    "home": {
+        "id": "EV9L3kU4",
+        "url": "https://www.flashscore.com/team/fluminense/EV9L3kU4",
+        "score": "4"
+    },
+    "away": {
+        "id": "KGO4pUqO",
+        "url": "https://www.flashscore.com/team/coritiba/KGO4pUqO",
+        "score": "0"
+    },
+    "date": "28.09.2020 20:00",
+    "stadium": "Maracanã (Rio de Janeiro)",
+    "round": "12",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "43",
+            "away": "57"
+        },
+        "Goal Attempts": {
+            "home": "15",
+            "away": "10"
+        },
+        "Shots on Goal": {
+            "home": "7",
+            "away": "1"
+        },
+        "Shots off Goal": {
+            "home": "4",
+            "away": "5"
+        },
+        "Blocked Shots": {
+            "home": "4",
+            "away": "4"
+        },
+        "Free Kicks": {
+            "home": "21",
+            "away": "16"
+        },
+        "Corner Kicks": {
+            "home": "5",
+            "away": "4"
+        },
+        "Offsides": {
+            "home": "0",
+            "away": "3"
+        },
+        "Goalkeeper Saves": {
+            "home": "1",
+            "away": "3"
+        },
+        "Fouls": {
+            "home": "16",
+            "away": "19"
+        },
+        "Red Cards": {
+            "home": "0",
+            "away": "1"
+        },
+        "Yellow Cards": {
+            "home": "1",
+            "away": "1"
+        },
+        "Total Passes": {
+            "home": "409",
+            "away": "532"
+        },
+        "Tackles": {
+            "home": "10",
+            "away": "10"
+        },
+        "Attacks": {
+            "home": "92",
+            "away": "131"
+        },
+        "Dangerous Attacks": {
+            "home": "27",
+            "away": "39"
+        }
+    }
+}

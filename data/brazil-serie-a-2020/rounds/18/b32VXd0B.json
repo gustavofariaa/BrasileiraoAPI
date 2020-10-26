@@ -1,0 +1,79 @@
+{
+    "id": "b32VXd0B",
+    "home": {
+        "id": "EV9L3kU4",
+        "url": "https://www.flashscore.com/team/fluminense/EV9L3kU4",
+        "score": "3"
+    },
+    "away": {
+        "id": "n3QdnjFB",
+        "url": "https://www.flashscore.com/team/santos/n3QdnjFB",
+        "score": "1"
+    },
+    "date": "25.10.2020 16:00",
+    "stadium": "Maracanã (Rio de Janeiro)",
+    "round": "18",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "48",
+            "away": "52"
+        },
+        "Goal Attempts": {
+            "home": "19",
+            "away": "9"
+        },
+        "Shots on Goal": {
+            "home": "8",
+            "away": "2"
+        },
+        "Shots off Goal": {
+            "home": "5",
+            "away": "3"
+        },
+        "Blocked Shots": {
+            "home": "6",
+            "away": "4"
+        },
+        "Free Kicks": {
+            "home": "21",
+            "away": "15"
+        },
+        "Corner Kicks": {
+            "home": "10",
+            "away": "8"
+        },
+        "Offsides": {
+            "home": "2",
+            "away": "3"
+        },
+        "Goalkeeper Saves": {
+            "home": "1",
+            "away": "5"
+        },
+        "Fouls": {
+            "home": "13",
+            "away": "18"
+        },
+        "Yellow Cards": {
+            "home": "5",
+            "away": "4"
+        },
+        "Total Passes": {
+            "home": "275",
+            "away": "297"
+        },
+        "Tackles": {
+            "home": "10",
+            "away": "24"
+        },
+        "Attacks": {
+            "home": "89",
+            "away": "87"
+        },
+        "Dangerous Attacks": {
+            "home": "26",
+            "away": "27"
+        }
+    }
+}

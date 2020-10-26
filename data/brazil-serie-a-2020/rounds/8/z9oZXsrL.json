@@ -1,0 +1,79 @@
+{
+    "id": "z9oZXsrL",
+    "home": {
+        "id": "KGO4pUqO",
+        "url": "https://www.flashscore.com/team/coritiba/KGO4pUqO",
+        "score": "0"
+    },
+    "away": {
+        "id": "hGLC5Bah",
+        "url": "https://www.flashscore.com/team/atletico-mg/hGLC5Bah",
+        "score": "1"
+    },
+    "date": "06.09.2020 20:30",
+    "stadium": "Estádio Couto Pereira (Curitiba)",
+    "round": "8",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "47",
+            "away": "53"
+        },
+        "Goal Attempts": {
+            "home": "13",
+            "away": "19"
+        },
+        "Shots on Goal": {
+            "home": "3",
+            "away": "2"
+        },
+        "Shots off Goal": {
+            "home": "5",
+            "away": "12"
+        },
+        "Blocked Shots": {
+            "home": "5",
+            "away": "5"
+        },
+        "Free Kicks": {
+            "home": "22",
+            "away": "14"
+        },
+        "Corner Kicks": {
+            "home": "4",
+            "away": "4"
+        },
+        "Offsides": {
+            "home": "0",
+            "away": "2"
+        },
+        "Goalkeeper Saves": {
+            "home": "1",
+            "away": "3"
+        },
+        "Fouls": {
+            "home": "14",
+            "away": "19"
+        },
+        "Yellow Cards": {
+            "home": "1",
+            "away": "3"
+        },
+        "Total Passes": {
+            "home": "442",
+            "away": "482"
+        },
+        "Tackles": {
+            "home": "16",
+            "away": "19"
+        },
+        "Attacks": {
+            "home": "72",
+            "away": "145"
+        },
+        "Dangerous Attacks": {
+            "home": "27",
+            "away": "57"
+        }
+    }
+}

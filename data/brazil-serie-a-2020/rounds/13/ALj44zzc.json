@@ -1,0 +1,83 @@
+{
+    "id": "ALj44zzc",
+    "home": {
+        "id": "E1EFmhVh",
+        "url": "https://www.flashscore.com/team/gremio/E1EFmhVh",
+        "score": "1"
+    },
+    "away": {
+        "id": "tSCiHj0I",
+        "url": "https://www.flashscore.com/team/internacional/tSCiHj0I",
+        "score": "1"
+    },
+    "date": "03.10.2020 17:00",
+    "stadium": "Arena do Grêmio (Porto Alegre)",
+    "round": "13",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "47",
+            "away": "53"
+        },
+        "Goal Attempts": {
+            "home": "14",
+            "away": "9"
+        },
+        "Shots on Goal": {
+            "home": "5",
+            "away": "2"
+        },
+        "Shots off Goal": {
+            "home": "4",
+            "away": "6"
+        },
+        "Blocked Shots": {
+            "home": "5",
+            "away": "1"
+        },
+        "Free Kicks": {
+            "home": "17",
+            "away": "15"
+        },
+        "Corner Kicks": {
+            "home": "5",
+            "away": "5"
+        },
+        "Offsides": {
+            "home": "1",
+            "away": "1"
+        },
+        "Goalkeeper Saves": {
+            "home": "1",
+            "away": "4"
+        },
+        "Fouls": {
+            "home": "14",
+            "away": "16"
+        },
+        "Red Cards": {
+            "home": "1",
+            "away": "1"
+        },
+        "Yellow Cards": {
+            "home": "2",
+            "away": "1"
+        },
+        "Total Passes": {
+            "home": "385",
+            "away": "443"
+        },
+        "Tackles": {
+            "home": "12",
+            "away": "13"
+        },
+        "Attacks": {
+            "home": "117",
+            "away": "108"
+        },
+        "Dangerous Attacks": {
+            "home": "40",
+            "away": "22"
+        }
+    }
+}

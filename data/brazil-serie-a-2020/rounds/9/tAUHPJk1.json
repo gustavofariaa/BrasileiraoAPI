@@ -1,0 +1,79 @@
+{
+    "id": "tAUHPJk1",
+    "home": {
+        "id": "QgP0oAUH",
+        "url": "https://www.flashscore.com/team/sao-paulo/QgP0oAUH",
+        "score": "1"
+    },
+    "away": {
+        "id": "jwKvKhGa",
+        "url": "https://www.flashscore.com/team/bragantino/jwKvKhGa",
+        "score": "1"
+    },
+    "date": "09.09.2020 19:15",
+    "stadium": "Estádio do Morumbi (Sao Paulo)",
+    "round": "9",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "59",
+            "away": "41"
+        },
+        "Goal Attempts": {
+            "home": "14",
+            "away": "10"
+        },
+        "Shots on Goal": {
+            "home": "5",
+            "away": "2"
+        },
+        "Shots off Goal": {
+            "home": "5",
+            "away": "5"
+        },
+        "Blocked Shots": {
+            "home": "4",
+            "away": "3"
+        },
+        "Free Kicks": {
+            "home": "20",
+            "away": "21"
+        },
+        "Corner Kicks": {
+            "home": "5",
+            "away": "1"
+        },
+        "Offsides": {
+            "home": "5",
+            "away": "2"
+        },
+        "Goalkeeper Saves": {
+            "home": "1",
+            "away": "4"
+        },
+        "Fouls": {
+            "home": "18",
+            "away": "18"
+        },
+        "Yellow Cards": {
+            "home": "4",
+            "away": "2"
+        },
+        "Total Passes": {
+            "home": "490",
+            "away": "346"
+        },
+        "Tackles": {
+            "home": "17",
+            "away": "14"
+        },
+        "Attacks": {
+            "home": "130",
+            "away": "84"
+        },
+        "Dangerous Attacks": {
+            "home": "49",
+            "away": "25"
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "id": "lherVfpU",
+    "home": {
+        "id": "jwKvKhGa",
+        "url": "https://www.flashscore.com/team/bragantino/jwKvKhGa",
+        "score": "2"
+    },
+    "away": {
+        "id": "hfAZyE0t",
+        "url": "https://www.flashscore.com/team/goias/hfAZyE0t",
+        "score": "0"
+    },
+    "date": "24.10.2020 17:00",
+    "stadium": "Estádio Nabi Abi Chedid (Bragança Paulista)",
+    "round": "18",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "52",
+            "away": "48"
+        },
+        "Goal Attempts": {
+            "home": "14",
+            "away": "7"
+        },
+        "Shots on Goal": {
+            "home": "5",
+            "away": "1"
+        },
+        "Shots off Goal": {
+            "home": "6",
+            "away": "5"
+        },
+        "Blocked Shots": {
+            "home": "3",
+            "away": "1"
+        },
+        "Free Kicks": {
+            "home": "19",
+            "away": "18"
+        },
+        "Corner Kicks": {
+            "home": "6",
+            "away": "4"
+        },
+        "Offsides": {
+            "home": "1",
+            "away": "3"
+        },
+        "Goalkeeper Saves": {
+            "home": "1",
+            "away": "3"
+        },
+        "Fouls": {
+            "home": "17",
+            "away": "15"
+        },
+        "Yellow Cards": {
+            "home": "0",
+            "away": "3"
+        },
+        "Total Passes": {
+            "home": "390",
+            "away": "357"
+        },
+        "Tackles": {
+            "home": "17",
+            "away": "11"
+        },
+        "Attacks": {
+            "home": "121",
+            "away": "107"
+        },
+        "Dangerous Attacks": {
+            "home": "66",
+            "away": "31"
+        }
+    }
+}

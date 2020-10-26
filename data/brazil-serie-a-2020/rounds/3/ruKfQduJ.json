@@ -1,0 +1,79 @@
+{
+    "id": "ruKfQduJ",
+    "home": {
+        "id": "hGLC5Bah",
+        "url": "https://www.flashscore.com/team/atletico-mg/hGLC5Bah",
+        "score": "2"
+    },
+    "away": {
+        "id": "p0JrJCV5",
+        "url": "https://www.flashscore.com/team/ceara/p0JrJCV5",
+        "score": "0"
+    },
+    "date": "16.08.2020 11:00",
+    "stadium": "Estádio Raimundo Sampaio (Belo Horizonte)",
+    "round": "3",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "61",
+            "away": "39"
+        },
+        "Goal Attempts": {
+            "home": "11",
+            "away": "13"
+        },
+        "Shots on Goal": {
+            "home": "6",
+            "away": "1"
+        },
+        "Shots off Goal": {
+            "home": "3",
+            "away": "7"
+        },
+        "Blocked Shots": {
+            "home": "2",
+            "away": "5"
+        },
+        "Free Kicks": {
+            "home": "15",
+            "away": "17"
+        },
+        "Corner Kicks": {
+            "home": "4",
+            "away": "0"
+        },
+        "Offsides": {
+            "home": "2",
+            "away": "1"
+        },
+        "Goalkeeper Saves": {
+            "home": "1",
+            "away": "4"
+        },
+        "Fouls": {
+            "home": "14",
+            "away": "15"
+        },
+        "Yellow Cards": {
+            "home": "2",
+            "away": "4"
+        },
+        "Total Passes": {
+            "home": "474",
+            "away": "302"
+        },
+        "Tackles": {
+            "home": "13",
+            "away": "17"
+        },
+        "Attacks": {
+            "home": "113",
+            "away": "85"
+        },
+        "Dangerous Attacks": {
+            "home": "49",
+            "away": "40"
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "id": "biIrTbe0",
+    "home": {
+        "id": "2RABlYFn",
+        "url": "https://www.flashscore.com/team/vasco/2RABlYFn",
+        "score": "2"
+    },
+    "away": {
+        "id": "QgP0oAUH",
+        "url": "https://www.flashscore.com/team/sao-paulo/QgP0oAUH",
+        "score": "1"
+    },
+    "date": "16.08.2020 16:00",
+    "stadium": "Estádio Vasco da Gama (Rio de Janeiro)",
+    "round": "3",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "41",
+            "away": "59"
+        },
+        "Goal Attempts": {
+            "home": "8",
+            "away": "11"
+        },
+        "Shots on Goal": {
+            "home": "3",
+            "away": "5"
+        },
+        "Shots off Goal": {
+            "home": "5",
+            "away": "4"
+        },
+        "Blocked Shots": {
+            "home": "0",
+            "away": "2"
+        },
+        "Free Kicks": {
+            "home": "16",
+            "away": "16"
+        },
+        "Corner Kicks": {
+            "home": "3",
+            "away": "4"
+        },
+        "Offsides": {
+            "home": "1",
+            "away": "1"
+        },
+        "Goalkeeper Saves": {
+            "home": "4",
+            "away": "1"
+        },
+        "Fouls": {
+            "home": "16",
+            "away": "15"
+        },
+        "Yellow Cards": {
+            "home": "2",
+            "away": "5"
+        },
+        "Total Passes": {
+            "home": "380",
+            "away": "553"
+        },
+        "Tackles": {
+            "home": "18",
+            "away": "13"
+        },
+        "Attacks": {
+            "home": "85",
+            "away": "130"
+        },
+        "Dangerous Attacks": {
+            "home": "31",
+            "away": "53"
+        }
+    }
+}

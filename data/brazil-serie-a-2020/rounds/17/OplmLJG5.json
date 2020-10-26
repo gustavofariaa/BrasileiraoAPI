@@ -1,0 +1,79 @@
+{
+    "id": "OplmLJG5",
+    "home": {
+        "id": "EV9L3kU4",
+        "url": "https://www.flashscore.com/team/fluminense/EV9L3kU4",
+        "score": "2"
+    },
+    "away": {
+        "id": "p0JrJCV5",
+        "url": "https://www.flashscore.com/team/ceara/p0JrJCV5",
+        "score": "2"
+    },
+    "date": "17.10.2020 19:00",
+    "stadium": "Maracanã (Rio de Janeiro)",
+    "round": "17",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "58",
+            "away": "42"
+        },
+        "Goal Attempts": {
+            "home": "6",
+            "away": "17"
+        },
+        "Shots on Goal": {
+            "home": "3",
+            "away": "4"
+        },
+        "Shots off Goal": {
+            "home": "2",
+            "away": "7"
+        },
+        "Blocked Shots": {
+            "home": "1",
+            "away": "6"
+        },
+        "Free Kicks": {
+            "home": "17",
+            "away": "18"
+        },
+        "Corner Kicks": {
+            "home": "4",
+            "away": "3"
+        },
+        "Offsides": {
+            "home": "2",
+            "away": "2"
+        },
+        "Goalkeeper Saves": {
+            "home": "2",
+            "away": "1"
+        },
+        "Fouls": {
+            "home": "16",
+            "away": "17"
+        },
+        "Yellow Cards": {
+            "home": "3",
+            "away": "3"
+        },
+        "Total Passes": {
+            "home": "529",
+            "away": "379"
+        },
+        "Tackles": {
+            "home": "19",
+            "away": "21"
+        },
+        "Attacks": {
+            "home": "115",
+            "away": "106"
+        },
+        "Dangerous Attacks": {
+            "home": "30",
+            "away": "46"
+        }
+    }
+}

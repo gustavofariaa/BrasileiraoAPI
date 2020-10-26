@@ -1,0 +1,79 @@
+{
+    "id": "bRCRE2yq",
+    "home": {
+        "id": "WjxY29qB",
+        "url": "https://www.flashscore.com/team/flamengo-rj/WjxY29qB",
+        "score": "2"
+    },
+    "away": {
+        "id": "42FbPIs2",
+        "url": "https://www.flashscore.com/team/fortaleza/42FbPIs2",
+        "score": "1"
+    },
+    "date": "05.09.2020 17:00",
+    "stadium": "Maracanã (Rio de Janeiro)",
+    "round": "8",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "62",
+            "away": "38"
+        },
+        "Goal Attempts": {
+            "home": "18",
+            "away": "4"
+        },
+        "Shots on Goal": {
+            "home": "8",
+            "away": "2"
+        },
+        "Shots off Goal": {
+            "home": "9",
+            "away": "2"
+        },
+        "Blocked Shots": {
+            "home": "1",
+            "away": "0"
+        },
+        "Free Kicks": {
+            "home": "25",
+            "away": "14"
+        },
+        "Corner Kicks": {
+            "home": "11",
+            "away": "3"
+        },
+        "Offsides": {
+            "home": "3",
+            "away": "4"
+        },
+        "Goalkeeper Saves": {
+            "home": "1",
+            "away": "6"
+        },
+        "Fouls": {
+            "home": "12",
+            "away": "21"
+        },
+        "Yellow Cards": {
+            "home": "1",
+            "away": "1"
+        },
+        "Total Passes": {
+            "home": "512",
+            "away": "328"
+        },
+        "Tackles": {
+            "home": "13",
+            "away": "19"
+        },
+        "Attacks": {
+            "home": "142",
+            "away": "71"
+        },
+        "Dangerous Attacks": {
+            "home": "71",
+            "away": "14"
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "id": "dxgG1YJF",
+    "home": {
+        "id": "42FbPIs2",
+        "url": "https://www.flashscore.com/team/fortaleza/42FbPIs2",
+        "score": "0"
+    },
+    "away": {
+        "id": "8M0mP8nt",
+        "url": "https://www.flashscore.com/team/atletico-go/8M0mP8nt",
+        "score": "0"
+    },
+    "date": "04.10.2020 18:15",
+    "stadium": "Estadio Presidente Vargas (Fortaleza)",
+    "round": "13",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "59",
+            "away": "41"
+        },
+        "Goal Attempts": {
+            "home": "15",
+            "away": "7"
+        },
+        "Shots on Goal": {
+            "home": "4",
+            "away": "2"
+        },
+        "Shots off Goal": {
+            "home": "8",
+            "away": "4"
+        },
+        "Blocked Shots": {
+            "home": "3",
+            "away": "1"
+        },
+        "Free Kicks": {
+            "home": "12",
+            "away": "9"
+        },
+        "Corner Kicks": {
+            "home": "8",
+            "away": "1"
+        },
+        "Offsides": {
+            "home": "1",
+            "away": "0"
+        },
+        "Goalkeeper Saves": {
+            "home": "2",
+            "away": "4"
+        },
+        "Fouls": {
+            "home": "8",
+            "away": "14"
+        },
+        "Yellow Cards": {
+            "home": "5",
+            "away": "5"
+        },
+        "Total Passes": {
+            "home": "516",
+            "away": "347"
+        },
+        "Tackles": {
+            "home": "8",
+            "away": "13"
+        },
+        "Attacks": {
+            "home": "117",
+            "away": "93"
+        },
+        "Dangerous Attacks": {
+            "home": "48",
+            "away": "35"
+        }
+    }
+}

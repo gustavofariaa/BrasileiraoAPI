@@ -1,0 +1,79 @@
+{
+    "id": "KvA7hFOB",
+    "home": {
+        "id": "2RABlYFn",
+        "url": "https://www.flashscore.com/team/vasco/2RABlYFn",
+        "score": "0"
+    },
+    "away": {
+        "id": "E1EFmhVh",
+        "url": "https://www.flashscore.com/team/gremio/E1EFmhVh",
+        "score": "0"
+    },
+    "date": "23.08.2020 16:00",
+    "stadium": "Estádio Vasco da Gama (Rio de Janeiro)",
+    "round": "5",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "47",
+            "away": "53"
+        },
+        "Goal Attempts": {
+            "home": "10",
+            "away": "14"
+        },
+        "Shots on Goal": {
+            "home": "3",
+            "away": "4"
+        },
+        "Shots off Goal": {
+            "home": "6",
+            "away": "5"
+        },
+        "Blocked Shots": {
+            "home": "1",
+            "away": "5"
+        },
+        "Free Kicks": {
+            "home": "18",
+            "away": "24"
+        },
+        "Corner Kicks": {
+            "home": "6",
+            "away": "4"
+        },
+        "Offsides": {
+            "home": "1",
+            "away": "0"
+        },
+        "Goalkeeper Saves": {
+            "home": "4",
+            "away": "3"
+        },
+        "Fouls": {
+            "home": "23",
+            "away": "17"
+        },
+        "Yellow Cards": {
+            "home": "5",
+            "away": "2"
+        },
+        "Total Passes": {
+            "home": "413",
+            "away": "473"
+        },
+        "Tackles": {
+            "home": "19",
+            "away": "25"
+        },
+        "Attacks": {
+            "home": "93",
+            "away": "149"
+        },
+        "Dangerous Attacks": {
+            "home": "22",
+            "away": "53"
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "id": "GOzivvMi",
+    "home": {
+        "id": "KIBeGAFO",
+        "url": "https://www.flashscore.com/team/sport-recife/KIBeGAFO",
+        "score": "1"
+    },
+    "away": {
+        "id": "EV9L3kU4",
+        "url": "https://www.flashscore.com/team/fluminense/EV9L3kU4",
+        "score": "0"
+    },
+    "date": "20.09.2020 20:30",
+    "stadium": "Estádio Ilha do Retiro (Recife)",
+    "round": "11",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "26",
+            "away": "74"
+        },
+        "Goal Attempts": {
+            "home": "8",
+            "away": "19"
+        },
+        "Shots on Goal": {
+            "home": "3",
+            "away": "5"
+        },
+        "Shots off Goal": {
+            "home": "2",
+            "away": "9"
+        },
+        "Blocked Shots": {
+            "home": "3",
+            "away": "5"
+        },
+        "Free Kicks": {
+            "home": "9",
+            "away": "14"
+        },
+        "Corner Kicks": {
+            "home": "5",
+            "away": "8"
+        },
+        "Offsides": {
+            "home": "3",
+            "away": "3"
+        },
+        "Goalkeeper Saves": {
+            "home": "5",
+            "away": "2"
+        },
+        "Fouls": {
+            "home": "10",
+            "away": "9"
+        },
+        "Yellow Cards": {
+            "home": "0",
+            "away": "1"
+        },
+        "Total Passes": {
+            "home": "249",
+            "away": "696"
+        },
+        "Tackles": {
+            "home": "21",
+            "away": "16"
+        },
+        "Attacks": {
+            "home": "64",
+            "away": "157"
+        },
+        "Dangerous Attacks": {
+            "home": "21",
+            "away": "77"
+        }
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "id": "M7KBQ5Z1",
+    "home": {
+        "id": "hGLC5Bah",
+        "url": "https://www.flashscore.com/team/atletico-mg/hGLC5Bah",
+        "score": "3"
+    },
+    "away": {
+        "id": "QBGfQbSe",
+        "url": "https://www.flashscore.com/team/corinthians/QBGfQbSe",
+        "score": "2"
+    },
+    "date": "12.08.2020 19:15",
+    "stadium": "Mineirão (Belo Horizonte)",
+    "round": "2",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "55",
+            "away": "45"
+        },
+        "Goal Attempts": {
+            "home": "22",
+            "away": "8"
+        },
+        "Shots on Goal": {
+            "home": "13",
+            "away": "5"
+        },
+        "Shots off Goal": {
+            "home": "9",
+            "away": "3"
+        },
+        "Blocked Shots": {
+            "home": "3",
+            "away": "0"
+        },
+        "Free Kicks": {
+            "home": "13",
+            "away": "23"
+        },
+        "Corner Kicks": {
+            "home": "8",
+            "away": "4"
+        },
+        "Offsides": {
+            "home": "3",
+            "away": "1"
+        },
+        "Throw-in": {
+            "home": "23",
+            "away": "12"
+        },
+        "Goalkeeper Saves": {
+            "home": "3",
+            "away": "10"
+        },
+        "Fouls": {
+            "home": "19",
+            "away": "11"
+        },
+        "Yellow Cards": {
+            "home": "0",
+            "away": "1"
+        },
+        "Total Passes": {
+            "home": "515",
+            "away": "426"
+        },
+        "Tackles": {
+            "home": "17",
+            "away": "11"
+        },
+        "Attacks": {
+            "home": "133",
+            "away": "38"
+        },
+        "Dangerous Attacks": {
+            "home": "41",
+            "away": "24"
+        }
+    }
+}

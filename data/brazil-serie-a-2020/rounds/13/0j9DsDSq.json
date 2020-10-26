@@ -1,0 +1,79 @@
+{
+    "id": "0j9DsDSq",
+    "home": {
+        "id": "hMn9FTbH",
+        "url": "https://www.flashscore.com/team/palmeiras/hMn9FTbH",
+        "score": "2"
+    },
+    "away": {
+        "id": "p0JrJCV5",
+        "url": "https://www.flashscore.com/team/ceara/p0JrJCV5",
+        "score": "1"
+    },
+    "date": "03.10.2020 19:00",
+    "stadium": "Allianz Parque (Sao Paulo)",
+    "round": "13",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "64",
+            "away": "36"
+        },
+        "Goal Attempts": {
+            "home": "27",
+            "away": "13"
+        },
+        "Shots on Goal": {
+            "home": "11",
+            "away": "7"
+        },
+        "Shots off Goal": {
+            "home": "10",
+            "away": "3"
+        },
+        "Blocked Shots": {
+            "home": "6",
+            "away": "3"
+        },
+        "Free Kicks": {
+            "home": "19",
+            "away": "11"
+        },
+        "Corner Kicks": {
+            "home": "9",
+            "away": "4"
+        },
+        "Offsides": {
+            "home": "1",
+            "away": "0"
+        },
+        "Goalkeeper Saves": {
+            "home": "6",
+            "away": "9"
+        },
+        "Fouls": {
+            "home": "10",
+            "away": "19"
+        },
+        "Yellow Cards": {
+            "home": "1",
+            "away": "4"
+        },
+        "Total Passes": {
+            "home": "542",
+            "away": "311"
+        },
+        "Tackles": {
+            "home": "18",
+            "away": "5"
+        },
+        "Attacks": {
+            "home": "117",
+            "away": "86"
+        },
+        "Dangerous Attacks": {
+            "home": "48",
+            "away": "35"
+        }
+    }
+}

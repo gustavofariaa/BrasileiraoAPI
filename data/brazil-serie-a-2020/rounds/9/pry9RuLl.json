@@ -1,0 +1,79 @@
+{
+    "id": "pry9RuLl",
+    "home": {
+        "id": "EV9L3kU4",
+        "url": "https://www.flashscore.com/team/fluminense/EV9L3kU4",
+        "score": "1"
+    },
+    "away": {
+        "id": "WjxY29qB",
+        "url": "https://www.flashscore.com/team/flamengo-rj/WjxY29qB",
+        "score": "2"
+    },
+    "date": "09.09.2020 21:30",
+    "stadium": "Maracanã (Rio de Janeiro)",
+    "round": "9",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "47",
+            "away": "53"
+        },
+        "Goal Attempts": {
+            "home": "18",
+            "away": "13"
+        },
+        "Shots on Goal": {
+            "home": "3",
+            "away": "6"
+        },
+        "Shots off Goal": {
+            "home": "7",
+            "away": "6"
+        },
+        "Blocked Shots": {
+            "home": "8",
+            "away": "1"
+        },
+        "Free Kicks": {
+            "home": "19",
+            "away": "15"
+        },
+        "Corner Kicks": {
+            "home": "7",
+            "away": "6"
+        },
+        "Offsides": {
+            "home": "1",
+            "away": "2"
+        },
+        "Goalkeeper Saves": {
+            "home": "4",
+            "away": "2"
+        },
+        "Fouls": {
+            "home": "15",
+            "away": "16"
+        },
+        "Yellow Cards": {
+            "home": "1",
+            "away": "1"
+        },
+        "Total Passes": {
+            "home": "441",
+            "away": "510"
+        },
+        "Tackles": {
+            "home": "16",
+            "away": "18"
+        },
+        "Attacks": {
+            "home": "111",
+            "away": "104"
+        },
+        "Dangerous Attacks": {
+            "home": "46",
+            "away": "46"
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "id": "Kd3wktIJ",
+    "home": {
+        "id": "E1EFmhVh",
+        "url": "https://www.flashscore.com/team/gremio/E1EFmhVh",
+        "score": "0"
+    },
+    "away": {
+        "id": "QBGfQbSe",
+        "url": "https://www.flashscore.com/team/corinthians/QBGfQbSe",
+        "score": "0"
+    },
+    "date": "15.08.2020 19:00",
+    "stadium": "Arena do Grêmio (Porto Alegre)",
+    "round": "3",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "47",
+            "away": "53"
+        },
+        "Goal Attempts": {
+            "home": "23",
+            "away": "5"
+        },
+        "Shots on Goal": {
+            "home": "8",
+            "away": "2"
+        },
+        "Shots off Goal": {
+            "home": "8",
+            "away": "2"
+        },
+        "Blocked Shots": {
+            "home": "7",
+            "away": "1"
+        },
+        "Free Kicks": {
+            "home": "13",
+            "away": "16"
+        },
+        "Corner Kicks": {
+            "home": "7",
+            "away": "5"
+        },
+        "Offsides": {
+            "home": "0",
+            "away": "0"
+        },
+        "Throw-in": {
+            "home": "18",
+            "away": "10"
+        },
+        "Goalkeeper Saves": {
+            "home": "2",
+            "away": "8"
+        },
+        "Fouls": {
+            "home": "16",
+            "away": "14"
+        },
+        "Red Cards": {
+            "home": "0",
+            "away": "1"
+        },
+        "Yellow Cards": {
+            "home": "2",
+            "away": "3"
+        },
+        "Total Passes": {
+            "home": "486",
+            "away": "568"
+        },
+        "Tackles": {
+            "home": "13",
+            "away": "27"
+        },
+        "Attacks": {
+            "home": "143",
+            "away": "116"
+        },
+        "Dangerous Attacks": {
+            "home": "97",
+            "away": "27"
+        }
+    }
+}

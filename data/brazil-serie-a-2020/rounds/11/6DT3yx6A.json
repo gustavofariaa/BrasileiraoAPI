@@ -1,0 +1,79 @@
+{
+    "id": "6DT3yx6A",
+    "home": {
+        "id": "8M0mP8nt",
+        "url": "https://www.flashscore.com/team/atletico-go/8M0mP8nt",
+        "score": "3"
+    },
+    "away": {
+        "id": "hGLC5Bah",
+        "url": "https://www.flashscore.com/team/atletico-mg/hGLC5Bah",
+        "score": "4"
+    },
+    "date": "19.09.2020 21:00",
+    "stadium": "Estádio Antonio Accioly (Goiânia)",
+    "round": "11",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "44",
+            "away": "56"
+        },
+        "Goal Attempts": {
+            "home": "15",
+            "away": "14"
+        },
+        "Shots on Goal": {
+            "home": "9",
+            "away": "8"
+        },
+        "Shots off Goal": {
+            "home": "3",
+            "away": "4"
+        },
+        "Blocked Shots": {
+            "home": "3",
+            "away": "2"
+        },
+        "Free Kicks": {
+            "home": "18",
+            "away": "16"
+        },
+        "Corner Kicks": {
+            "home": "6",
+            "away": "4"
+        },
+        "Offsides": {
+            "home": "1",
+            "away": "4"
+        },
+        "Goalkeeper Saves": {
+            "home": "4",
+            "away": "6"
+        },
+        "Fouls": {
+            "home": "16",
+            "away": "14"
+        },
+        "Yellow Cards": {
+            "home": "2",
+            "away": "0"
+        },
+        "Total Passes": {
+            "home": "360",
+            "away": "468"
+        },
+        "Tackles": {
+            "home": "13",
+            "away": "9"
+        },
+        "Attacks": {
+            "home": "95",
+            "away": "98"
+        },
+        "Dangerous Attacks": {
+            "home": "48",
+            "away": "46"
+        }
+    }
+}

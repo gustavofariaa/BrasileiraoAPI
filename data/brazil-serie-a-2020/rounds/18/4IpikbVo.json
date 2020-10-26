@@ -1,0 +1,79 @@
+{
+    "id": "4IpikbVo",
+    "home": {
+        "id": "tSCiHj0I",
+        "url": "https://www.flashscore.com/team/internacional/tSCiHj0I",
+        "score": "2"
+    },
+    "away": {
+        "id": "WjxY29qB",
+        "url": "https://www.flashscore.com/team/flamengo-rj/WjxY29qB",
+        "score": "2"
+    },
+    "date": "25.10.2020 18:15",
+    "stadium": "Estádio José Pinheiro Borda (Porto Alegre)",
+    "round": "18",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "28",
+            "away": "72"
+        },
+        "Goal Attempts": {
+            "home": "10",
+            "away": "16"
+        },
+        "Shots on Goal": {
+            "home": "5",
+            "away": "6"
+        },
+        "Shots off Goal": {
+            "home": "4",
+            "away": "5"
+        },
+        "Blocked Shots": {
+            "home": "1",
+            "away": "5"
+        },
+        "Free Kicks": {
+            "home": "16",
+            "away": "17"
+        },
+        "Corner Kicks": {
+            "home": "1",
+            "away": "7"
+        },
+        "Offsides": {
+            "home": "1",
+            "away": "1"
+        },
+        "Goalkeeper Saves": {
+            "home": "4",
+            "away": "3"
+        },
+        "Fouls": {
+            "home": "16",
+            "away": "15"
+        },
+        "Yellow Cards": {
+            "home": "6",
+            "away": "5"
+        },
+        "Total Passes": {
+            "home": "244",
+            "away": "617"
+        },
+        "Tackles": {
+            "home": "25",
+            "away": "19"
+        },
+        "Attacks": {
+            "home": "90",
+            "away": "151"
+        },
+        "Dangerous Attacks": {
+            "home": "25",
+            "away": "76"
+        }
+    }
+}

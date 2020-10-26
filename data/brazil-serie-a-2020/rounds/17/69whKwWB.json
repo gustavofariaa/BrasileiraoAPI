@@ -1,0 +1,79 @@
+{
+    "id": "69whKwWB",
+    "home": {
+        "id": "jXzWoWa5",
+        "url": "https://www.flashscore.com/team/botafogo-rj/jXzWoWa5",
+        "score": "0"
+    },
+    "away": {
+        "id": "hfAZyE0t",
+        "url": "https://www.flashscore.com/team/goias/hfAZyE0t",
+        "score": "0"
+    },
+    "date": "19.10.2020 20:00",
+    "stadium": "Estadio Olimpico Nilton Santos (Rio de Janeiro)",
+    "round": "17",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "62",
+            "away": "38"
+        },
+        "Goal Attempts": {
+            "home": "23",
+            "away": "12"
+        },
+        "Shots on Goal": {
+            "home": "6",
+            "away": "4"
+        },
+        "Shots off Goal": {
+            "home": "7",
+            "away": "6"
+        },
+        "Blocked Shots": {
+            "home": "10",
+            "away": "2"
+        },
+        "Free Kicks": {
+            "home": "11",
+            "away": "21"
+        },
+        "Corner Kicks": {
+            "home": "11",
+            "away": "5"
+        },
+        "Offsides": {
+            "home": "3",
+            "away": "0"
+        },
+        "Goalkeeper Saves": {
+            "home": "4",
+            "away": "6"
+        },
+        "Fouls": {
+            "home": "18",
+            "away": "11"
+        },
+        "Yellow Cards": {
+            "home": "2",
+            "away": "1"
+        },
+        "Total Passes": {
+            "home": "532",
+            "away": "324"
+        },
+        "Tackles": {
+            "home": "20",
+            "away": "17"
+        },
+        "Attacks": {
+            "home": "166",
+            "away": "90"
+        },
+        "Dangerous Attacks": {
+            "home": "94",
+            "away": "27"
+        }
+    }
+}

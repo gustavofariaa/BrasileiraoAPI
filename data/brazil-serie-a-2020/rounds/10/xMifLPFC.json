@@ -1,0 +1,79 @@
+{
+    "id": "xMifLPFC",
+    "home": {
+        "id": "n3QdnjFB",
+        "url": "https://www.flashscore.com/team/santos/n3QdnjFB",
+        "score": "2"
+    },
+    "away": {
+        "id": "QgP0oAUH",
+        "url": "https://www.flashscore.com/team/sao-paulo/QgP0oAUH",
+        "score": "2"
+    },
+    "date": "12.09.2020 19:00",
+    "stadium": "Estadio Vila Belmiro (Santos)",
+    "round": "10",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "55",
+            "away": "45"
+        },
+        "Goal Attempts": {
+            "home": "10",
+            "away": "12"
+        },
+        "Shots on Goal": {
+            "home": "5",
+            "away": "6"
+        },
+        "Shots off Goal": {
+            "home": "4",
+            "away": "3"
+        },
+        "Blocked Shots": {
+            "home": "1",
+            "away": "3"
+        },
+        "Free Kicks": {
+            "home": "23",
+            "away": "22"
+        },
+        "Corner Kicks": {
+            "home": "5",
+            "away": "2"
+        },
+        "Offsides": {
+            "home": "1",
+            "away": "3"
+        },
+        "Goalkeeper Saves": {
+            "home": "4",
+            "away": "3"
+        },
+        "Fouls": {
+            "home": "18",
+            "away": "20"
+        },
+        "Yellow Cards": {
+            "home": "3",
+            "away": "2"
+        },
+        "Total Passes": {
+            "home": "410",
+            "away": "337"
+        },
+        "Tackles": {
+            "home": "18",
+            "away": "13"
+        },
+        "Attacks": {
+            "home": "109",
+            "away": "79"
+        },
+        "Dangerous Attacks": {
+            "home": "41",
+            "away": "28"
+        }
+    }
+}

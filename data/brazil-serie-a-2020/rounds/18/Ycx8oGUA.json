@@ -1,0 +1,79 @@
+{
+    "id": "Ycx8oGUA",
+    "home": {
+        "id": "8M0mP8nt",
+        "url": "https://www.flashscore.com/team/atletico-go/8M0mP8nt",
+        "score": "0"
+    },
+    "away": {
+        "id": "hMn9FTbH",
+        "url": "https://www.flashscore.com/team/palmeiras/hMn9FTbH",
+        "score": "3"
+    },
+    "date": "25.10.2020 16:00",
+    "stadium": "Estádio Antonio Accioly (Goiânia)",
+    "round": "18",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "56",
+            "away": "44"
+        },
+        "Goal Attempts": {
+            "home": "20",
+            "away": "12"
+        },
+        "Shots on Goal": {
+            "home": "5",
+            "away": "4"
+        },
+        "Shots off Goal": {
+            "home": "9",
+            "away": "6"
+        },
+        "Blocked Shots": {
+            "home": "6",
+            "away": "2"
+        },
+        "Free Kicks": {
+            "home": "17",
+            "away": "17"
+        },
+        "Corner Kicks": {
+            "home": "6",
+            "away": "3"
+        },
+        "Offsides": {
+            "home": "0",
+            "away": "2"
+        },
+        "Goalkeeper Saves": {
+            "home": "1",
+            "away": "5"
+        },
+        "Fouls": {
+            "home": "15",
+            "away": "17"
+        },
+        "Yellow Cards": {
+            "home": "1",
+            "away": "4"
+        },
+        "Total Passes": {
+            "home": "469",
+            "away": "361"
+        },
+        "Tackles": {
+            "home": "12",
+            "away": "21"
+        },
+        "Attacks": {
+            "home": "120",
+            "away": "90"
+        },
+        "Dangerous Attacks": {
+            "home": "58",
+            "away": "29"
+        }
+    }
+}

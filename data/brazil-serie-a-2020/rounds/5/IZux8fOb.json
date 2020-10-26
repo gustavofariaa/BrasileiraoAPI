@@ -1,0 +1,79 @@
+{
+    "id": "IZux8fOb",
+    "home": {
+        "id": "p0JrJCV5",
+        "url": "https://www.flashscore.com/team/ceara/p0JrJCV5",
+        "score": "2"
+    },
+    "away": {
+        "id": "UeD7XtzM",
+        "url": "https://www.flashscore.com/team/bahia/UeD7XtzM",
+        "score": "0"
+    },
+    "date": "23.08.2020 20:00",
+    "stadium": "Castelão (Fortaleza)",
+    "round": "5",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "38",
+            "away": "62"
+        },
+        "Goal Attempts": {
+            "home": "12",
+            "away": "19"
+        },
+        "Shots on Goal": {
+            "home": "4",
+            "away": "7"
+        },
+        "Shots off Goal": {
+            "home": "6",
+            "away": "10"
+        },
+        "Blocked Shots": {
+            "home": "2",
+            "away": "2"
+        },
+        "Free Kicks": {
+            "home": "8",
+            "away": "18"
+        },
+        "Corner Kicks": {
+            "home": "6",
+            "away": "12"
+        },
+        "Offsides": {
+            "home": "1",
+            "away": "1"
+        },
+        "Goalkeeper Saves": {
+            "home": "7",
+            "away": "2"
+        },
+        "Fouls": {
+            "home": "21",
+            "away": "7"
+        },
+        "Yellow Cards": {
+            "home": "1",
+            "away": "2"
+        },
+        "Total Passes": {
+            "home": "336",
+            "away": "539"
+        },
+        "Tackles": {
+            "home": "20",
+            "away": "12"
+        },
+        "Attacks": {
+            "home": "110",
+            "away": "137"
+        },
+        "Dangerous Attacks": {
+            "home": "28",
+            "away": "63"
+        }
+    }
+}

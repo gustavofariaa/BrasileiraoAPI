@@ -1,0 +1,83 @@
+{
+    "id": "x4j7T7kq",
+    "home": {
+        "id": "2RABlYFn",
+        "url": "https://www.flashscore.com/team/vasco/2RABlYFn",
+        "score": "2"
+    },
+    "away": {
+        "id": "KIBeGAFO",
+        "url": "https://www.flashscore.com/team/sport-recife/KIBeGAFO",
+        "score": "0"
+    },
+    "date": "13.08.2020 20:00",
+    "stadium": "Estádio Vasco da Gama (Rio de Janeiro)",
+    "round": "2",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "46",
+            "away": "54"
+        },
+        "Goal Attempts": {
+            "home": "9",
+            "away": "13"
+        },
+        "Shots on Goal": {
+            "home": "6",
+            "away": "1"
+        },
+        "Shots off Goal": {
+            "home": "2",
+            "away": "8"
+        },
+        "Blocked Shots": {
+            "home": "1",
+            "away": "4"
+        },
+        "Free Kicks": {
+            "home": "21",
+            "away": "31"
+        },
+        "Corner Kicks": {
+            "home": "5",
+            "away": "8"
+        },
+        "Offsides": {
+            "home": "1",
+            "away": "4"
+        },
+        "Goalkeeper Saves": {
+            "home": "1",
+            "away": "4"
+        },
+        "Fouls": {
+            "home": "29",
+            "away": "17"
+        },
+        "Red Cards": {
+            "home": "0",
+            "away": "1"
+        },
+        "Yellow Cards": {
+            "home": "2",
+            "away": "3"
+        },
+        "Total Passes": {
+            "home": "371",
+            "away": "416"
+        },
+        "Tackles": {
+            "home": "14",
+            "away": "13"
+        },
+        "Attacks": {
+            "home": "88",
+            "away": "141"
+        },
+        "Dangerous Attacks": {
+            "home": "23",
+            "away": "48"
+        }
+    }
+}

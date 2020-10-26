@@ -1,0 +1,79 @@
+{
+    "id": "vsWfKODL",
+    "home": {
+        "id": "p0JrJCV5",
+        "url": "https://www.flashscore.com/team/ceara/p0JrJCV5",
+        "score": "1"
+    },
+    "away": {
+        "id": "42FbPIs2",
+        "url": "https://www.flashscore.com/team/fortaleza/42FbPIs2",
+        "score": "0"
+    },
+    "date": "02.09.2020 19:00",
+    "stadium": "Castelão (Fortaleza)",
+    "round": "7",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "27",
+            "away": "73"
+        },
+        "Goal Attempts": {
+            "home": "9",
+            "away": "5"
+        },
+        "Shots on Goal": {
+            "home": "4",
+            "away": "0"
+        },
+        "Shots off Goal": {
+            "home": "5",
+            "away": "3"
+        },
+        "Blocked Shots": {
+            "home": "0",
+            "away": "2"
+        },
+        "Free Kicks": {
+            "home": "20",
+            "away": "26"
+        },
+        "Corner Kicks": {
+            "home": "2",
+            "away": "6"
+        },
+        "Offsides": {
+            "home": "4",
+            "away": "2"
+        },
+        "Goalkeeper Saves": {
+            "home": "0",
+            "away": "3"
+        },
+        "Fouls": {
+            "home": "22",
+            "away": "18"
+        },
+        "Yellow Cards": {
+            "home": "2",
+            "away": "2"
+        },
+        "Total Passes": {
+            "home": "226",
+            "away": "612"
+        },
+        "Tackles": {
+            "home": "18",
+            "away": "13"
+        },
+        "Attacks": {
+            "home": "83",
+            "away": "165"
+        },
+        "Dangerous Attacks": {
+            "home": "23",
+            "away": "44"
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "id": "hpdUYNSE",
+    "home": {
+        "id": "KIBeGAFO",
+        "url": "https://www.flashscore.com/team/sport-recife/KIBeGAFO",
+        "score": "2"
+    },
+    "away": {
+        "id": "hfAZyE0t",
+        "url": "https://www.flashscore.com/team/goias/hfAZyE0t",
+        "score": "1"
+    },
+    "date": "06.09.2020 20:30",
+    "stadium": "Estádio Ilha do Retiro (Recife)",
+    "round": "8",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "52",
+            "away": "48"
+        },
+        "Goal Attempts": {
+            "home": "17",
+            "away": "10"
+        },
+        "Shots on Goal": {
+            "home": "6",
+            "away": "4"
+        },
+        "Shots off Goal": {
+            "home": "6",
+            "away": "5"
+        },
+        "Blocked Shots": {
+            "home": "5",
+            "away": "1"
+        },
+        "Free Kicks": {
+            "home": "17",
+            "away": "18"
+        },
+        "Corner Kicks": {
+            "home": "9",
+            "away": "4"
+        },
+        "Offsides": {
+            "home": "1",
+            "away": "0"
+        },
+        "Goalkeeper Saves": {
+            "home": "3",
+            "away": "4"
+        },
+        "Fouls": {
+            "home": "18",
+            "away": "17"
+        },
+        "Yellow Cards": {
+            "home": "1",
+            "away": "0"
+        },
+        "Total Passes": {
+            "home": "482",
+            "away": "455"
+        },
+        "Tackles": {
+            "home": "16",
+            "away": "18"
+        },
+        "Attacks": {
+            "home": "127",
+            "away": "92"
+        },
+        "Dangerous Attacks": {
+            "home": "69",
+            "away": "25"
+        }
+    }
+}

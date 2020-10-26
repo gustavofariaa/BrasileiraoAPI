@@ -1,0 +1,79 @@
+{
+    "id": "bsNongKS",
+    "home": {
+        "id": "jXzWoWa5",
+        "url": "https://www.flashscore.com/team/botafogo-rj/jXzWoWa5",
+        "score": "1"
+    },
+    "away": {
+        "id": "EV9L3kU4",
+        "url": "https://www.flashscore.com/team/fluminense/EV9L3kU4",
+        "score": "1"
+    },
+    "date": "04.10.2020 11:00",
+    "stadium": "Estadio Olimpico Nilton Santos (Rio de Janeiro)",
+    "round": "13",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "51",
+            "away": "49"
+        },
+        "Goal Attempts": {
+            "home": "17",
+            "away": "8"
+        },
+        "Shots on Goal": {
+            "home": "6",
+            "away": "5"
+        },
+        "Shots off Goal": {
+            "home": "9",
+            "away": "3"
+        },
+        "Blocked Shots": {
+            "home": "2",
+            "away": "0"
+        },
+        "Free Kicks": {
+            "home": "23",
+            "away": "21"
+        },
+        "Corner Kicks": {
+            "home": "7",
+            "away": "4"
+        },
+        "Offsides": {
+            "home": "0",
+            "away": "1"
+        },
+        "Goalkeeper Saves": {
+            "home": "4",
+            "away": "5"
+        },
+        "Fouls": {
+            "home": "20",
+            "away": "22"
+        },
+        "Yellow Cards": {
+            "home": "0",
+            "away": "1"
+        },
+        "Total Passes": {
+            "home": "383",
+            "away": "366"
+        },
+        "Tackles": {
+            "home": "15",
+            "away": "15"
+        },
+        "Attacks": {
+            "home": "96",
+            "away": "86"
+        },
+        "Dangerous Attacks": {
+            "home": "54",
+            "away": "32"
+        }
+    }
+}

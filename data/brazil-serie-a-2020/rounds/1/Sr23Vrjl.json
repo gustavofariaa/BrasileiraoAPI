@@ -1,0 +1,79 @@
+{
+    "id": "Sr23Vrjl",
+    "home": {
+        "id": "n3QdnjFB",
+        "url": "https://www.flashscore.com/team/santos/n3QdnjFB",
+        "score": "1"
+    },
+    "away": {
+        "id": "jwKvKhGa",
+        "url": "https://www.flashscore.com/team/bragantino/jwKvKhGa",
+        "score": "1"
+    },
+    "date": "09.08.2020 16:00",
+    "stadium": "Estadio Vila Belmiro (Santos)",
+    "round": "1",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "54",
+            "away": "46"
+        },
+        "Goal Attempts": {
+            "home": "10",
+            "away": "18"
+        },
+        "Shots on Goal": {
+            "home": "4",
+            "away": "6"
+        },
+        "Shots off Goal": {
+            "home": "5",
+            "away": "8"
+        },
+        "Blocked Shots": {
+            "home": "1",
+            "away": "4"
+        },
+        "Free Kicks": {
+            "home": "20",
+            "away": "12"
+        },
+        "Corner Kicks": {
+            "home": "4",
+            "away": "2"
+        },
+        "Offsides": {
+            "home": "4",
+            "away": "2"
+        },
+        "Goalkeeper Saves": {
+            "home": "5",
+            "away": "3"
+        },
+        "Fouls": {
+            "home": "10",
+            "away": "19"
+        },
+        "Yellow Cards": {
+            "home": "0",
+            "away": "1"
+        },
+        "Total Passes": {
+            "home": "444",
+            "away": "377"
+        },
+        "Tackles": {
+            "home": "17",
+            "away": "15"
+        },
+        "Attacks": {
+            "home": "83",
+            "away": "146"
+        },
+        "Dangerous Attacks": {
+            "home": "35",
+            "away": "53"
+        }
+    }
+}

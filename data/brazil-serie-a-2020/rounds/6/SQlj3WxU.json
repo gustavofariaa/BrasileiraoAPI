@@ -1,0 +1,79 @@
+{
+    "id": "SQlj3WxU",
+    "home": {
+        "id": "n3QdnjFB",
+        "url": "https://www.flashscore.com/team/santos/n3QdnjFB",
+        "score": "0"
+    },
+    "away": {
+        "id": "WjxY29qB",
+        "url": "https://www.flashscore.com/team/flamengo-rj/WjxY29qB",
+        "score": "1"
+    },
+    "date": "30.08.2020 16:00",
+    "stadium": "Estadio Vila Belmiro (Santos)",
+    "round": "6",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "52",
+            "away": "48"
+        },
+        "Goal Attempts": {
+            "home": "22",
+            "away": "10"
+        },
+        "Shots on Goal": {
+            "home": "5",
+            "away": "6"
+        },
+        "Shots off Goal": {
+            "home": "11",
+            "away": "4"
+        },
+        "Blocked Shots": {
+            "home": "6",
+            "away": "0"
+        },
+        "Free Kicks": {
+            "home": "25",
+            "away": "17"
+        },
+        "Corner Kicks": {
+            "home": "9",
+            "away": "2"
+        },
+        "Offsides": {
+            "home": "5",
+            "away": "1"
+        },
+        "Goalkeeper Saves": {
+            "home": "5",
+            "away": "5"
+        },
+        "Fouls": {
+            "home": "14",
+            "away": "26"
+        },
+        "Yellow Cards": {
+            "home": "6",
+            "away": "7"
+        },
+        "Total Passes": {
+            "home": "420",
+            "away": "399"
+        },
+        "Tackles": {
+            "home": "14",
+            "away": "15"
+        },
+        "Attacks": {
+            "home": "107",
+            "away": "82"
+        },
+        "Dangerous Attacks": {
+            "home": "44",
+            "away": "41"
+        }
+    }
+}

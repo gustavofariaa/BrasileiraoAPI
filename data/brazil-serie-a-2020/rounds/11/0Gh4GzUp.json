@@ -1,0 +1,79 @@
+{
+    "id": "0Gh4GzUp",
+    "home": {
+        "id": "QBGfQbSe",
+        "url": "https://www.flashscore.com/team/corinthians/QBGfQbSe",
+        "score": "3"
+    },
+    "away": {
+        "id": "UeD7XtzM",
+        "url": "https://www.flashscore.com/team/bahia/UeD7XtzM",
+        "score": "2"
+    },
+    "date": "16.09.2020 21:30",
+    "stadium": "Neo Quimica Arena (Sao Paulo)",
+    "round": "11",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "33",
+            "away": "67"
+        },
+        "Goal Attempts": {
+            "home": "11",
+            "away": "23"
+        },
+        "Shots on Goal": {
+            "home": "5",
+            "away": "6"
+        },
+        "Shots off Goal": {
+            "home": "4",
+            "away": "11"
+        },
+        "Blocked Shots": {
+            "home": "2",
+            "away": "6"
+        },
+        "Free Kicks": {
+            "home": "15",
+            "away": "15"
+        },
+        "Corner Kicks": {
+            "home": "4",
+            "away": "11"
+        },
+        "Offsides": {
+            "home": "1",
+            "away": "5"
+        },
+        "Goalkeeper Saves": {
+            "home": "4",
+            "away": "2"
+        },
+        "Fouls": {
+            "home": "15",
+            "away": "13"
+        },
+        "Yellow Cards": {
+            "home": "3",
+            "away": "2"
+        },
+        "Total Passes": {
+            "home": "275",
+            "away": "532"
+        },
+        "Tackles": {
+            "home": "17",
+            "away": "10"
+        },
+        "Attacks": {
+            "home": "71",
+            "away": "153"
+        },
+        "Dangerous Attacks": {
+            "home": "19",
+            "away": "89"
+        }
+    }
+}

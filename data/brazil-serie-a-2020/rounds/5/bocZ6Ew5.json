@@ -1,0 +1,79 @@
+{
+    "id": "bocZ6Ew5",
+    "home": {
+        "id": "hfAZyE0t",
+        "url": "https://www.flashscore.com/team/goias/hfAZyE0t",
+        "score": "2"
+    },
+    "away": {
+        "id": "8M0mP8nt",
+        "url": "https://www.flashscore.com/team/atletico-go/8M0mP8nt",
+        "score": "0"
+    },
+    "date": "22.08.2020 21:00",
+    "stadium": "Estádio da Serrinha (Goiania)",
+    "round": "5",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "34",
+            "away": "66"
+        },
+        "Goal Attempts": {
+            "home": "6",
+            "away": "16"
+        },
+        "Shots on Goal": {
+            "home": "2",
+            "away": "4"
+        },
+        "Shots off Goal": {
+            "home": "3",
+            "away": "9"
+        },
+        "Blocked Shots": {
+            "home": "1",
+            "away": "3"
+        },
+        "Free Kicks": {
+            "home": "19",
+            "away": "31"
+        },
+        "Corner Kicks": {
+            "home": "3",
+            "away": "11"
+        },
+        "Offsides": {
+            "home": "5",
+            "away": "2"
+        },
+        "Goalkeeper Saves": {
+            "home": "4",
+            "away": "0"
+        },
+        "Fouls": {
+            "home": "26",
+            "away": "19"
+        },
+        "Yellow Cards": {
+            "home": "5",
+            "away": "2"
+        },
+        "Total Passes": {
+            "home": "274",
+            "away": "534"
+        },
+        "Tackles": {
+            "home": "25",
+            "away": "13"
+        },
+        "Attacks": {
+            "home": "70",
+            "away": "157"
+        },
+        "Dangerous Attacks": {
+            "home": "33",
+            "away": "65"
+        }
+    }
+}

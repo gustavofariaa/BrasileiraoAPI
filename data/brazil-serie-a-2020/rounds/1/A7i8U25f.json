@@ -1,0 +1,83 @@
+{
+    "id": "A7i8U25f",
+    "home": {
+        "id": "42FbPIs2",
+        "url": "https://www.flashscore.com/team/fortaleza/42FbPIs2",
+        "score": "0"
+    },
+    "away": {
+        "id": "UoAxb1Tq",
+        "url": "https://www.flashscore.com/team/athletico-pr/UoAxb1Tq",
+        "score": "2"
+    },
+    "date": "08.08.2020 19:00",
+    "stadium": "Castelão (Fortaleza)",
+    "round": "1",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "44",
+            "away": "56"
+        },
+        "Goal Attempts": {
+            "home": "8",
+            "away": "9"
+        },
+        "Shots on Goal": {
+            "home": "3",
+            "away": "5"
+        },
+        "Shots off Goal": {
+            "home": "5",
+            "away": "4"
+        },
+        "Blocked Shots": {
+            "home": "3",
+            "away": "4"
+        },
+        "Free Kicks": {
+            "home": "8",
+            "away": "15"
+        },
+        "Corner Kicks": {
+            "home": "4",
+            "away": "4"
+        },
+        "Offsides": {
+            "home": "1",
+            "away": "1"
+        },
+        "Goalkeeper Saves": {
+            "home": "3",
+            "away": "3"
+        },
+        "Fouls": {
+            "home": "14",
+            "away": "10"
+        },
+        "Red Cards": {
+            "home": "1",
+            "away": "0"
+        },
+        "Yellow Cards": {
+            "home": "3",
+            "away": "2"
+        },
+        "Total Passes": {
+            "home": "414",
+            "away": "549"
+        },
+        "Tackles": {
+            "home": "16",
+            "away": "8"
+        },
+        "Attacks": {
+            "home": "91",
+            "away": "92"
+        },
+        "Dangerous Attacks": {
+            "home": "38",
+            "away": "18"
+        }
+    }
+}

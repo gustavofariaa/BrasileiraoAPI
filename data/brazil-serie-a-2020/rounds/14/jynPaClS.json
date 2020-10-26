@@ -1,0 +1,79 @@
+{
+    "id": "jynPaClS",
+    "home": {
+        "id": "WjxY29qB",
+        "url": "https://www.flashscore.com/team/flamengo-rj/WjxY29qB",
+        "score": "3"
+    },
+    "away": {
+        "id": "KIBeGAFO",
+        "url": "https://www.flashscore.com/team/sport-recife/KIBeGAFO",
+        "score": "0"
+    },
+    "date": "07.10.2020 19:15",
+    "stadium": "Maracanã (Rio de Janeiro)",
+    "round": "14",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "63",
+            "away": "37"
+        },
+        "Goal Attempts": {
+            "home": "16",
+            "away": "14"
+        },
+        "Shots on Goal": {
+            "home": "6",
+            "away": "1"
+        },
+        "Shots off Goal": {
+            "home": "5",
+            "away": "7"
+        },
+        "Blocked Shots": {
+            "home": "5",
+            "away": "6"
+        },
+        "Free Kicks": {
+            "home": "17",
+            "away": "17"
+        },
+        "Corner Kicks": {
+            "home": "8",
+            "away": "6"
+        },
+        "Offsides": {
+            "home": "1",
+            "away": "1"
+        },
+        "Goalkeeper Saves": {
+            "home": "1",
+            "away": "3"
+        },
+        "Fouls": {
+            "home": "14",
+            "away": "16"
+        },
+        "Yellow Cards": {
+            "home": "0",
+            "away": "3"
+        },
+        "Total Passes": {
+            "home": "572",
+            "away": "326"
+        },
+        "Tackles": {
+            "home": "8",
+            "away": "9"
+        },
+        "Attacks": {
+            "home": "144",
+            "away": "80"
+        },
+        "Dangerous Attacks": {
+            "home": "71",
+            "away": "26"
+        }
+    }
+}

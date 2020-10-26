@@ -1,0 +1,79 @@
+{
+    "id": "M5LaJrTR",
+    "home": {
+        "id": "hfAZyE0t",
+        "url": "https://www.flashscore.com/team/goias/hfAZyE0t",
+        "score": "1"
+    },
+    "away": {
+        "id": "QBGfQbSe",
+        "url": "https://www.flashscore.com/team/corinthians/QBGfQbSe",
+        "score": "2"
+    },
+    "date": "02.09.2020 19:15",
+    "stadium": "Estádio da Serrinha (Goiania)",
+    "round": "7",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "46",
+            "away": "54"
+        },
+        "Goal Attempts": {
+            "home": "11",
+            "away": "11"
+        },
+        "Shots on Goal": {
+            "home": "3",
+            "away": "4"
+        },
+        "Shots off Goal": {
+            "home": "7",
+            "away": "5"
+        },
+        "Blocked Shots": {
+            "home": "1",
+            "away": "2"
+        },
+        "Free Kicks": {
+            "home": "13",
+            "away": "17"
+        },
+        "Corner Kicks": {
+            "home": "3",
+            "away": "6"
+        },
+        "Offsides": {
+            "home": "1",
+            "away": "0"
+        },
+        "Goalkeeper Saves": {
+            "home": "2",
+            "away": "2"
+        },
+        "Fouls": {
+            "home": "16",
+            "away": "12"
+        },
+        "Yellow Cards": {
+            "home": "1",
+            "away": "3"
+        },
+        "Total Passes": {
+            "home": "443",
+            "away": "511"
+        },
+        "Tackles": {
+            "home": "18",
+            "away": "15"
+        },
+        "Attacks": {
+            "home": "91",
+            "away": "118"
+        },
+        "Dangerous Attacks": {
+            "home": "40",
+            "away": "59"
+        }
+    }
+}

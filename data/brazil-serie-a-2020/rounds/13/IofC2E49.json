@@ -1,0 +1,79 @@
+{
+    "id": "IofC2E49",
+    "home": {
+        "id": "KGO4pUqO",
+        "url": "https://www.flashscore.com/team/coritiba/KGO4pUqO",
+        "score": "1"
+    },
+    "away": {
+        "id": "QgP0oAUH",
+        "url": "https://www.flashscore.com/team/sao-paulo/QgP0oAUH",
+        "score": "1"
+    },
+    "date": "04.10.2020 16:00",
+    "stadium": "Estádio Couto Pereira (Curitiba)",
+    "round": "13",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "24",
+            "away": "76"
+        },
+        "Goal Attempts": {
+            "home": "3",
+            "away": "19"
+        },
+        "Shots on Goal": {
+            "home": "1",
+            "away": "5"
+        },
+        "Shots off Goal": {
+            "home": "2",
+            "away": "9"
+        },
+        "Blocked Shots": {
+            "home": "0",
+            "away": "5"
+        },
+        "Free Kicks": {
+            "home": "14",
+            "away": "12"
+        },
+        "Corner Kicks": {
+            "home": "2",
+            "away": "11"
+        },
+        "Offsides": {
+            "home": "0",
+            "away": "2"
+        },
+        "Goalkeeper Saves": {
+            "home": "4",
+            "away": "0"
+        },
+        "Fouls": {
+            "home": "13",
+            "away": "12"
+        },
+        "Yellow Cards": {
+            "home": "2",
+            "away": "3"
+        },
+        "Total Passes": {
+            "home": "219",
+            "away": "668"
+        },
+        "Tackles": {
+            "home": "16",
+            "away": "11"
+        },
+        "Attacks": {
+            "home": "55",
+            "away": "165"
+        },
+        "Dangerous Attacks": {
+            "home": "23",
+            "away": "77"
+        }
+    }
+}

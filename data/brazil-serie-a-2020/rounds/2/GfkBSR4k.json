@@ -1,0 +1,79 @@
+{
+    "id": "GfkBSR4k",
+    "home": {
+        "id": "QgP0oAUH",
+        "url": "https://www.flashscore.com/team/sao-paulo/QgP0oAUH",
+        "score": "1"
+    },
+    "away": {
+        "id": "42FbPIs2",
+        "url": "https://www.flashscore.com/team/fortaleza/42FbPIs2",
+        "score": "0"
+    },
+    "date": "13.08.2020 19:15",
+    "stadium": "Estádio do Morumbi (Sao Paulo)",
+    "round": "2",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "52",
+            "away": "48"
+        },
+        "Goal Attempts": {
+            "home": "13",
+            "away": "12"
+        },
+        "Shots on Goal": {
+            "home": "3",
+            "away": "3"
+        },
+        "Shots off Goal": {
+            "home": "7",
+            "away": "6"
+        },
+        "Blocked Shots": {
+            "home": "3",
+            "away": "3"
+        },
+        "Free Kicks": {
+            "home": "20",
+            "away": "18"
+        },
+        "Corner Kicks": {
+            "home": "5",
+            "away": "7"
+        },
+        "Offsides": {
+            "home": "4",
+            "away": "3"
+        },
+        "Goalkeeper Saves": {
+            "home": "3",
+            "away": "2"
+        },
+        "Fouls": {
+            "home": "16",
+            "away": "18"
+        },
+        "Yellow Cards": {
+            "home": "1",
+            "away": "2"
+        },
+        "Total Passes": {
+            "home": "474",
+            "away": "443"
+        },
+        "Tackles": {
+            "home": "10",
+            "away": "7"
+        },
+        "Attacks": {
+            "home": "91",
+            "away": "122"
+        },
+        "Dangerous Attacks": {
+            "home": "35",
+            "away": "29"
+        }
+    }
+}

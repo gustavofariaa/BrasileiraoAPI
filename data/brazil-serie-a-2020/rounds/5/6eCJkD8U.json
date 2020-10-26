@@ -1,0 +1,79 @@
+{
+    "id": "6eCJkD8U",
+    "home": {
+        "id": "QBGfQbSe",
+        "url": "https://www.flashscore.com/team/corinthians/QBGfQbSe",
+        "score": "1"
+    },
+    "away": {
+        "id": "42FbPIs2",
+        "url": "https://www.flashscore.com/team/fortaleza/42FbPIs2",
+        "score": "1"
+    },
+    "date": "26.08.2020 21:30",
+    "stadium": "Neo Quimica Arena (Sao Paulo)",
+    "round": "5",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "59",
+            "away": "41"
+        },
+        "Goal Attempts": {
+            "home": "21",
+            "away": "10"
+        },
+        "Shots on Goal": {
+            "home": "7",
+            "away": "3"
+        },
+        "Shots off Goal": {
+            "home": "10",
+            "away": "7"
+        },
+        "Blocked Shots": {
+            "home": "4",
+            "away": "0"
+        },
+        "Free Kicks": {
+            "home": "13",
+            "away": "14"
+        },
+        "Corner Kicks": {
+            "home": "5",
+            "away": "1"
+        },
+        "Offsides": {
+            "home": "0",
+            "away": "5"
+        },
+        "Goalkeeper Saves": {
+            "home": "2",
+            "away": "6"
+        },
+        "Fouls": {
+            "home": "14",
+            "away": "12"
+        },
+        "Yellow Cards": {
+            "home": "0",
+            "away": "2"
+        },
+        "Total Passes": {
+            "home": "583",
+            "away": "406"
+        },
+        "Tackles": {
+            "home": "9",
+            "away": "14"
+        },
+        "Attacks": {
+            "home": "132",
+            "away": "91"
+        },
+        "Dangerous Attacks": {
+            "home": "45",
+            "away": "26"
+        }
+    }
+}

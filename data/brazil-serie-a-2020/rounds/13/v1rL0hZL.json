@@ -1,0 +1,83 @@
+{
+    "id": "v1rL0hZL",
+    "home": {
+        "id": "hfAZyE0t",
+        "url": "https://www.flashscore.com/team/goias/hfAZyE0t",
+        "score": "2"
+    },
+    "away": {
+        "id": "n3QdnjFB",
+        "url": "https://www.flashscore.com/team/santos/n3QdnjFB",
+        "score": "3"
+    },
+    "date": "04.10.2020 18:15",
+    "stadium": "Estádio da Serrinha (Goiania)",
+    "round": "13",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "55",
+            "away": "45"
+        },
+        "Goal Attempts": {
+            "home": "14",
+            "away": "10"
+        },
+        "Shots on Goal": {
+            "home": "4",
+            "away": "4"
+        },
+        "Shots off Goal": {
+            "home": "9",
+            "away": "3"
+        },
+        "Blocked Shots": {
+            "home": "1",
+            "away": "3"
+        },
+        "Free Kicks": {
+            "home": "14",
+            "away": "19"
+        },
+        "Corner Kicks": {
+            "home": "2",
+            "away": "4"
+        },
+        "Offsides": {
+            "home": "4",
+            "away": "0"
+        },
+        "Goalkeeper Saves": {
+            "home": "2",
+            "away": "2"
+        },
+        "Fouls": {
+            "home": "16",
+            "away": "15"
+        },
+        "Red Cards": {
+            "home": "1",
+            "away": "1"
+        },
+        "Yellow Cards": {
+            "home": "5",
+            "away": "4"
+        },
+        "Total Passes": {
+            "home": "384",
+            "away": "321"
+        },
+        "Tackles": {
+            "home": "13",
+            "away": "6"
+        },
+        "Attacks": {
+            "home": "94",
+            "away": "61"
+        },
+        "Dangerous Attacks": {
+            "home": "44",
+            "away": "21"
+        }
+    }
+}

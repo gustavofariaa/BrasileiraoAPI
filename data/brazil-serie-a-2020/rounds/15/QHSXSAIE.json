@@ -1,0 +1,83 @@
+{
+    "id": "QHSXSAIE",
+    "home": {
+        "id": "KIBeGAFO",
+        "url": "https://www.flashscore.com/team/sport-recife/KIBeGAFO",
+        "score": "1"
+    },
+    "away": {
+        "id": "jXzWoWa5",
+        "url": "https://www.flashscore.com/team/botafogo-rj/jXzWoWa5",
+        "score": "2"
+    },
+    "date": "11.10.2020 18:15",
+    "stadium": "Estádio Ilha do Retiro (Recife)",
+    "round": "15",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "62",
+            "away": "38"
+        },
+        "Goal Attempts": {
+            "home": "17",
+            "away": "11"
+        },
+        "Shots on Goal": {
+            "home": "3",
+            "away": "4"
+        },
+        "Shots off Goal": {
+            "home": "10",
+            "away": "5"
+        },
+        "Blocked Shots": {
+            "home": "4",
+            "away": "2"
+        },
+        "Free Kicks": {
+            "home": "15",
+            "away": "12"
+        },
+        "Corner Kicks": {
+            "home": "6",
+            "away": "8"
+        },
+        "Offsides": {
+            "home": "0",
+            "away": "0"
+        },
+        "Goalkeeper Saves": {
+            "home": "2",
+            "away": "2"
+        },
+        "Fouls": {
+            "home": "11",
+            "away": "15"
+        },
+        "Red Cards": {
+            "home": "0",
+            "away": "1"
+        },
+        "Yellow Cards": {
+            "home": "3",
+            "away": "3"
+        },
+        "Total Passes": {
+            "home": "526",
+            "away": "316"
+        },
+        "Tackles": {
+            "home": "15",
+            "away": "10"
+        },
+        "Attacks": {
+            "home": "142",
+            "away": "84"
+        },
+        "Dangerous Attacks": {
+            "home": "46",
+            "away": "44"
+        }
+    }
+}

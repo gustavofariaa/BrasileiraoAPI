@@ -1,0 +1,79 @@
+{
+    "id": "bm2sl0XP",
+    "home": {
+        "id": "UeD7XtzM",
+        "url": "https://www.flashscore.com/team/bahia/UeD7XtzM",
+        "score": "2"
+    },
+    "away": {
+        "id": "jwKvKhGa",
+        "url": "https://www.flashscore.com/team/bragantino/jwKvKhGa",
+        "score": "1"
+    },
+    "date": "16.08.2020 16:00",
+    "stadium": "Arena Fonte Nova (Salvador)",
+    "round": "3",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "42",
+            "away": "58"
+        },
+        "Goal Attempts": {
+            "home": "10",
+            "away": "16"
+        },
+        "Shots on Goal": {
+            "home": "4",
+            "away": "3"
+        },
+        "Shots off Goal": {
+            "home": "4",
+            "away": "7"
+        },
+        "Blocked Shots": {
+            "home": "2",
+            "away": "6"
+        },
+        "Free Kicks": {
+            "home": "16",
+            "away": "18"
+        },
+        "Corner Kicks": {
+            "home": "3",
+            "away": "7"
+        },
+        "Offsides": {
+            "home": "2",
+            "away": "1"
+        },
+        "Goalkeeper Saves": {
+            "home": "2",
+            "away": "2"
+        },
+        "Fouls": {
+            "home": "16",
+            "away": "16"
+        },
+        "Yellow Cards": {
+            "home": "1",
+            "away": "1"
+        },
+        "Total Passes": {
+            "home": "376",
+            "away": "502"
+        },
+        "Tackles": {
+            "home": "15",
+            "away": "15"
+        },
+        "Attacks": {
+            "home": "97",
+            "away": "156"
+        },
+        "Dangerous Attacks": {
+            "home": "30",
+            "away": "81"
+        }
+    }
+}

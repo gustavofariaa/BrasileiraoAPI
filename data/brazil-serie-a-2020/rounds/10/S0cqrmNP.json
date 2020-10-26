@@ -1,0 +1,83 @@
+{
+    "id": "S0cqrmNP",
+    "home": {
+        "id": "UeD7XtzM",
+        "url": "https://www.flashscore.com/team/bahia/UeD7XtzM",
+        "score": "0"
+    },
+    "away": {
+        "id": "8M0mP8nt",
+        "url": "https://www.flashscore.com/team/atletico-go/8M0mP8nt",
+        "score": "1"
+    },
+    "date": "13.09.2020 18:00",
+    "stadium": "Estádio Governador Roberto Santos (Bahia)",
+    "round": "10",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "53",
+            "away": "47"
+        },
+        "Goal Attempts": {
+            "home": "9",
+            "away": "12"
+        },
+        "Shots on Goal": {
+            "home": "2",
+            "away": "4"
+        },
+        "Shots off Goal": {
+            "home": "3",
+            "away": "4"
+        },
+        "Blocked Shots": {
+            "home": "4",
+            "away": "4"
+        },
+        "Free Kicks": {
+            "home": "20",
+            "away": "18"
+        },
+        "Corner Kicks": {
+            "home": "5",
+            "away": "5"
+        },
+        "Offsides": {
+            "home": "5",
+            "away": "1"
+        },
+        "Goalkeeper Saves": {
+            "home": "3",
+            "away": "2"
+        },
+        "Fouls": {
+            "home": "16",
+            "away": "20"
+        },
+        "Red Cards": {
+            "home": "1",
+            "away": "0"
+        },
+        "Yellow Cards": {
+            "home": "2",
+            "away": "2"
+        },
+        "Total Passes": {
+            "home": "427",
+            "away": "380"
+        },
+        "Tackles": {
+            "home": "15",
+            "away": "8"
+        },
+        "Attacks": {
+            "home": "111",
+            "away": "97"
+        },
+        "Dangerous Attacks": {
+            "home": "39",
+            "away": "47"
+        }
+    }
+}

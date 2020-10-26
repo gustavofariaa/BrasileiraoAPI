@@ -1,0 +1,79 @@
+{
+    "id": "0jXjL4bF",
+    "home": {
+        "id": "UoAxb1Tq",
+        "url": "https://www.flashscore.com/team/athletico-pr/UoAxb1Tq",
+        "score": "1"
+    },
+    "away": {
+        "id": "jwKvKhGa",
+        "url": "https://www.flashscore.com/team/bragantino/jwKvKhGa",
+        "score": "1"
+    },
+    "date": "02.09.2020 20:30",
+    "stadium": "Arena da Baixada (Curitiba)",
+    "round": "7",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "58",
+            "away": "42"
+        },
+        "Goal Attempts": {
+            "home": "11",
+            "away": "18"
+        },
+        "Shots on Goal": {
+            "home": "5",
+            "away": "3"
+        },
+        "Shots off Goal": {
+            "home": "3",
+            "away": "8"
+        },
+        "Blocked Shots": {
+            "home": "3",
+            "away": "7"
+        },
+        "Free Kicks": {
+            "home": "12",
+            "away": "18"
+        },
+        "Corner Kicks": {
+            "home": "2",
+            "away": "8"
+        },
+        "Offsides": {
+            "home": "1",
+            "away": "0"
+        },
+        "Goalkeeper Saves": {
+            "home": "2",
+            "away": "4"
+        },
+        "Fouls": {
+            "home": "15",
+            "away": "12"
+        },
+        "Yellow Cards": {
+            "home": "2",
+            "away": "2"
+        },
+        "Total Passes": {
+            "home": "491",
+            "away": "350"
+        },
+        "Tackles": {
+            "home": "13",
+            "away": "19"
+        },
+        "Attacks": {
+            "home": "124",
+            "away": "110"
+        },
+        "Dangerous Attacks": {
+            "home": "33",
+            "away": "42"
+        }
+    }
+}

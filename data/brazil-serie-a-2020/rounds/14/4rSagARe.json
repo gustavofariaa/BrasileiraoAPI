@@ -1,0 +1,83 @@
+{
+    "id": "4rSagARe",
+    "home": {
+        "id": "jwKvKhGa",
+        "url": "https://www.flashscore.com/team/bragantino/jwKvKhGa",
+        "score": "0"
+    },
+    "away": {
+        "id": "tSCiHj0I",
+        "url": "https://www.flashscore.com/team/internacional/tSCiHj0I",
+        "score": "2"
+    },
+    "date": "08.10.2020 21:00",
+    "stadium": "Estádio Nabi Abi Chedid (Bragança Paulista)",
+    "round": "14",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "48",
+            "away": "52"
+        },
+        "Goal Attempts": {
+            "home": "12",
+            "away": "8"
+        },
+        "Shots on Goal": {
+            "home": "2",
+            "away": "5"
+        },
+        "Shots off Goal": {
+            "home": "3",
+            "away": "2"
+        },
+        "Blocked Shots": {
+            "home": "7",
+            "away": "1"
+        },
+        "Free Kicks": {
+            "home": "23",
+            "away": "20"
+        },
+        "Corner Kicks": {
+            "home": "7",
+            "away": "2"
+        },
+        "Offsides": {
+            "home": "2",
+            "away": "1"
+        },
+        "Goalkeeper Saves": {
+            "home": "3",
+            "away": "2"
+        },
+        "Fouls": {
+            "home": "18",
+            "away": "22"
+        },
+        "Red Cards": {
+            "home": "1",
+            "away": "0"
+        },
+        "Yellow Cards": {
+            "home": "3",
+            "away": "3"
+        },
+        "Total Passes": {
+            "home": "399",
+            "away": "451"
+        },
+        "Tackles": {
+            "home": "15",
+            "away": "17"
+        },
+        "Attacks": {
+            "home": "118",
+            "away": "94"
+        },
+        "Dangerous Attacks": {
+            "home": "54",
+            "away": "26"
+        }
+    }
+}

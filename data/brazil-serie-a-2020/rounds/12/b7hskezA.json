@@ -1,0 +1,79 @@
+{
+    "id": "b7hskezA",
+    "home": {
+        "id": "p0JrJCV5",
+        "url": "https://www.flashscore.com/team/ceara/p0JrJCV5",
+        "score": "2"
+    },
+    "away": {
+        "id": "hfAZyE0t",
+        "url": "https://www.flashscore.com/team/goias/hfAZyE0t",
+        "score": "2"
+    },
+    "date": "27.09.2020 18:15",
+    "stadium": "Castelão (Fortaleza)",
+    "round": "12",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "60",
+            "away": "40"
+        },
+        "Goal Attempts": {
+            "home": "19",
+            "away": "10"
+        },
+        "Shots on Goal": {
+            "home": "5",
+            "away": "7"
+        },
+        "Shots off Goal": {
+            "home": "8",
+            "away": "2"
+        },
+        "Blocked Shots": {
+            "home": "6",
+            "away": "1"
+        },
+        "Free Kicks": {
+            "home": "17",
+            "away": "24"
+        },
+        "Corner Kicks": {
+            "home": "11",
+            "away": "7"
+        },
+        "Offsides": {
+            "home": "8",
+            "away": "3"
+        },
+        "Goalkeeper Saves": {
+            "home": "5",
+            "away": "3"
+        },
+        "Fouls": {
+            "home": "14",
+            "away": "14"
+        },
+        "Yellow Cards": {
+            "home": "3",
+            "away": "4"
+        },
+        "Total Passes": {
+            "home": "414",
+            "away": "285"
+        },
+        "Tackles": {
+            "home": "9",
+            "away": "8"
+        },
+        "Attacks": {
+            "home": "116",
+            "away": "79"
+        },
+        "Dangerous Attacks": {
+            "home": "55",
+            "away": "25"
+        }
+    }
+}

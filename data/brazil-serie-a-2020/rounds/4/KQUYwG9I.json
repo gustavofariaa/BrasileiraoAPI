@@ -1,0 +1,79 @@
+{
+    "id": "KQUYwG9I",
+    "home": {
+        "id": "jwKvKhGa",
+        "url": "https://www.flashscore.com/team/bragantino/jwKvKhGa",
+        "score": "2"
+    },
+    "away": {
+        "id": "EV9L3kU4",
+        "url": "https://www.flashscore.com/team/fluminense/EV9L3kU4",
+        "score": "1"
+    },
+    "date": "19.08.2020 19:15",
+    "stadium": "Estádio Nabi Abi Chedid (Bragança Paulista)",
+    "round": "4",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "52",
+            "away": "48"
+        },
+        "Goal Attempts": {
+            "home": "13",
+            "away": "9"
+        },
+        "Shots on Goal": {
+            "home": "3",
+            "away": "4"
+        },
+        "Shots off Goal": {
+            "home": "6",
+            "away": "3"
+        },
+        "Blocked Shots": {
+            "home": "4",
+            "away": "2"
+        },
+        "Free Kicks": {
+            "home": "13",
+            "away": "21"
+        },
+        "Corner Kicks": {
+            "home": "6",
+            "away": "4"
+        },
+        "Offsides": {
+            "home": "2",
+            "away": "0"
+        },
+        "Goalkeeper Saves": {
+            "home": "3",
+            "away": "1"
+        },
+        "Fouls": {
+            "home": "19",
+            "away": "14"
+        },
+        "Yellow Cards": {
+            "home": "5",
+            "away": "5"
+        },
+        "Total Passes": {
+            "home": "438",
+            "away": "402"
+        },
+        "Tackles": {
+            "home": "19",
+            "away": "15"
+        },
+        "Attacks": {
+            "home": "125",
+            "away": "107"
+        },
+        "Dangerous Attacks": {
+            "home": "49",
+            "away": "45"
+        }
+    }
+}

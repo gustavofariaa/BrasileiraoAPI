@@ -1,0 +1,79 @@
+{
+    "id": "nRTTTj38",
+    "home": {
+        "id": "tSCiHj0I",
+        "url": "https://www.flashscore.com/team/internacional/tSCiHj0I",
+        "score": "2"
+    },
+    "away": {
+        "id": "UoAxb1Tq",
+        "url": "https://www.flashscore.com/team/athletico-pr/UoAxb1Tq",
+        "score": "1"
+    },
+    "date": "11.10.2020 20:30",
+    "stadium": "Estádio José Pinheiro Borda (Porto Alegre)",
+    "round": "15",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "46",
+            "away": "54"
+        },
+        "Goal Attempts": {
+            "home": "13",
+            "away": "14"
+        },
+        "Shots on Goal": {
+            "home": "6",
+            "away": "4"
+        },
+        "Shots off Goal": {
+            "home": "2",
+            "away": "6"
+        },
+        "Blocked Shots": {
+            "home": "5",
+            "away": "4"
+        },
+        "Free Kicks": {
+            "home": "16",
+            "away": "22"
+        },
+        "Corner Kicks": {
+            "home": "6",
+            "away": "1"
+        },
+        "Offsides": {
+            "home": "3",
+            "away": "2"
+        },
+        "Goalkeeper Saves": {
+            "home": "3",
+            "away": "4"
+        },
+        "Fouls": {
+            "home": "19",
+            "away": "14"
+        },
+        "Yellow Cards": {
+            "home": "2",
+            "away": "0"
+        },
+        "Total Passes": {
+            "home": "408",
+            "away": "480"
+        },
+        "Tackles": {
+            "home": "29",
+            "away": "17"
+        },
+        "Attacks": {
+            "home": "108",
+            "away": "137"
+        },
+        "Dangerous Attacks": {
+            "home": "35",
+            "away": "28"
+        }
+    }
+}

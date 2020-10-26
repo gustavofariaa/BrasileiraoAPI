@@ -1,0 +1,79 @@
+{
+    "id": "v3wk1q7q",
+    "home": {
+        "id": "jXzWoWa5",
+        "url": "https://www.flashscore.com/team/botafogo-rj/jXzWoWa5",
+        "score": "0"
+    },
+    "away": {
+        "id": "KGO4pUqO",
+        "url": "https://www.flashscore.com/team/coritiba/KGO4pUqO",
+        "score": "0"
+    },
+    "date": "02.09.2020 20:30",
+    "stadium": "Estadio Olimpico Nilton Santos (Rio de Janeiro)",
+    "round": "7",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "55",
+            "away": "45"
+        },
+        "Goal Attempts": {
+            "home": "17",
+            "away": "7"
+        },
+        "Shots on Goal": {
+            "home": "6",
+            "away": "3"
+        },
+        "Shots off Goal": {
+            "home": "9",
+            "away": "2"
+        },
+        "Blocked Shots": {
+            "home": "2",
+            "away": "2"
+        },
+        "Free Kicks": {
+            "home": "22",
+            "away": "24"
+        },
+        "Corner Kicks": {
+            "home": "6",
+            "away": "6"
+        },
+        "Offsides": {
+            "home": "1",
+            "away": "0"
+        },
+        "Goalkeeper Saves": {
+            "home": "3",
+            "away": "6"
+        },
+        "Fouls": {
+            "home": "23",
+            "away": "21"
+        },
+        "Yellow Cards": {
+            "home": "1",
+            "away": "1"
+        },
+        "Total Passes": {
+            "home": "520",
+            "away": "425"
+        },
+        "Tackles": {
+            "home": "14",
+            "away": "11"
+        },
+        "Attacks": {
+            "home": "146",
+            "away": "84"
+        },
+        "Dangerous Attacks": {
+            "home": "51",
+            "away": "33"
+        }
+    }
+}

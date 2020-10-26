@@ -1,0 +1,79 @@
+{
+    "id": "pMsU9Ggn",
+    "home": {
+        "id": "KIBeGAFO",
+        "url": "https://www.flashscore.com/team/sport-recife/KIBeGAFO",
+        "score": "0"
+    },
+    "away": {
+        "id": "QgP0oAUH",
+        "url": "https://www.flashscore.com/team/sao-paulo/QgP0oAUH",
+        "score": "1"
+    },
+    "date": "23.08.2020 19:00",
+    "stadium": "Estádio Ilha do Retiro (Recife)",
+    "round": "5",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "54",
+            "away": "46"
+        },
+        "Goal Attempts": {
+            "home": "10",
+            "away": "11"
+        },
+        "Shots on Goal": {
+            "home": "2",
+            "away": "4"
+        },
+        "Shots off Goal": {
+            "home": "7",
+            "away": "3"
+        },
+        "Blocked Shots": {
+            "home": "1",
+            "away": "4"
+        },
+        "Free Kicks": {
+            "home": "26",
+            "away": "21"
+        },
+        "Corner Kicks": {
+            "home": "0",
+            "away": "3"
+        },
+        "Offsides": {
+            "home": "1",
+            "away": "0"
+        },
+        "Goalkeeper Saves": {
+            "home": "3",
+            "away": "2"
+        },
+        "Fouls": {
+            "home": "21",
+            "away": "25"
+        },
+        "Yellow Cards": {
+            "home": "2",
+            "away": "3"
+        },
+        "Total Passes": {
+            "home": "518",
+            "away": "429"
+        },
+        "Tackles": {
+            "home": "12",
+            "away": "13"
+        },
+        "Attacks": {
+            "home": "140",
+            "away": "66"
+        },
+        "Dangerous Attacks": {
+            "home": "44",
+            "away": "23"
+        }
+    }
+}

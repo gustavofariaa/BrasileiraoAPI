@@ -1,0 +1,79 @@
+{
+    "id": "zB8gkkC2",
+    "home": {
+        "id": "tSCiHj0I",
+        "url": "https://www.flashscore.com/team/internacional/tSCiHj0I",
+        "score": "2"
+    },
+    "away": {
+        "id": "n3QdnjFB",
+        "url": "https://www.flashscore.com/team/santos/n3QdnjFB",
+        "score": "0"
+    },
+    "date": "13.08.2020 19:30",
+    "stadium": "Estádio José Pinheiro Borda (Porto Alegre)",
+    "round": "2",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "58",
+            "away": "42"
+        },
+        "Goal Attempts": {
+            "home": "25",
+            "away": "6"
+        },
+        "Shots on Goal": {
+            "home": "7",
+            "away": "1"
+        },
+        "Shots off Goal": {
+            "home": "13",
+            "away": "3"
+        },
+        "Blocked Shots": {
+            "home": "5",
+            "away": "2"
+        },
+        "Free Kicks": {
+            "home": "16",
+            "away": "30"
+        },
+        "Corner Kicks": {
+            "home": "9",
+            "away": "4"
+        },
+        "Offsides": {
+            "home": "2",
+            "away": "2"
+        },
+        "Goalkeeper Saves": {
+            "home": "1",
+            "away": "5"
+        },
+        "Fouls": {
+            "home": "28",
+            "away": "14"
+        },
+        "Yellow Cards": {
+            "home": "2",
+            "away": "3"
+        },
+        "Total Passes": {
+            "home": "515",
+            "away": "379"
+        },
+        "Tackles": {
+            "home": "19",
+            "away": "11"
+        },
+        "Attacks": {
+            "home": "154",
+            "away": "70"
+        },
+        "Dangerous Attacks": {
+            "home": "70",
+            "away": "34"
+        }
+    }
+}

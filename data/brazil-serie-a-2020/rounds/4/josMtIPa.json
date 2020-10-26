@@ -1,0 +1,79 @@
+{
+    "id": "josMtIPa",
+    "home": {
+        "id": "WjxY29qB",
+        "url": "https://www.flashscore.com/team/flamengo-rj/WjxY29qB",
+        "score": "1"
+    },
+    "away": {
+        "id": "E1EFmhVh",
+        "url": "https://www.flashscore.com/team/gremio/E1EFmhVh",
+        "score": "1"
+    },
+    "date": "19.08.2020 19:15",
+    "stadium": "Maracanã (Rio de Janeiro)",
+    "round": "4",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "60",
+            "away": "40"
+        },
+        "Goal Attempts": {
+            "home": "8",
+            "away": "10"
+        },
+        "Shots on Goal": {
+            "home": "3",
+            "away": "2"
+        },
+        "Shots off Goal": {
+            "home": "3",
+            "away": "5"
+        },
+        "Blocked Shots": {
+            "home": "2",
+            "away": "3"
+        },
+        "Free Kicks": {
+            "home": "21",
+            "away": "17"
+        },
+        "Corner Kicks": {
+            "home": "1",
+            "away": "2"
+        },
+        "Offsides": {
+            "home": "1",
+            "away": "3"
+        },
+        "Goalkeeper Saves": {
+            "home": "1",
+            "away": "2"
+        },
+        "Fouls": {
+            "home": "17",
+            "away": "20"
+        },
+        "Yellow Cards": {
+            "home": "3",
+            "away": "3"
+        },
+        "Total Passes": {
+            "home": "595",
+            "away": "388"
+        },
+        "Tackles": {
+            "home": "12",
+            "away": "15"
+        },
+        "Attacks": {
+            "home": "132",
+            "away": "87"
+        },
+        "Dangerous Attacks": {
+            "home": "42",
+            "away": "19"
+        }
+    }
+}

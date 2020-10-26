@@ -1,0 +1,79 @@
+{
+    "id": "n7XffjCk",
+    "home": {
+        "id": "QgP0oAUH",
+        "url": "https://www.flashscore.com/team/sao-paulo/QgP0oAUH",
+        "score": "3"
+    },
+    "away": {
+        "id": "8M0mP8nt",
+        "url": "https://www.flashscore.com/team/atletico-go/8M0mP8nt",
+        "score": "0"
+    },
+    "date": "07.10.2020 20:30",
+    "stadium": "Estádio do Morumbi (Sao Paulo)",
+    "round": "14",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "51",
+            "away": "49"
+        },
+        "Goal Attempts": {
+            "home": "25",
+            "away": "15"
+        },
+        "Shots on Goal": {
+            "home": "8",
+            "away": "5"
+        },
+        "Shots off Goal": {
+            "home": "8",
+            "away": "8"
+        },
+        "Blocked Shots": {
+            "home": "9",
+            "away": "2"
+        },
+        "Free Kicks": {
+            "home": "15",
+            "away": "18"
+        },
+        "Corner Kicks": {
+            "home": "5",
+            "away": "3"
+        },
+        "Offsides": {
+            "home": "1",
+            "away": "2"
+        },
+        "Goalkeeper Saves": {
+            "home": "5",
+            "away": "5"
+        },
+        "Fouls": {
+            "home": "17",
+            "away": "12"
+        },
+        "Yellow Cards": {
+            "home": "3",
+            "away": "2"
+        },
+        "Total Passes": {
+            "home": "430",
+            "away": "416"
+        },
+        "Tackles": {
+            "home": "13",
+            "away": "7"
+        },
+        "Attacks": {
+            "home": "66",
+            "away": "113"
+        },
+        "Dangerous Attacks": {
+            "home": "26",
+            "away": "62"
+        }
+    }
+}

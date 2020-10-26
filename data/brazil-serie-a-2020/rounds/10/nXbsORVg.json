@@ -1,0 +1,83 @@
+{
+    "id": "nXbsORVg",
+    "home": {
+        "id": "EV9L3kU4",
+        "url": "https://www.flashscore.com/team/fluminense/EV9L3kU4",
+        "score": "2"
+    },
+    "away": {
+        "id": "QBGfQbSe",
+        "url": "https://www.flashscore.com/team/corinthians/QBGfQbSe",
+        "score": "1"
+    },
+    "date": "13.09.2020 16:00",
+    "stadium": "Maracanã (Rio de Janeiro)",
+    "round": "10",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "48",
+            "away": "52"
+        },
+        "Goal Attempts": {
+            "home": "15",
+            "away": "9"
+        },
+        "Shots on Goal": {
+            "home": "3",
+            "away": "3"
+        },
+        "Shots off Goal": {
+            "home": "7",
+            "away": "5"
+        },
+        "Blocked Shots": {
+            "home": "5",
+            "away": "1"
+        },
+        "Free Kicks": {
+            "home": "16",
+            "away": "14"
+        },
+        "Corner Kicks": {
+            "home": "5",
+            "away": "8"
+        },
+        "Offsides": {
+            "home": "0",
+            "away": "2"
+        },
+        "Goalkeeper Saves": {
+            "home": "2",
+            "away": "1"
+        },
+        "Fouls": {
+            "home": "14",
+            "away": "15"
+        },
+        "Red Cards": {
+            "home": "1",
+            "away": "0"
+        },
+        "Yellow Cards": {
+            "home": "2",
+            "away": "4"
+        },
+        "Total Passes": {
+            "home": "353",
+            "away": "376"
+        },
+        "Tackles": {
+            "home": "21",
+            "away": "15"
+        },
+        "Attacks": {
+            "home": "106",
+            "away": "78"
+        },
+        "Dangerous Attacks": {
+            "home": "41",
+            "away": "36"
+        }
+    }
+}

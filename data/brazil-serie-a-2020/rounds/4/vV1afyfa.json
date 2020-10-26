@@ -1,0 +1,79 @@
+{
+    "id": "vV1afyfa",
+    "home": {
+        "id": "hfAZyE0t",
+        "url": "https://www.flashscore.com/team/goias/hfAZyE0t",
+        "score": "1"
+    },
+    "away": {
+        "id": "42FbPIs2",
+        "url": "https://www.flashscore.com/team/fortaleza/42FbPIs2",
+        "score": "3"
+    },
+    "date": "19.08.2020 20:30",
+    "stadium": "Estádio da Serrinha (Goiania)",
+    "round": "4",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "47",
+            "away": "53"
+        },
+        "Goal Attempts": {
+            "home": "13",
+            "away": "13"
+        },
+        "Shots on Goal": {
+            "home": "4",
+            "away": "3"
+        },
+        "Shots off Goal": {
+            "home": "9",
+            "away": "5"
+        },
+        "Blocked Shots": {
+            "home": "0",
+            "away": "5"
+        },
+        "Free Kicks": {
+            "home": "17",
+            "away": "21"
+        },
+        "Corner Kicks": {
+            "home": "2",
+            "away": "6"
+        },
+        "Offsides": {
+            "home": "3",
+            "away": "2"
+        },
+        "Goalkeeper Saves": {
+            "home": "0",
+            "away": "3"
+        },
+        "Fouls": {
+            "home": "16",
+            "away": "15"
+        },
+        "Yellow Cards": {
+            "home": "4",
+            "away": "2"
+        },
+        "Total Passes": {
+            "home": "331",
+            "away": "381"
+        },
+        "Tackles": {
+            "home": "24",
+            "away": "21"
+        },
+        "Attacks": {
+            "home": "120",
+            "away": "91"
+        },
+        "Dangerous Attacks": {
+            "home": "40",
+            "away": "28"
+        }
+    }
+}

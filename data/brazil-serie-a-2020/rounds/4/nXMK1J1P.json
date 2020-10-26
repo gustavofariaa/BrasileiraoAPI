@@ -1,0 +1,83 @@
+{
+    "id": "nXMK1J1P",
+    "home": {
+        "id": "tSCiHj0I",
+        "url": "https://www.flashscore.com/team/internacional/tSCiHj0I",
+        "score": "3"
+    },
+    "away": {
+        "id": "8M0mP8nt",
+        "url": "https://www.flashscore.com/team/atletico-go/8M0mP8nt",
+        "score": "0"
+    },
+    "date": "19.08.2020 20:30",
+    "stadium": "Estádio José Pinheiro Borda (Porto Alegre)",
+    "round": "4",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "57",
+            "away": "43"
+        },
+        "Goal Attempts": {
+            "home": "11",
+            "away": "7"
+        },
+        "Shots on Goal": {
+            "home": "5",
+            "away": "1"
+        },
+        "Shots off Goal": {
+            "home": "3",
+            "away": "5"
+        },
+        "Blocked Shots": {
+            "home": "3",
+            "away": "1"
+        },
+        "Free Kicks": {
+            "home": "21",
+            "away": "19"
+        },
+        "Corner Kicks": {
+            "home": "4",
+            "away": "3"
+        },
+        "Offsides": {
+            "home": "1",
+            "away": "2"
+        },
+        "Goalkeeper Saves": {
+            "home": "1",
+            "away": "2"
+        },
+        "Fouls": {
+            "home": "19",
+            "away": "17"
+        },
+        "Red Cards": {
+            "home": "1",
+            "away": "0"
+        },
+        "Yellow Cards": {
+            "home": "3",
+            "away": "3"
+        },
+        "Total Passes": {
+            "home": "442",
+            "away": "334"
+        },
+        "Tackles": {
+            "home": "8",
+            "away": "14"
+        },
+        "Attacks": {
+            "home": "115",
+            "away": "74"
+        },
+        "Dangerous Attacks": {
+            "home": "60",
+            "away": "24"
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "id": "QHAYPm1s",
+    "home": {
+        "id": "42FbPIs2",
+        "url": "https://www.flashscore.com/team/fortaleza/42FbPIs2",
+        "score": "1"
+    },
+    "away": {
+        "id": "KIBeGAFO",
+        "url": "https://www.flashscore.com/team/sport-recife/KIBeGAFO",
+        "score": "0"
+    },
+    "date": "09.09.2020 18:00",
+    "stadium": "Estadio Presidente Vargas (Fortaleza)",
+    "round": "9",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "53",
+            "away": "47"
+        },
+        "Goal Attempts": {
+            "home": "12",
+            "away": "4"
+        },
+        "Shots on Goal": {
+            "home": "4",
+            "away": "1"
+        },
+        "Shots off Goal": {
+            "home": "7",
+            "away": "2"
+        },
+        "Blocked Shots": {
+            "home": "1",
+            "away": "1"
+        },
+        "Free Kicks": {
+            "home": "13",
+            "away": "25"
+        },
+        "Corner Kicks": {
+            "home": "6",
+            "away": "1"
+        },
+        "Offsides": {
+            "home": "0",
+            "away": "2"
+        },
+        "Goalkeeper Saves": {
+            "home": "1",
+            "away": "3"
+        },
+        "Fouls": {
+            "home": "27",
+            "away": "14"
+        },
+        "Yellow Cards": {
+            "home": "5",
+            "away": "1"
+        },
+        "Total Passes": {
+            "home": "410",
+            "away": "368"
+        },
+        "Tackles": {
+            "home": "5",
+            "away": "15"
+        },
+        "Attacks": {
+            "home": "93",
+            "away": "90"
+        },
+        "Dangerous Attacks": {
+            "home": "52",
+            "away": "27"
+        }
+    }
+}

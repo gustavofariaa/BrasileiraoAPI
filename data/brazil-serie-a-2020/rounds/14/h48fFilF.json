@@ -1,0 +1,79 @@
+{
+    "id": "h48fFilF",
+    "home": {
+        "id": "UoAxb1Tq",
+        "url": "https://www.flashscore.com/team/athletico-pr/UoAxb1Tq",
+        "score": "0"
+    },
+    "away": {
+        "id": "p0JrJCV5",
+        "url": "https://www.flashscore.com/team/ceara/p0JrJCV5",
+        "score": "0"
+    },
+    "date": "08.10.2020 19:00",
+    "stadium": "Arena da Baixada (Curitiba)",
+    "round": "14",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "61",
+            "away": "39"
+        },
+        "Goal Attempts": {
+            "home": "14",
+            "away": "13"
+        },
+        "Shots on Goal": {
+            "home": "1",
+            "away": "4"
+        },
+        "Shots off Goal": {
+            "home": "7",
+            "away": "6"
+        },
+        "Blocked Shots": {
+            "home": "6",
+            "away": "3"
+        },
+        "Free Kicks": {
+            "home": "14",
+            "away": "10"
+        },
+        "Corner Kicks": {
+            "home": "3",
+            "away": "3"
+        },
+        "Offsides": {
+            "home": "2",
+            "away": "2"
+        },
+        "Goalkeeper Saves": {
+            "home": "4",
+            "away": "1"
+        },
+        "Fouls": {
+            "home": "11",
+            "away": "12"
+        },
+        "Yellow Cards": {
+            "home": "3",
+            "away": "2"
+        },
+        "Total Passes": {
+            "home": "562",
+            "away": "350"
+        },
+        "Tackles": {
+            "home": "10",
+            "away": "10"
+        },
+        "Attacks": {
+            "home": "137",
+            "away": "85"
+        },
+        "Dangerous Attacks": {
+            "home": "56",
+            "away": "34"
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "id": "2LWnuK6o",
+    "home": {
+        "id": "E1EFmhVh",
+        "url": "https://www.flashscore.com/team/gremio/E1EFmhVh",
+        "score": "1"
+    },
+    "away": {
+        "id": "hMn9FTbH",
+        "url": "https://www.flashscore.com/team/palmeiras/hMn9FTbH",
+        "score": "1"
+    },
+    "date": "20.09.2020 16:00",
+    "stadium": "Arena do Grêmio (Porto Alegre)",
+    "round": "11",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "64",
+            "away": "36"
+        },
+        "Goal Attempts": {
+            "home": "13",
+            "away": "9"
+        },
+        "Shots on Goal": {
+            "home": "2",
+            "away": "2"
+        },
+        "Shots off Goal": {
+            "home": "5",
+            "away": "4"
+        },
+        "Blocked Shots": {
+            "home": "6",
+            "away": "3"
+        },
+        "Free Kicks": {
+            "home": "23",
+            "away": "22"
+        },
+        "Corner Kicks": {
+            "home": "6",
+            "away": "3"
+        },
+        "Offsides": {
+            "home": "0",
+            "away": "2"
+        },
+        "Goalkeeper Saves": {
+            "home": "1",
+            "away": "1"
+        },
+        "Fouls": {
+            "home": "21",
+            "away": "21"
+        },
+        "Yellow Cards": {
+            "home": "2",
+            "away": "3"
+        },
+        "Total Passes": {
+            "home": "587",
+            "away": "337"
+        },
+        "Tackles": {
+            "home": "14",
+            "away": "18"
+        },
+        "Attacks": {
+            "home": "142",
+            "away": "69"
+        },
+        "Dangerous Attacks": {
+            "home": "57",
+            "away": "27"
+        }
+    }
+}

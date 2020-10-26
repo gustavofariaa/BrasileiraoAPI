@@ -1,0 +1,79 @@
+{
+    "id": "ldJ6UThQ",
+    "home": {
+        "id": "UoAxb1Tq",
+        "url": "https://www.flashscore.com/team/athletico-pr/UoAxb1Tq",
+        "score": "1"
+    },
+    "away": {
+        "id": "jXzWoWa5",
+        "url": "https://www.flashscore.com/team/botafogo-rj/jXzWoWa5",
+        "score": "1"
+    },
+    "date": "09.09.2020 17:30",
+    "stadium": "Arena da Baixada (Curitiba)",
+    "round": "9",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "61",
+            "away": "39"
+        },
+        "Goal Attempts": {
+            "home": "17",
+            "away": "12"
+        },
+        "Shots on Goal": {
+            "home": "3",
+            "away": "5"
+        },
+        "Shots off Goal": {
+            "home": "9",
+            "away": "5"
+        },
+        "Blocked Shots": {
+            "home": "5",
+            "away": "2"
+        },
+        "Free Kicks": {
+            "home": "12",
+            "away": "16"
+        },
+        "Corner Kicks": {
+            "home": "7",
+            "away": "3"
+        },
+        "Offsides": {
+            "home": "3",
+            "away": "2"
+        },
+        "Goalkeeper Saves": {
+            "home": "4",
+            "away": "2"
+        },
+        "Fouls": {
+            "home": "19",
+            "away": "10"
+        },
+        "Yellow Cards": {
+            "home": "1",
+            "away": "0"
+        },
+        "Total Passes": {
+            "home": "495",
+            "away": "310"
+        },
+        "Tackles": {
+            "home": "7",
+            "away": "19"
+        },
+        "Attacks": {
+            "home": "117",
+            "away": "69"
+        },
+        "Dangerous Attacks": {
+            "home": "53",
+            "away": "25"
+        }
+    }
+}

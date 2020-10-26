@@ -1,0 +1,83 @@
+{
+    "id": "CfrIsbAg",
+    "home": {
+        "id": "8M0mP8nt",
+        "url": "https://www.flashscore.com/team/atletico-go/8M0mP8nt",
+        "score": "1"
+    },
+    "away": {
+        "id": "KIBeGAFO",
+        "url": "https://www.flashscore.com/team/sport-recife/KIBeGAFO",
+        "score": "1"
+    },
+    "date": "16.08.2020 19:00",
+    "stadium": "Estádio Antonio Accioly (Goiânia)",
+    "round": "3",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "32",
+            "away": "68"
+        },
+        "Goal Attempts": {
+            "home": "10",
+            "away": "15"
+        },
+        "Shots on Goal": {
+            "home": "4",
+            "away": "4"
+        },
+        "Shots off Goal": {
+            "home": "5",
+            "away": "8"
+        },
+        "Blocked Shots": {
+            "home": "1",
+            "away": "3"
+        },
+        "Free Kicks": {
+            "home": "16",
+            "away": "14"
+        },
+        "Corner Kicks": {
+            "home": "4",
+            "away": "9"
+        },
+        "Offsides": {
+            "home": "0",
+            "away": "2"
+        },
+        "Goalkeeper Saves": {
+            "home": "3",
+            "away": "3"
+        },
+        "Fouls": {
+            "home": "13",
+            "away": "15"
+        },
+        "Red Cards": {
+            "home": "1",
+            "away": "0"
+        },
+        "Yellow Cards": {
+            "home": "2",
+            "away": "2"
+        },
+        "Total Passes": {
+            "home": "234",
+            "away": "504"
+        },
+        "Tackles": {
+            "home": "10",
+            "away": "7"
+        },
+        "Attacks": {
+            "home": "78",
+            "away": "118"
+        },
+        "Dangerous Attacks": {
+            "home": "27",
+            "away": "65"
+        }
+    }
+}

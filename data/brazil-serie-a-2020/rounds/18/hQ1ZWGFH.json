@@ -1,0 +1,79 @@
+{
+    "id": "hQ1ZWGFH",
+    "home": {
+        "id": "2RABlYFn",
+        "url": "https://www.flashscore.com/team/vasco/2RABlYFn",
+        "score": "1"
+    },
+    "away": {
+        "id": "QBGfQbSe",
+        "url": "https://www.flashscore.com/team/corinthians/QBGfQbSe",
+        "score": "2"
+    },
+    "date": "21.10.2020 21:30",
+    "stadium": "Estádio Vasco da Gama (Rio de Janeiro)",
+    "round": "18",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "64",
+            "away": "36"
+        },
+        "Goal Attempts": {
+            "home": "17",
+            "away": "11"
+        },
+        "Shots on Goal": {
+            "home": "8",
+            "away": "3"
+        },
+        "Shots off Goal": {
+            "home": "6",
+            "away": "3"
+        },
+        "Blocked Shots": {
+            "home": "3",
+            "away": "5"
+        },
+        "Free Kicks": {
+            "home": "20",
+            "away": "12"
+        },
+        "Corner Kicks": {
+            "home": "9",
+            "away": "6"
+        },
+        "Offsides": {
+            "home": "1",
+            "away": "2"
+        },
+        "Goalkeeper Saves": {
+            "home": "1",
+            "away": "7"
+        },
+        "Fouls": {
+            "home": "12",
+            "away": "18"
+        },
+        "Yellow Cards": {
+            "home": "1",
+            "away": "2"
+        },
+        "Total Passes": {
+            "home": "547",
+            "away": "306"
+        },
+        "Tackles": {
+            "home": "16",
+            "away": "18"
+        },
+        "Attacks": {
+            "home": "140",
+            "away": "103"
+        },
+        "Dangerous Attacks": {
+            "home": "65",
+            "away": "41"
+        }
+    }
+}

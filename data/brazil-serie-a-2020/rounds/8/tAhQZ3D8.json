@@ -1,0 +1,79 @@
+{
+    "id": "tAhQZ3D8",
+    "home": {
+        "id": "tSCiHj0I",
+        "url": "https://www.flashscore.com/team/internacional/tSCiHj0I",
+        "score": "2"
+    },
+    "away": {
+        "id": "UeD7XtzM",
+        "url": "https://www.flashscore.com/team/bahia/UeD7XtzM",
+        "score": "2"
+    },
+    "date": "06.09.2020 16:00",
+    "stadium": "Estádio José Pinheiro Borda (Porto Alegre)",
+    "round": "8",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "62",
+            "away": "38"
+        },
+        "Goal Attempts": {
+            "home": "8",
+            "away": "10"
+        },
+        "Shots on Goal": {
+            "home": "5",
+            "away": "4"
+        },
+        "Shots off Goal": {
+            "home": "1",
+            "away": "4"
+        },
+        "Blocked Shots": {
+            "home": "2",
+            "away": "2"
+        },
+        "Free Kicks": {
+            "home": "13",
+            "away": "13"
+        },
+        "Corner Kicks": {
+            "home": "8",
+            "away": "5"
+        },
+        "Offsides": {
+            "home": "0",
+            "away": "1"
+        },
+        "Goalkeeper Saves": {
+            "home": "2",
+            "away": "3"
+        },
+        "Fouls": {
+            "home": "11",
+            "away": "11"
+        },
+        "Yellow Cards": {
+            "home": "2",
+            "away": "3"
+        },
+        "Total Passes": {
+            "home": "474",
+            "away": "290"
+        },
+        "Tackles": {
+            "home": "16",
+            "away": "16"
+        },
+        "Attacks": {
+            "home": "136",
+            "away": "72"
+        },
+        "Dangerous Attacks": {
+            "home": "75",
+            "away": "36"
+        }
+    }
+}

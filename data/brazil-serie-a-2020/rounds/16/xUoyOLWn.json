@@ -1,0 +1,83 @@
+{
+    "id": "xUoyOLWn",
+    "home": {
+        "id": "UoAxb1Tq",
+        "url": "https://www.flashscore.com/team/athletico-pr/UoAxb1Tq",
+        "score": "0"
+    },
+    "away": {
+        "id": "QBGfQbSe",
+        "url": "https://www.flashscore.com/team/corinthians/QBGfQbSe",
+        "score": "1"
+    },
+    "date": "14.10.2020 21:30",
+    "stadium": "Arena da Baixada (Curitiba)",
+    "round": "16",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "61",
+            "away": "39"
+        },
+        "Goal Attempts": {
+            "home": "15",
+            "away": "13"
+        },
+        "Shots on Goal": {
+            "home": "9",
+            "away": "6"
+        },
+        "Shots off Goal": {
+            "home": "4",
+            "away": "5"
+        },
+        "Blocked Shots": {
+            "home": "2",
+            "away": "2"
+        },
+        "Free Kicks": {
+            "home": "13",
+            "away": "16"
+        },
+        "Corner Kicks": {
+            "home": "8",
+            "away": "2"
+        },
+        "Offsides": {
+            "home": "2",
+            "away": "1"
+        },
+        "Goalkeeper Saves": {
+            "home": "5",
+            "away": "9"
+        },
+        "Fouls": {
+            "home": "18",
+            "away": "14"
+        },
+        "Red Cards": {
+            "home": "0",
+            "away": "1"
+        },
+        "Yellow Cards": {
+            "home": "3",
+            "away": "3"
+        },
+        "Total Passes": {
+            "home": "534",
+            "away": "332"
+        },
+        "Tackles": {
+            "home": "7",
+            "away": "12"
+        },
+        "Attacks": {
+            "home": "149",
+            "away": "75"
+        },
+        "Dangerous Attacks": {
+            "home": "57",
+            "away": "27"
+        }
+    }
+}

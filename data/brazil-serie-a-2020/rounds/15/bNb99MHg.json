@@ -1,0 +1,79 @@
+{
+    "id": "bNb99MHg",
+    "home": {
+        "id": "8M0mP8nt",
+        "url": "https://www.flashscore.com/team/atletico-go/8M0mP8nt",
+        "score": "2"
+    },
+    "away": {
+        "id": "jwKvKhGa",
+        "url": "https://www.flashscore.com/team/bragantino/jwKvKhGa",
+        "score": "1"
+    },
+    "date": "11.10.2020 18:15",
+    "stadium": "Estádio Antonio Accioly (Goiânia)",
+    "round": "15",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "53",
+            "away": "47"
+        },
+        "Goal Attempts": {
+            "home": "24",
+            "away": "19"
+        },
+        "Shots on Goal": {
+            "home": "8",
+            "away": "5"
+        },
+        "Shots off Goal": {
+            "home": "13",
+            "away": "8"
+        },
+        "Blocked Shots": {
+            "home": "3",
+            "away": "6"
+        },
+        "Free Kicks": {
+            "home": "20",
+            "away": "17"
+        },
+        "Corner Kicks": {
+            "home": "7",
+            "away": "11"
+        },
+        "Offsides": {
+            "home": "0",
+            "away": "2"
+        },
+        "Goalkeeper Saves": {
+            "home": "4",
+            "away": "6"
+        },
+        "Fouls": {
+            "home": "17",
+            "away": "18"
+        },
+        "Yellow Cards": {
+            "home": "1",
+            "away": "1"
+        },
+        "Total Passes": {
+            "home": "369",
+            "away": "334"
+        },
+        "Tackles": {
+            "home": "12",
+            "away": "15"
+        },
+        "Attacks": {
+            "home": "106",
+            "away": "79"
+        },
+        "Dangerous Attacks": {
+            "home": "76",
+            "away": "46"
+        }
+    }
+}

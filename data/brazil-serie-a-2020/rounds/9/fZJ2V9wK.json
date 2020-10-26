@@ -1,0 +1,83 @@
+{
+    "id": "fZJ2V9wK",
+    "home": {
+        "id": "UeD7XtzM",
+        "url": "https://www.flashscore.com/team/bahia/UeD7XtzM",
+        "score": "0"
+    },
+    "away": {
+        "id": "E1EFmhVh",
+        "url": "https://www.flashscore.com/team/gremio/E1EFmhVh",
+        "score": "2"
+    },
+    "date": "10.09.2020 19:15",
+    "stadium": "Estádio Governador Roberto Santos (Bahia)",
+    "round": "9",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "50",
+            "away": "50"
+        },
+        "Goal Attempts": {
+            "home": "17",
+            "away": "18"
+        },
+        "Shots on Goal": {
+            "home": "6",
+            "away": "6"
+        },
+        "Shots off Goal": {
+            "home": "9",
+            "away": "9"
+        },
+        "Blocked Shots": {
+            "home": "2",
+            "away": "3"
+        },
+        "Free Kicks": {
+            "home": "11",
+            "away": "13"
+        },
+        "Corner Kicks": {
+            "home": "8",
+            "away": "4"
+        },
+        "Offsides": {
+            "home": "1",
+            "away": "2"
+        },
+        "Goalkeeper Saves": {
+            "home": "4",
+            "away": "6"
+        },
+        "Fouls": {
+            "home": "12",
+            "away": "9"
+        },
+        "Red Cards": {
+            "home": "1",
+            "away": "1"
+        },
+        "Yellow Cards": {
+            "home": "1",
+            "away": "4"
+        },
+        "Total Passes": {
+            "home": "471",
+            "away": "476"
+        },
+        "Tackles": {
+            "home": "9",
+            "away": "10"
+        },
+        "Attacks": {
+            "home": "99",
+            "away": "95"
+        },
+        "Dangerous Attacks": {
+            "home": "51",
+            "away": "46"
+        }
+    }
+}

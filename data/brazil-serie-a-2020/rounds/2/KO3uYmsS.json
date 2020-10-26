@@ -1,0 +1,83 @@
+{
+    "id": "KO3uYmsS",
+    "home": {
+        "id": "EV9L3kU4",
+        "url": "https://www.flashscore.com/team/fluminense/EV9L3kU4",
+        "score": "1"
+    },
+    "away": {
+        "id": "hMn9FTbH",
+        "url": "https://www.flashscore.com/team/palmeiras/hMn9FTbH",
+        "score": "1"
+    },
+    "date": "12.08.2020 21:30",
+    "stadium": "Maracanã (Rio de Janeiro)",
+    "round": "2",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "52",
+            "away": "48"
+        },
+        "Goal Attempts": {
+            "home": "7",
+            "away": "6"
+        },
+        "Shots on Goal": {
+            "home": "1",
+            "away": "1"
+        },
+        "Shots off Goal": {
+            "home": "6",
+            "away": "5"
+        },
+        "Blocked Shots": {
+            "home": "3",
+            "away": "3"
+        },
+        "Free Kicks": {
+            "home": "31",
+            "away": "23"
+        },
+        "Corner Kicks": {
+            "home": "3",
+            "away": "3"
+        },
+        "Offsides": {
+            "home": "3",
+            "away": "0"
+        },
+        "Throw-in": {
+            "home": "15",
+            "away": "15"
+        },
+        "Goalkeeper Saves": {
+            "home": "0",
+            "away": "0"
+        },
+        "Fouls": {
+            "home": "20",
+            "away": "31"
+        },
+        "Yellow Cards": {
+            "home": "3",
+            "away": "3"
+        },
+        "Total Passes": {
+            "home": "430",
+            "away": "400"
+        },
+        "Tackles": {
+            "home": "9",
+            "away": "20"
+        },
+        "Attacks": {
+            "home": "108",
+            "away": "93"
+        },
+        "Dangerous Attacks": {
+            "home": "59",
+            "away": "52"
+        }
+    }
+}

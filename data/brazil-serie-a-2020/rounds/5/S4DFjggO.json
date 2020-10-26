@@ -1,0 +1,83 @@
+{
+    "id": "S4DFjggO",
+    "home": {
+        "id": "jwKvKhGa",
+        "url": "https://www.flashscore.com/team/bragantino/jwKvKhGa",
+        "score": "1"
+    },
+    "away": {
+        "id": "KGO4pUqO",
+        "url": "https://www.flashscore.com/team/coritiba/KGO4pUqO",
+        "score": "2"
+    },
+    "date": "23.08.2020 16:00",
+    "stadium": "Estádio Nabi Abi Chedid (Bragança Paulista)",
+    "round": "5",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "47",
+            "away": "53"
+        },
+        "Goal Attempts": {
+            "home": "15",
+            "away": "7"
+        },
+        "Shots on Goal": {
+            "home": "2",
+            "away": "4"
+        },
+        "Shots off Goal": {
+            "home": "5",
+            "away": "1"
+        },
+        "Blocked Shots": {
+            "home": "8",
+            "away": "2"
+        },
+        "Free Kicks": {
+            "home": "19",
+            "away": "17"
+        },
+        "Corner Kicks": {
+            "home": "10",
+            "away": "4"
+        },
+        "Offsides": {
+            "home": "1",
+            "away": "2"
+        },
+        "Goalkeeper Saves": {
+            "home": "2",
+            "away": "1"
+        },
+        "Fouls": {
+            "home": "17",
+            "away": "18"
+        },
+        "Red Cards": {
+            "home": "1",
+            "away": "0"
+        },
+        "Yellow Cards": {
+            "home": "2",
+            "away": "0"
+        },
+        "Total Passes": {
+            "home": "324",
+            "away": "397"
+        },
+        "Tackles": {
+            "home": "12",
+            "away": "28"
+        },
+        "Attacks": {
+            "home": "110",
+            "away": "84"
+        },
+        "Dangerous Attacks": {
+            "home": "58",
+            "away": "25"
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "id": "zZ6nTDDj",
+    "home": {
+        "id": "hGLC5Bah",
+        "url": "https://www.flashscore.com/team/atletico-mg/hGLC5Bah",
+        "score": "3"
+    },
+    "away": {
+        "id": "E1EFmhVh",
+        "url": "https://www.flashscore.com/team/gremio/E1EFmhVh",
+        "score": "1"
+    },
+    "date": "26.09.2020 21:00",
+    "stadium": "Estádio Raimundo Sampaio (Belo Horizonte)",
+    "round": "12",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "54",
+            "away": "46"
+        },
+        "Goal Attempts": {
+            "home": "20",
+            "away": "9"
+        },
+        "Shots on Goal": {
+            "home": "6",
+            "away": "4"
+        },
+        "Shots off Goal": {
+            "home": "7",
+            "away": "5"
+        },
+        "Blocked Shots": {
+            "home": "7",
+            "away": "0"
+        },
+        "Free Kicks": {
+            "home": "11",
+            "away": "18"
+        },
+        "Corner Kicks": {
+            "home": "9",
+            "away": "4"
+        },
+        "Offsides": {
+            "home": "0",
+            "away": "0"
+        },
+        "Goalkeeper Saves": {
+            "home": "3",
+            "away": "3"
+        },
+        "Fouls": {
+            "home": "20",
+            "away": "11"
+        },
+        "Yellow Cards": {
+            "home": "1",
+            "away": "1"
+        },
+        "Total Passes": {
+            "home": "478",
+            "away": "408"
+        },
+        "Tackles": {
+            "home": "14",
+            "away": "11"
+        },
+        "Attacks": {
+            "home": "107",
+            "away": "90"
+        },
+        "Dangerous Attacks": {
+            "home": "40",
+            "away": "41"
+        }
+    }
+}

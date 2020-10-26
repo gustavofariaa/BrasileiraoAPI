@@ -1,0 +1,79 @@
+{
+    "id": "z7AcKqVI",
+    "home": {
+        "id": "hGLC5Bah",
+        "url": "https://www.flashscore.com/team/atletico-mg/hGLC5Bah",
+        "score": "2"
+    },
+    "away": {
+        "id": "jwKvKhGa",
+        "url": "https://www.flashscore.com/team/bragantino/jwKvKhGa",
+        "score": "1"
+    },
+    "date": "13.09.2020 18:00",
+    "stadium": "Mineirão (Belo Horizonte)",
+    "round": "10",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "64",
+            "away": "36"
+        },
+        "Goal Attempts": {
+            "home": "14",
+            "away": "12"
+        },
+        "Shots on Goal": {
+            "home": "7",
+            "away": "4"
+        },
+        "Shots off Goal": {
+            "home": "5",
+            "away": "6"
+        },
+        "Blocked Shots": {
+            "home": "2",
+            "away": "2"
+        },
+        "Free Kicks": {
+            "home": "16",
+            "away": "18"
+        },
+        "Corner Kicks": {
+            "home": "8",
+            "away": "3"
+        },
+        "Offsides": {
+            "home": "5",
+            "away": "0"
+        },
+        "Goalkeeper Saves": {
+            "home": "3",
+            "away": "5"
+        },
+        "Fouls": {
+            "home": "13",
+            "away": "18"
+        },
+        "Yellow Cards": {
+            "home": "1",
+            "away": "1"
+        },
+        "Total Passes": {
+            "home": "553",
+            "away": "308"
+        },
+        "Tackles": {
+            "home": "11",
+            "away": "20"
+        },
+        "Attacks": {
+            "home": "138",
+            "away": "87"
+        },
+        "Dangerous Attacks": {
+            "home": "52",
+            "away": "30"
+        }
+    }
+}

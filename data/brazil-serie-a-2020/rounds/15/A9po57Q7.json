@@ -1,0 +1,79 @@
+{
+    "id": "A9po57Q7",
+    "home": {
+        "id": "hGLC5Bah",
+        "url": "https://www.flashscore.com/team/atletico-mg/hGLC5Bah",
+        "score": "3"
+    },
+    "away": {
+        "id": "hfAZyE0t",
+        "url": "https://www.flashscore.com/team/goias/hfAZyE0t",
+        "score": "0"
+    },
+    "date": "10.10.2020 21:00",
+    "stadium": "Estádio Raimundo Sampaio (Belo Horizonte)",
+    "round": "15",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "66",
+            "away": "34"
+        },
+        "Goal Attempts": {
+            "home": "23",
+            "away": "4"
+        },
+        "Shots on Goal": {
+            "home": "11",
+            "away": "3"
+        },
+        "Shots off Goal": {
+            "home": "8",
+            "away": "0"
+        },
+        "Blocked Shots": {
+            "home": "4",
+            "away": "1"
+        },
+        "Free Kicks": {
+            "home": "10",
+            "away": "18"
+        },
+        "Corner Kicks": {
+            "home": "8",
+            "away": "1"
+        },
+        "Offsides": {
+            "home": "4",
+            "away": "1"
+        },
+        "Goalkeeper Saves": {
+            "home": "3",
+            "away": "8"
+        },
+        "Fouls": {
+            "home": "14",
+            "away": "11"
+        },
+        "Yellow Cards": {
+            "home": "0",
+            "away": "1"
+        },
+        "Total Passes": {
+            "home": "599",
+            "away": "309"
+        },
+        "Tackles": {
+            "home": "16",
+            "away": "26"
+        },
+        "Attacks": {
+            "home": "148",
+            "away": "80"
+        },
+        "Dangerous Attacks": {
+            "home": "82",
+            "away": "22"
+        }
+    }
+}

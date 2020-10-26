@@ -1,0 +1,79 @@
+{
+    "id": "t6fU4bWO",
+    "home": {
+        "id": "hGLC5Bah",
+        "url": "https://www.flashscore.com/team/atletico-mg/hGLC5Bah",
+        "score": "1"
+    },
+    "away": {
+        "id": "EV9L3kU4",
+        "url": "https://www.flashscore.com/team/fluminense/EV9L3kU4",
+        "score": "1"
+    },
+    "date": "14.10.2020 21:30",
+    "stadium": "Estádio Raimundo Sampaio (Belo Horizonte)",
+    "round": "16",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "65",
+            "away": "35"
+        },
+        "Goal Attempts": {
+            "home": "13",
+            "away": "11"
+        },
+        "Shots on Goal": {
+            "home": "8",
+            "away": "3"
+        },
+        "Shots off Goal": {
+            "home": "3",
+            "away": "6"
+        },
+        "Blocked Shots": {
+            "home": "2",
+            "away": "2"
+        },
+        "Free Kicks": {
+            "home": "13",
+            "away": "9"
+        },
+        "Corner Kicks": {
+            "home": "9",
+            "away": "4"
+        },
+        "Offsides": {
+            "home": "0",
+            "away": "3"
+        },
+        "Goalkeeper Saves": {
+            "home": "2",
+            "away": "7"
+        },
+        "Fouls": {
+            "home": "11",
+            "away": "9"
+        },
+        "Yellow Cards": {
+            "home": "3",
+            "away": "1"
+        },
+        "Total Passes": {
+            "home": "554",
+            "away": "299"
+        },
+        "Tackles": {
+            "home": "25",
+            "away": "19"
+        },
+        "Attacks": {
+            "home": "127",
+            "away": "79"
+        },
+        "Dangerous Attacks": {
+            "home": "75",
+            "away": "43"
+        }
+    }
+}

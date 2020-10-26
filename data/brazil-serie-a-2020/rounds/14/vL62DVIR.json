@@ -1,0 +1,79 @@
+{
+    "id": "vL62DVIR",
+    "home": {
+        "id": "hfAZyE0t",
+        "url": "https://www.flashscore.com/team/goias/hfAZyE0t",
+        "score": "2"
+    },
+    "away": {
+        "id": "EV9L3kU4",
+        "url": "https://www.flashscore.com/team/fluminense/EV9L3kU4",
+        "score": "4"
+    },
+    "date": "07.10.2020 20:30",
+    "stadium": "Estádio da Serrinha (Goiania)",
+    "round": "14",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "42",
+            "away": "58"
+        },
+        "Goal Attempts": {
+            "home": "12",
+            "away": "10"
+        },
+        "Shots on Goal": {
+            "home": "3",
+            "away": "5"
+        },
+        "Shots off Goal": {
+            "home": "7",
+            "away": "3"
+        },
+        "Blocked Shots": {
+            "home": "2",
+            "away": "2"
+        },
+        "Free Kicks": {
+            "home": "16",
+            "away": "19"
+        },
+        "Corner Kicks": {
+            "home": "5",
+            "away": "4"
+        },
+        "Offsides": {
+            "home": "0",
+            "away": "4"
+        },
+        "Goalkeeper Saves": {
+            "home": "1",
+            "away": "1"
+        },
+        "Fouls": {
+            "home": "19",
+            "away": "15"
+        },
+        "Yellow Cards": {
+            "home": "3",
+            "away": "2"
+        },
+        "Total Passes": {
+            "home": "338",
+            "away": "470"
+        },
+        "Tackles": {
+            "home": "10",
+            "away": "12"
+        },
+        "Attacks": {
+            "home": "97",
+            "away": "92"
+        },
+        "Dangerous Attacks": {
+            "home": "43",
+            "away": "29"
+        }
+    }
+}

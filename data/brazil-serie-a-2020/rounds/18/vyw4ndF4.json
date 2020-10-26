@@ -1,0 +1,79 @@
+{
+    "id": "vyw4ndF4",
+    "home": {
+        "id": "p0JrJCV5",
+        "url": "https://www.flashscore.com/team/ceara/p0JrJCV5",
+        "score": "2"
+    },
+    "away": {
+        "id": "KGO4pUqO",
+        "url": "https://www.flashscore.com/team/coritiba/KGO4pUqO",
+        "score": "1"
+    },
+    "date": "24.10.2020 19:00",
+    "stadium": "Castelão (Fortaleza)",
+    "round": "18",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "37",
+            "away": "63"
+        },
+        "Goal Attempts": {
+            "home": "15",
+            "away": "15"
+        },
+        "Shots on Goal": {
+            "home": "4",
+            "away": "6"
+        },
+        "Shots off Goal": {
+            "home": "8",
+            "away": "6"
+        },
+        "Blocked Shots": {
+            "home": "3",
+            "away": "3"
+        },
+        "Free Kicks": {
+            "home": "11",
+            "away": "23"
+        },
+        "Corner Kicks": {
+            "home": "5",
+            "away": "7"
+        },
+        "Offsides": {
+            "home": "1",
+            "away": "1"
+        },
+        "Goalkeeper Saves": {
+            "home": "5",
+            "away": "2"
+        },
+        "Fouls": {
+            "home": "22",
+            "away": "12"
+        },
+        "Yellow Cards": {
+            "home": "3",
+            "away": "1"
+        },
+        "Total Passes": {
+            "home": "269",
+            "away": "480"
+        },
+        "Tackles": {
+            "home": "12",
+            "away": "9"
+        },
+        "Attacks": {
+            "home": "99",
+            "away": "133"
+        },
+        "Dangerous Attacks": {
+            "home": "52",
+            "away": "50"
+        }
+    }
+}

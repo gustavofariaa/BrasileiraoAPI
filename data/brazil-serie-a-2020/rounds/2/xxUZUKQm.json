@@ -1,0 +1,87 @@
+{
+    "id": "xxUZUKQm",
+    "home": {
+        "id": "8M0mP8nt",
+        "url": "https://www.flashscore.com/team/atletico-go/8M0mP8nt",
+        "score": "3"
+    },
+    "away": {
+        "id": "WjxY29qB",
+        "url": "https://www.flashscore.com/team/flamengo-rj/WjxY29qB",
+        "score": "0"
+    },
+    "date": "12.08.2020 20:30",
+    "stadium": "Estádio Olímpico Pedro Ludovico (Goiania)",
+    "round": "2",
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "35",
+            "away": "65"
+        },
+        "Goal Attempts": {
+            "home": "12",
+            "away": "7"
+        },
+        "Shots on Goal": {
+            "home": "7",
+            "away": "3"
+        },
+        "Shots off Goal": {
+            "home": "5",
+            "away": "4"
+        },
+        "Blocked Shots": {
+            "home": "1",
+            "away": "2"
+        },
+        "Free Kicks": {
+            "home": "19",
+            "away": "17"
+        },
+        "Corner Kicks": {
+            "home": "11",
+            "away": "5"
+        },
+        "Offsides": {
+            "home": "2",
+            "away": "1"
+        },
+        "Throw-in": {
+            "home": "17",
+            "away": "24"
+        },
+        "Goalkeeper Saves": {
+            "home": "3",
+            "away": "4"
+        },
+        "Fouls": {
+            "home": "15",
+            "away": "19"
+        },
+        "Red Cards": {
+            "home": "0",
+            "away": "1"
+        },
+        "Yellow Cards": {
+            "home": "1",
+            "away": "1"
+        },
+        "Total Passes": {
+            "home": "284",
+            "away": "555"
+        },
+        "Tackles": {
+            "home": "12",
+            "away": "16"
+        },
+        "Attacks": {
+            "home": "64",
+            "away": "126"
+        },
+        "Dangerous Attacks": {
+            "home": "64",
+            "away": "88"
+        }
+    }
+}
