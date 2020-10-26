@@ -11,9 +11,9 @@ scraping.collect()
 driver.quit()
 
 subprocess.call(['git', 'checkout', '-b', 'api'])
-subprocess.call(['git', 'checkout', 'api'])
-subprocess.call(['git', 'add', 'data/'])
+subprocess.call(['git', 'checkout', '-f', 'api'])
+subprocess.call(['git', 'add', '-f', 'data/'])
 date = datetime.now().strftime('%Y/%m/%d %H:%M:%S')
 commit_message = f':soccer: {date}'
 subprocess.call(['git', 'commit', '-m', f'{commit_message}'])
-subprocess.call(['git', 'push'])
+subprocess.call(['git', 'push', '-f'])
