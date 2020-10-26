@@ -81,6 +81,22 @@ class Scraping:
         round = round.split('- ')[1]
         round = re.search(r'\d+', round).group()
 
+        path = f'{self.__rounds_path}{round}/'
+        try: os.makedirs(path)
+        except: pass
+        path_data = f'{path}{match_id}.json'
+
+        try:
+            with open(path_data) as file:
+                match_data = json.load(file)
+                statistics = match_data['statistics'] 
+                status = match_data['status']
+                if not statistics:
+                    raise Exception('Empty')
+                return match_data
+        except:
+            pass
+
         date = self.__driver.find_element_by_css_selector('div#utime').text
 
         teams = self.__driver.find_elements_by_css_selector('div.tomyteams')
@@ -152,17 +168,18 @@ class Scraping:
         match_data['status'] = status
         match_data['statistics'] = statistics
 
-        path = f'{self.__rounds_path}{round}/'
-        try: os.makedirs(path)
-        except: pass
-        path_data = f'{path}{match_id}.json'
-
         with open(path_data, 'w', encoding='utf-8') as file:
             json.dump(match_data, file, ensure_ascii=False, indent=4)
 
         path_data = f'{path}round.json'
         with open(path_data, 'a', encoding='utf-8') as file:
             file.write(f'{match_id},')
+
+        if not statistics:
+            return match_data
+
+        self.get_team_data(home_id, home_url)
+        self.get_team_data(away_id, away_url)
 
         return match_data
 
@@ -211,18 +228,28 @@ class Scraping:
 
         players_image = []
         players_position = []
-        for url in players_url:
-            self.__driver.get(url)
-            
-            image = self.__driver.find_element_by_css_selector('div.teamHeader__logo').get_attribute('style')
-            image = image.replace('background-image: url("', 'https://www.flashscore.com')
-            image = image.replace('");', '')
+        for index, url in enumerate(players_url):
+            try:
+                path_data = f'{self.__players_images_path}{players_id[index]}.png'
+                with open(path_data) as file:
+                    pass
+                path_data = f'{self.__players_path}{players_id[index]}.json'
+                with open(path_data) as file:
+                    player_data = json.load(file)
+                    players_image.append(player_data['image'])
+                    players_position.append(player_data['position'])
+            except:
+                self.__driver.get(url)
+                
+                image = self.__driver.find_element_by_css_selector('div.teamHeader__logo').get_attribute('style')
+                image = image.replace('background-image: url("', 'https://www.flashscore.com')
+                image = image.replace('");', '')
 
-            position = self.__driver.find_element_by_css_selector('div.teamHeader__info--player-type-name').get_attribute('innerHTML')
-            position = position.split(' (<a')[0]
+                position = self.__driver.find_element_by_css_selector('div.teamHeader__info--player-type-name').get_attribute('innerHTML')
+                position = position.split(' (<a')[0]
 
-            players_image.append(image)
-            players_position.append(position)
+                players_image.append(image)
+                players_position.append(position)
 
         for index, player_id in enumerate(players_id):
             player_data = {}
@@ -253,12 +280,6 @@ class Scraping:
 
     def get_team_data(self, team_id, team_url):
         path_data = f'{self.__teams_path}{team_id}.json'
-        try:
-            with open(path_data) as file:
-                team_data = json.load(file)
-                return team_data
-        except:
-            pass
 
         url = team_url
         self.__driver.get(url)
@@ -291,15 +312,8 @@ class Scraping:
     def collect(self):
         matches_id = self.__get_matches_id()
         for match_id in matches_id:
-            match_data = self.get_match_data(match_id)
-
-            team_home_id = match_data['home']['id']
-            team_home_url = match_data['home']['url']
-            self.get_team_data(team_home_id, team_home_url)
-            
-            team_away_id = match_data['away']['id']
-            team_away_url = match_data['away']['url']
-            self.get_team_data(team_away_id, team_away_url)
+            self.get_match_data(match_id)
+            print(f'Collect {match_id}')
 
         path_data = f'{self.__path}data.json'
         timestamp = int(time.time())
