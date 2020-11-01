@@ -3,16 +3,81 @@
     "home": {
         "id": "42FbPIs2",
         "url": "https://www.flashscore.com/team/fortaleza/42FbPIs2",
-        "score": ""
+        "score": "0"
     },
     "away": {
         "id": "EV9L3kU4",
         "url": "https://www.flashscore.com/team/fluminense/EV9L3kU4",
-        "score": ""
+        "score": "1"
     },
-    "date": "",
-    "stadium": "",
+    "date": "31.10.2020 21:00",
+    "stadium": "Castelão (Fortaleza)",
     "round": "19",
-    "status": "",
-    "statistics": {}
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "44",
+            "away": "56"
+        },
+        "Goal Attempts": {
+            "home": "4",
+            "away": "11"
+        },
+        "Shots on Goal": {
+            "home": "1",
+            "away": "4"
+        },
+        "Shots off Goal": {
+            "home": "2",
+            "away": "4"
+        },
+        "Blocked Shots": {
+            "home": "1",
+            "away": "3"
+        },
+        "Free Kicks": {
+            "home": "19",
+            "away": "14"
+        },
+        "Corner Kicks": {
+            "home": "3",
+            "away": "7"
+        },
+        "Offsides": {
+            "home": "0",
+            "away": "1"
+        },
+        "Goalkeeper Saves": {
+            "home": "3",
+            "away": "1"
+        },
+        "Fouls": {
+            "home": "14",
+            "away": "18"
+        },
+        "Red Cards": {
+            "home": "1",
+            "away": "0"
+        },
+        "Yellow Cards": {
+            "home": "2",
+            "away": "1"
+        },
+        "Total Passes": {
+            "home": "386",
+            "away": "475"
+        },
+        "Tackles": {
+            "home": "16",
+            "away": "17"
+        },
+        "Attacks": {
+            "home": "81",
+            "away": "129"
+        },
+        "Dangerous Attacks": {
+            "home": "27",
+            "away": "56"
+        }
+    }
 }

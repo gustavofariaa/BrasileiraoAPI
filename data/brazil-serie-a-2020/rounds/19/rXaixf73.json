@@ -3,16 +3,77 @@
     "home": {
         "id": "KGO4pUqO",
         "url": "https://www.flashscore.com/team/coritiba/KGO4pUqO",
-        "score": ""
+        "score": "1"
     },
     "away": {
         "id": "8M0mP8nt",
         "url": "https://www.flashscore.com/team/atletico-go/8M0mP8nt",
-        "score": ""
+        "score": "0"
     },
-    "date": "",
-    "stadium": "",
+    "date": "31.10.2020 19:00",
+    "stadium": "Estádio Couto Pereira (Curitiba)",
     "round": "19",
-    "status": "",
-    "statistics": {}
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "30",
+            "away": "70"
+        },
+        "Goal Attempts": {
+            "home": "5",
+            "away": "14"
+        },
+        "Shots on Goal": {
+            "home": "1",
+            "away": "5"
+        },
+        "Shots off Goal": {
+            "home": "3",
+            "away": "4"
+        },
+        "Blocked Shots": {
+            "home": "1",
+            "away": "5"
+        },
+        "Free Kicks": {
+            "home": "18",
+            "away": "22"
+        },
+        "Corner Kicks": {
+            "home": "0",
+            "away": "12"
+        },
+        "Offsides": {
+            "home": "0",
+            "away": "0"
+        },
+        "Goalkeeper Saves": {
+            "home": "5",
+            "away": "0"
+        },
+        "Fouls": {
+            "home": "22",
+            "away": "18"
+        },
+        "Yellow Cards": {
+            "home": "2",
+            "away": "5"
+        },
+        "Total Passes": {
+            "home": "249",
+            "away": "552"
+        },
+        "Tackles": {
+            "home": "21",
+            "away": "11"
+        },
+        "Attacks": {
+            "home": "73",
+            "away": "142"
+        },
+        "Dangerous Attacks": {
+            "home": "17",
+            "away": "51"
+        }
+    }
 }

@@ -3,16 +3,81 @@
     "home": {
         "id": "QBGfQbSe",
         "url": "https://www.flashscore.com/team/corinthians/QBGfQbSe",
-        "score": ""
+        "score": "1"
     },
     "away": {
         "id": "tSCiHj0I",
         "url": "https://www.flashscore.com/team/internacional/tSCiHj0I",
-        "score": ""
+        "score": "0"
     },
-    "date": "",
-    "stadium": "",
+    "date": "31.10.2020 19:00",
+    "stadium": "Neo Quimica Arena (Sao Paulo)",
     "round": "19",
-    "status": "",
-    "statistics": {}
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "35",
+            "away": "65"
+        },
+        "Goal Attempts": {
+            "home": "8",
+            "away": "7"
+        },
+        "Shots on Goal": {
+            "home": "3",
+            "away": "0"
+        },
+        "Shots off Goal": {
+            "home": "4",
+            "away": "4"
+        },
+        "Blocked Shots": {
+            "home": "1",
+            "away": "3"
+        },
+        "Free Kicks": {
+            "home": "16",
+            "away": "20"
+        },
+        "Corner Kicks": {
+            "home": "2",
+            "away": "4"
+        },
+        "Offsides": {
+            "home": "2",
+            "away": "2"
+        },
+        "Goalkeeper Saves": {
+            "home": "0",
+            "away": "2"
+        },
+        "Fouls": {
+            "home": "17",
+            "away": "12"
+        },
+        "Red Cards": {
+            "home": "0",
+            "away": "1"
+        },
+        "Yellow Cards": {
+            "home": "4",
+            "away": "3"
+        },
+        "Total Passes": {
+            "home": "315",
+            "away": "579"
+        },
+        "Tackles": {
+            "home": "15",
+            "away": "18"
+        },
+        "Attacks": {
+            "home": "113",
+            "away": "153"
+        },
+        "Dangerous Attacks": {
+            "home": "41",
+            "away": "67"
+        }
+    }
 }
