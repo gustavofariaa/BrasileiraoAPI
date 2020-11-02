@@ -88,9 +88,13 @@ class Scraping:
         path = f'{self.__rounds_path}{round}/'
         try: os.makedirs(path)
         except: pass
-        path_data = f'{path}{match_id}.json'
+
+        path_data_round = f'{path}round.json'
+        with open(path_data_round, 'a', encoding='utf-8') as file:
+            file.write(f'{match_id},')
 
         try:
+            path_data = f'{path}{match_id}.json'
             with open(path_data) as file:
                 match_data = json.load(file)
                 statistics = match_data['statistics'] 
@@ -174,10 +178,6 @@ class Scraping:
 
         with open(path_data, 'w', encoding='utf-8') as file:
             json.dump(match_data, file, ensure_ascii=False, indent=4)
-
-        path_data = f'{path}round.json'
-        with open(path_data, 'a', encoding='utf-8') as file:
-            file.write(f'{match_id},')
 
         if not statistics:
             return match_data

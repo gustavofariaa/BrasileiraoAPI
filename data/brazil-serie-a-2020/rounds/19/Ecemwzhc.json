@@ -3,16 +3,81 @@
     "home": {
         "id": "KIBeGAFO",
         "url": "https://www.flashscore.com/team/sport-recife/KIBeGAFO",
-        "score": ""
+        "score": "1"
     },
     "away": {
         "id": "UoAxb1Tq",
         "url": "https://www.flashscore.com/team/athletico-pr/UoAxb1Tq",
-        "score": ""
+        "score": "0"
     },
     "date": "01.11.2020 16:00",
     "stadium": "Estádio Ilha do Retiro (Recife)",
     "round": "19",
-    "status": "",
-    "statistics": {}
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "41",
+            "away": "59"
+        },
+        "Goal Attempts": {
+            "home": "11",
+            "away": "12"
+        },
+        "Shots on Goal": {
+            "home": "3",
+            "away": "2"
+        },
+        "Shots off Goal": {
+            "home": "4",
+            "away": "7"
+        },
+        "Blocked Shots": {
+            "home": "4",
+            "away": "3"
+        },
+        "Free Kicks": {
+            "home": "17",
+            "away": "19"
+        },
+        "Corner Kicks": {
+            "home": "2",
+            "away": "5"
+        },
+        "Offsides": {
+            "home": "3",
+            "away": "3"
+        },
+        "Goalkeeper Saves": {
+            "home": "2",
+            "away": "2"
+        },
+        "Fouls": {
+            "home": "17",
+            "away": "15"
+        },
+        "Red Cards": {
+            "home": "1",
+            "away": "0"
+        },
+        "Yellow Cards": {
+            "home": "2",
+            "away": "1"
+        },
+        "Total Passes": {
+            "home": "340",
+            "away": "476"
+        },
+        "Tackles": {
+            "home": "18",
+            "away": "8"
+        },
+        "Attacks": {
+            "home": "93",
+            "away": "127"
+        },
+        "Dangerous Attacks": {
+            "home": "43",
+            "away": "48"
+        }
+    }
 }

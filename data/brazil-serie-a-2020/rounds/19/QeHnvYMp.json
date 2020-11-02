@@ -3,16 +3,77 @@
     "home": {
         "id": "n3QdnjFB",
         "url": "https://www.flashscore.com/team/santos/n3QdnjFB",
-        "score": ""
+        "score": "3"
     },
     "away": {
         "id": "UeD7XtzM",
         "url": "https://www.flashscore.com/team/bahia/UeD7XtzM",
-        "score": ""
+        "score": "1"
     },
     "date": "01.11.2020 18:15",
     "stadium": "Estadio Vila Belmiro (Santos)",
     "round": "19",
-    "status": "",
-    "statistics": {}
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "56",
+            "away": "44"
+        },
+        "Goal Attempts": {
+            "home": "9",
+            "away": "21"
+        },
+        "Shots on Goal": {
+            "home": "6",
+            "away": "6"
+        },
+        "Shots off Goal": {
+            "home": "2",
+            "away": "7"
+        },
+        "Blocked Shots": {
+            "home": "1",
+            "away": "8"
+        },
+        "Free Kicks": {
+            "home": "15",
+            "away": "18"
+        },
+        "Corner Kicks": {
+            "home": "6",
+            "away": "9"
+        },
+        "Offsides": {
+            "home": "2",
+            "away": "3"
+        },
+        "Goalkeeper Saves": {
+            "home": "5",
+            "away": "3"
+        },
+        "Fouls": {
+            "home": "19",
+            "away": "13"
+        },
+        "Yellow Cards": {
+            "home": "4",
+            "away": "2"
+        },
+        "Total Passes": {
+            "home": "455",
+            "away": "344"
+        },
+        "Tackles": {
+            "home": "16",
+            "away": "19"
+        },
+        "Attacks": {
+            "home": "109",
+            "away": "113"
+        },
+        "Dangerous Attacks": {
+            "home": "48",
+            "away": "39"
+        }
+    }
 }

@@ -1,11 +1,11 @@
 from flashscore import Scraping
 from selenium import webdriver
-import subprocess
 from datetime import datetime
+import subprocess
 
 start_time = datetime.now()
 
-driver = webdriver.Chrome('chromedriver')
+driver = webdriver.Chrome('./chromedriver')
 
 scraping = Scraping(driver, 'brazil', 'serie-a', 2020)
 scraping.collect()

@@ -3,16 +3,77 @@
     "home": {
         "id": "hfAZyE0t",
         "url": "https://www.flashscore.com/team/goias/hfAZyE0t",
-        "score": ""
+        "score": "1"
     },
     "away": {
         "id": "2RABlYFn",
         "url": "https://www.flashscore.com/team/vasco/2RABlYFn",
-        "score": ""
+        "score": "1"
     },
-    "date": "",
+    "date": "01.11.2020 20:30",
     "stadium": "Estádio da Serrinha (Goiania)",
     "round": "19",
-    "status": "",
-    "statistics": {}
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "46",
+            "away": "54"
+        },
+        "Goal Attempts": {
+            "home": "19",
+            "away": "7"
+        },
+        "Shots on Goal": {
+            "home": "10",
+            "away": "1"
+        },
+        "Shots off Goal": {
+            "home": "4",
+            "away": "2"
+        },
+        "Blocked Shots": {
+            "home": "5",
+            "away": "4"
+        },
+        "Free Kicks": {
+            "home": "25",
+            "away": "18"
+        },
+        "Corner Kicks": {
+            "home": "2",
+            "away": "6"
+        },
+        "Offsides": {
+            "home": "2",
+            "away": "6"
+        },
+        "Goalkeeper Saves": {
+            "home": "0",
+            "away": "9"
+        },
+        "Fouls": {
+            "home": "16",
+            "away": "19"
+        },
+        "Yellow Cards": {
+            "home": "5",
+            "away": "6"
+        },
+        "Total Passes": {
+            "home": "354",
+            "away": "399"
+        },
+        "Tackles": {
+            "home": "11",
+            "away": "17"
+        },
+        "Attacks": {
+            "home": "99",
+            "away": "109"
+        },
+        "Dangerous Attacks": {
+            "home": "44",
+            "away": "54"
+        }
+    }
 }
