@@ -3,16 +3,77 @@
     "home": {
         "id": "E1EFmhVh",
         "url": "https://www.flashscore.com/team/gremio/E1EFmhVh",
-        "score": ""
+        "score": "2"
     },
     "away": {
         "id": "jwKvKhGa",
         "url": "https://www.flashscore.com/team/bragantino/jwKvKhGa",
-        "score": ""
+        "score": "1"
     },
-    "date": "",
+    "date": "02.11.2020 20:00",
     "stadium": "Arena do Grêmio (Porto Alegre)",
     "round": "19",
-    "status": "",
-    "statistics": {}
+    "status": "Finished",
+    "statistics": {
+        "Ball Possession": {
+            "home": "56",
+            "away": "44"
+        },
+        "Goal Attempts": {
+            "home": "11",
+            "away": "13"
+        },
+        "Shots on Goal": {
+            "home": "3",
+            "away": "7"
+        },
+        "Shots off Goal": {
+            "home": "5",
+            "away": "4"
+        },
+        "Blocked Shots": {
+            "home": "3",
+            "away": "2"
+        },
+        "Free Kicks": {
+            "home": "12",
+            "away": "15"
+        },
+        "Corner Kicks": {
+            "home": "3",
+            "away": "4"
+        },
+        "Offsides": {
+            "home": "1",
+            "away": "0"
+        },
+        "Goalkeeper Saves": {
+            "home": "6",
+            "away": "1"
+        },
+        "Fouls": {
+            "home": "13",
+            "away": "12"
+        },
+        "Yellow Cards": {
+            "home": "1",
+            "away": "1"
+        },
+        "Total Passes": {
+            "home": "576",
+            "away": "455"
+        },
+        "Tackles": {
+            "home": "20",
+            "away": "15"
+        },
+        "Attacks": {
+            "home": "136",
+            "away": "114"
+        },
+        "Dangerous Attacks": {
+            "home": "49",
+            "away": "40"
+        }
+    }
 }
